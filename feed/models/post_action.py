@@ -8,7 +8,7 @@ class ActionChoices(models.TextChoices):
     DISLIKE = 'DL', ('Dislike')
 
 
-class PostActionMafnager(models.Manager):
+class PostActionManager(models.Manager):
     def create(self, **obj_data):
         with transaction.atomic():
             self.incrementAction(self.post, obj_data["action"])
