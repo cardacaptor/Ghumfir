@@ -7,6 +7,7 @@ class ActionChoices(models.TextChoices):
     LIKE = 'LK', ('Like')
     DISLIKE = 'DL', ('Dislike')
 
+
 class PostActionManager(models.Manager):
     def create(self, **obj_data):
         with transaction.atomic():
