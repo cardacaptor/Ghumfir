@@ -16,5 +16,6 @@ from feed.views.feed import *
 
 urlpatterns = [
     path('', FeedView.as_view()),
+    
     # path('action', LikeActionView.as_view())
 ]
