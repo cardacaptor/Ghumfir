@@ -8,6 +8,7 @@ from rest_framework.permissions import *
 from rest_framework.generics import *
 from django.contrib.auth.decorators import *
 from drf_spectacular.utils import extend_schema
+from feed.models.post_action import ActionChoices, PostAction
 
 from ghumfir.utils.exceptions import MyValidationError
 

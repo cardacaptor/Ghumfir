@@ -11,6 +11,12 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
+from recommendation.content_based import ContentBasedRecommendation
+from scraper.scraper import Scraper
+
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ghumfir.settings')
 
 application = get_wsgi_application()
+
+# ContentBasedRecommendation() 
+Scraper()
