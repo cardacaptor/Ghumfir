@@ -33,9 +33,11 @@ ALLOWED_HOSTS = ["*"]
 INSTALLED_APPS = [
     #my apps
     "authentication",
+    "ASD",
     "chatbot",
-    "feed",
 
+    "feed",
+"ASD",
     #third_party_packages
     "rest_framework",
     "drf_spectacular",
