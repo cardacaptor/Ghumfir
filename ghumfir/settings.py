@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     "feed",
     "recommendation",
     "scraper",
-    "feed",
     
     #third_party_packages
     "rest_framework",
