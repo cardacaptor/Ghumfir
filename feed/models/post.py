@@ -1,11 +1,10 @@
 from django.db import models
 
 class Post(models.Model):
-    caption = models.TextField()
-    address = models.TextField()
-    url = models.TextField()
-    latitude = models.FloatField()
-    longitude = models.FloatField()
+    caption = models.TextField(null = True)
+    url = models.ImageField(null = True)
+    price = models.FloatField(null = True)
+    duration = models.IntegerField(null = True)
 
     number_of_likes = models.IntegerField(default=0)
     number_of_dislikes = models.IntegerField(default=0)
@@ -18,4 +17,12 @@ class Post(models.Model):
             "latitude":self.latitude, 
             "longitude":self.longitude
             })
+        
+class Tag(models.Model):
+    key = models.TextField()
     
+class PostTag(models.Model):
+    value = models.TextField()
+    post = models.ForeignKey(Post,on_delete=models.CASCADE)
+    tag = models.ForeignKey(Tag,on_delete=models.CASCADE)
+

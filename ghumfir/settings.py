@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "feed",
     "recommendation",
     "scraper",
+    "seeder",
     
     #third_party_packages
     "rest_framework",

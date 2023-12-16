@@ -13,10 +13,14 @@ from django.core.wsgi import get_wsgi_application
 
 from recommendation.content_based import ContentBasedRecommendation
 from scraper.scraper import Scraper
+from seeder.generate_from_csv import GenerateFromCSV
+from seeder.random_data_feed import RandomDataFeed
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ghumfir.settings')
 
 application = get_wsgi_application()
 
-# ContentBasedRecommendation() 
-Scraper()
+ContentBasedRecommendation() 
+# Scraper(RandomDataFeed()).generateOrLoad()
+Scraper(GenerateFromCSV()).generateOrLoad()
+# RandomDataFeed().generate()

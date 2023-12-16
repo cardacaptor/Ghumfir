@@ -5,11 +5,34 @@ from ghumfir.utils.exceptions import MyConfigurationError
 from scraper.interface import ScraperI
 import requests
 
+from seeder.interface import Seeder
+
 _base_url = "https://www.travelsewa.com/"
 class Scraper(ScraperI):
+    rowKeys = ["name", "price", "url", "destination", "duration", "aHref", "hrefTags", "hotel", "flight"]
     #Scapper configuration
-    csv_path = str(os.path.join(BASE_DIR, "scraper-output", "output.csv"))
+    csv_path = str(os.path.join(BASE_DIR,"scraper", "scraper-output", "output.csv"))
     override = False
+    
+    def __init__(self, seeder):
+        if(not issubclass(type(seeder), Seeder)):
+            raise MyConfigurationError("Instance passed through Scraper must be a subclass of Seeder")
+        self.seeder = seeder
+            
+    def generateOrLoad(self):
+        print("\n-----------------SCRAPER--------------")
+        if(os.path.isfile(self.csv_path)):
+            self.log("Csv file already exists")
+            if(self.override):
+                self.log("Deleting")
+                os.remove(self.csv_path)
+                return self.generateOrLoad()
+        else:
+            self.log(self.generate_csv())
+        self.dataset = open(file = self.csv_path)
+        self.log("Opening csv file: {}".format(self.csv_path))
+        print("-----------------------------------\n")
+        self.seeder.seed(self.dataset)
     
     region_urls =  [ 
              (_base_url + i) for i in [
@@ -54,16 +77,6 @@ class Scraper(ScraperI):
     def log(self, obj):
         print("   scraper:", end =" ")
         print(obj)
-        
-    def __init__(self):    
-        print("\n\n-----------------SCRAPER--------------")
-        if(os.path.isfile(self.csv_path)):
-            self.log("Csv file already exists")
-        else:
-            self.log(self.generate_csv())
-        print("---------------SCRAPER END--------------\n\n")
-    
-    
     
     def generate_csv(self):
         aggregate = []
@@ -198,12 +211,15 @@ class Scraper(ScraperI):
         if(key not in obj):
             return ""
         if isinstance(obj[key], list):
-            return "|".join(obj[key])
+            listOfStr = obj[key]
+            if len(obj[key]) != 0 and isinstance(obj[key][0], list):
+                listOfStr = [":".join(i) for i in obj[key]]
+            return "|".join(listOfStr)
         return str(obj[key])
         
     def serializer(self, obj):
         if(obj is None):
-            return ["name", "price", "url", "destination", "duration", "aHref", "hrefTags", "hotel", "flight"] 
-        return [self.access(obj, i) for i in ["name", "price", "url", "destination", "duration", "aHref", "hrefTags", "hotel", "flight"]]
+            return self.rowKeys 
+        return [self.access(obj, i) for i in self.rowKeys]
         
     
