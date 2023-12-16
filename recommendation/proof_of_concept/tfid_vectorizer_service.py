@@ -2,9 +2,17 @@ from .tfid_vectorizer_algorithm import TFIDFVectorizerAlgorithm
 
 
 class TfidVectorizerService:
-        
+    def initializeVectorizer(self, corpus):
+        self.vectorizer = TFIDFVectorizerAlgorithm(corpus)
+        return self.vectorizer.tfidf_matrix
+    
+    def get_corpus_by_index(self, index):
+        return self.vectorizer.corpus[index]
+    
+    def sort_rest(self, index):
+        return self.vectorizer.sort_corpus_by_similarity_to_user_doc(index)
+    
     def testVectorizer(self):
-            
         corpus = ["This is the first document.","This is the new document.", "This document is the second document.", "And this is the third one."]
 
         # Create an instance of TFIDFVectorizer

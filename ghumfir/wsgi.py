@@ -20,6 +20,6 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ghumfir.settings')
 
 application = get_wsgi_application()
 
-ContentBasedRecommendation() 
 # Scraper(RandomDataFeed()).generateOrLoad()
 Scraper(GenerateFromCSV()).generateOrLoad()
+recommendation = ContentBasedRecommendation() 

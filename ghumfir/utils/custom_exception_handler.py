@@ -11,7 +11,7 @@ def log(exc):
 
 def custom_exception_handler(exc, context):
     if(isinstance(exc, NotAuthenticated)):
-        exc = MyUnAuthenticatedError(exc)
+        exc = MyUnAuthenticatedError(str(exc))
         
     if(not issubclass(type(exc), MyExceptions) or isinstance(exc, MyConfigurationError)):
         log(exc)

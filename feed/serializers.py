@@ -10,7 +10,8 @@ class PostSerializer(serializers.ModelSerializer):
 
 class Pagination(serializers.Serializer):
     page = serializers.IntegerField(default = 1)
-    size = serializers.IntegerField(default = 1)
+    size = serializers.IntegerField(default = 10)
+    liked =  serializers.IntegerField(default = 1)
 
 
 class LikeActionSerializer(serializers.Serializer):
