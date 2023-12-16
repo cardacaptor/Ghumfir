@@ -14,8 +14,11 @@ class Post(models.Model):
         return str({
             "caption":self.caption, 
             "url":self.url, 
-            "latitude":self.latitude, 
-            "longitude":self.longitude
+            "price":self.price, 
+            "duration":self.duration,
+            "number_of_likes":self.number_of_likes, 
+            "number_of_dislikes":self.number_of_dislikes, 
+            "number_of_views":self.number_of_views
             })
         
 class Tag(models.Model):
