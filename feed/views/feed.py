@@ -18,7 +18,6 @@ from django.contrib.auth import *
 from rest_framework.authtoken.models import Token
 from ..models import *
 
-from drf_yasg.utils import swagger_auto_schema
 #pagination methodologies
 #cursor based
 #offset based
