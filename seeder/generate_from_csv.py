@@ -1,5 +1,3 @@
-from feed.models.post import Post
-from scraper.scraper import Scraper
 from seeder.interface import Seeder
 from seeder.preprocess import Preprocess
 

@@ -1,6 +1,6 @@
 from feed.models.post import Post
 from recommendation.interface import RecommendationI
-from recommendation.proof_of_concept.tfid_vectorizer_service import TfidVectorizerService
+from recommendation.tfid_vectorizer_service import TfidVectorizerService
 
     
 class ContentBasedRecommendation(RecommendationI):
