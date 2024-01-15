@@ -11,8 +11,11 @@ class PostSerializer(serializers.ModelSerializer):
 class Pagination(serializers.Serializer):
     page = serializers.IntegerField(default = 1)
     size = serializers.IntegerField(default = 10)
-    liked =  serializers.IntegerField(default = 1)
 
+class PaginationWithSearch(serializers.Serializer):
+    page = serializers.IntegerField(default = 1)
+    size = serializers.IntegerField(default = 10)
+    search = serializers.CharField()
 
-class LikeActionSerializer(serializers.Serializer):
+class PostActionSerializer(serializers.Serializer):
     postId = serializers.IntegerField()

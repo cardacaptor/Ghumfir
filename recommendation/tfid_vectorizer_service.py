@@ -1,3 +1,4 @@
+from feed.models.post import Post
 from recommendation.models import Corpus
 from .tfid_vectorizer_algorithm import TFIDFVectorizerAlgorithm
 
@@ -14,7 +15,7 @@ class TfidVectorizerService:
         return self.vectorizer.idVsCorpus[index]
     
     def sort_rest(self, post_id):
-        return [i.post for i in self.vectorizer.sort_all_corpus(post_id)]
+        return [Post.objects.get(id = i.post.id) for i in self.vectorizer.sort_all_corpus(post_id)]
     
     def testVectorizer(self):
         corpus = [["This is the first document.", 1],["This is the new document.", 2],[ "document", 3],[ "This document is the second document.", 4],[ "And this is the third one.", 5]]

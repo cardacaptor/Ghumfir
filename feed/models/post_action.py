@@ -9,16 +9,29 @@ class ActionChoices(models.TextChoices):
 
 
 class PostActionManager(models.Manager):
-    def create(self, **obj_data):
+    def maybe_create(self, **obj_data):
         with transaction.atomic():
-            self.incrementAction(self.post, obj_data["action"])
-            return super().create(**obj_data)
+            data_post = obj_data["post"]
+            data_action = obj_data["action"]
+            data_user = obj_data["user"]
+            action = PostAction.objects.filter(post = data_post, user = data_user).first()
+            if action != None:
+                self.incrementAction(data_post, action.action, -1)
+                action.delete()
+            if action == None or action.action != data_action:
+                self.incrementAction(data_post, data_action, 1)
+                return self.create(**obj_data)
+            return None
         
-    def incrementAction(self, post, action):
+        
+    def create(self, **obj_data):
+        return super().create(**obj_data)
+        
+    def incrementAction(self, post, action, incrementBy):
         if action == ActionChoices.LIKE :
-            post.number_of_likes += 1
+            post.number_of_likes += incrementBy
         elif action == ActionChoices.DISLIKE :
-            post.number_of_dislikes += 1
+            post.number_of_dislikes += incrementBy
         post.save()
         
     def bulk_create(self, objs, batch_size=None, ignore_conflicts=False):

@@ -12,7 +12,7 @@ from django.contrib.auth import *
 from ..models import *
 
 # Create your views here.
-class LikeActionView(GenericAPIView):
+class DislikeActionView(GenericAPIView):
     permission_classes = [IsAuthenticated]
     serializer_class = PostActionSerializer
 
@@ -24,11 +24,11 @@ class LikeActionView(GenericAPIView):
           action = PostAction.objects.maybe_create(
             post = post, 
             user = request.user, 
-            action = ActionChoices.LIKE
+            action = ActionChoices.DISLIKE
           )
-          message = "Feed post liked successfully"
+          message = "Feed post disliked successfully"
           if action == None:
-            message = "Feed post un liked successfully"
+            message = "Feed post un disliked successfully"
           return Response({ 
                         "status_code": 201,
                         "message": message
