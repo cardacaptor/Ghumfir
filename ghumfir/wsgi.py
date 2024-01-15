@@ -11,6 +11,7 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 from recommendation.content_based import ContentBasedRecommendation
+from recommendation.models import Corpus
 
 from scraper.scraper import Scraper
 from seeder.generate_from_csv import GenerateFromCSV

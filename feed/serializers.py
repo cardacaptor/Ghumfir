@@ -6,7 +6,7 @@ from feed.models.post import Post
 class PostSerializer(serializers.ModelSerializer):
     class Meta:
         model = Post
-        fields = ['id', 'caption', 'address', 'url', "latitude", "longitude"]
+        fields = ['id', 'caption', 'url', 'price', "duration", "number_of_likes", "number_of_dislikes", "number_of_views"]
 
 class Pagination(serializers.Serializer):
     page = serializers.IntegerField(default = 1)

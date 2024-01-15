@@ -2,30 +2,32 @@ import math
 from collections import Counter
 from ghumfir.utils.exceptions import MyConfigurationError
 from recommendation import stop_words
+from recommendation.models import CorpusSimilarity
 
 class TFIDFVectorizerAlgorithm():
     
     def __init__(self, corpus):
+        self.idVsCorpus = {document.id: document for document in corpus}
         self.corpus = corpus
-        self.tfidf_matrix, self.vocabulary = self.fit_transform()
+        self.vocabulary = self.fit_transform()
         
         
-    def sort_all_corpus(self, user_doc_index):
+    def sort_all_corpus(self, post_id):
         #confirming the index is within range
-        if not (0 <= user_doc_index < len(self.corpus)):
-            raise MyConfigurationError("Invalid user_doc_index.")
-        user_doc_tfidf = self.tfidf_matrix[user_doc_index]
+        if post_id not in self.idVsCorpus:
+            raise MyConfigurationError("Invalid post_id.")
+        user_corpus = self.idVsCorpus[post_id]
 
         #generating similarity scores for every corpuses
         similarity_scores = []
-        for doc_tfidf in self.tfidf_matrix:
-            similarity = self.cosine_similarity(user_doc_tfidf, doc_tfidf) 
-            similarity_scores.append(similarity)
+        for corpus in self.corpus:
+            similarity = self.cosine_similarity(user_corpus.tfidf_matrix, corpus.tfidf_matrix) 
+            similarity_scores.append(CorpusSimilarity(corpus, similarity))
 
         #sorting corpus based on similarity scores but only returning corpuses 
-        corpus_with_score = [[similarity_scores[i], self.corpus[i]] for i in range(len(self.corpus))]
-        sorted_corpus_with_score = sorted(corpus_with_score, key=lambda x: x[0], reverse=True)
-        sorted_corpus_without_score = [corpus for score, corpus in sorted_corpus_with_score]
+        sorted_similarity_scores = sorted(similarity_scores, key=lambda x: x.similarity, reverse=True)
+        sorted_corpus_without_score = [corpusSimilarity.corpus for corpusSimilarity in sorted_similarity_scores]
+        
         return sorted_corpus_without_score
     
     
@@ -38,7 +40,7 @@ class TFIDFVectorizerAlgorithm():
         return tokens
 
     def calculate_tf(self, document):
-        tokens = self.tokenize(document)
+        tokens = self.tokenize(document.token_text)
         
         # calculate Term Frequency for every document
         tf_counts = {}
@@ -57,7 +59,7 @@ class TFIDFVectorizerAlgorithm():
 
         # counting and adding 1 to prevent division by zero
         for document in self.corpus:
-            tokens = set(self.tokenize(document))
+            tokens = set(self.tokenize(document.token_text))
             for token in tokens:
                 term_document_count[token] = term_document_count.get(token, 0) + 1
 
@@ -67,27 +69,24 @@ class TFIDFVectorizerAlgorithm():
 
     def fit_transform(self):
         # calculate TF-IDF matrix for a given corpus
-        tfidf_matrix = []
         idf = self.calculate_idf()
 
         for document in self.corpus:
             tf = self.calculate_tf(document)
             tfidf_vector = {term: tf[term] * idf[term] for term in tf}
-            tfidf_matrix.append(tfidf_vector)
+            document.tfidf_vector = tfidf_vector
             
         #complete set of vocabulary
         vocabulary = set()
-        for tfidf_vector in tfidf_matrix:
-            for term in tfidf_vector:
+        for corpus in self.corpus:
+            for term in corpus.tfidf_vector:
                 vocabulary.add(term)
 
         #generating matrix list
-        tfidf_matrix_list = [
-            {term: tfidf_vector.get(term, 0) for term in vocabulary}
-            for tfidf_vector in tfidf_matrix
-        ]
+        for corpus in self.corpus:
+            corpus.tfidf_matrix = {term: corpus.tfidf_vector.get(term, 0) for term in vocabulary}
 
-        return tfidf_matrix_list, list(vocabulary)
+        return list(vocabulary)
 
     
     # ------------------------Cosine similarity------------------------------------------
