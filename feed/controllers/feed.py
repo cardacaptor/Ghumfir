@@ -3,6 +3,8 @@ from rest_framework.decorators import *
 from rest_framework.permissions import * 
 from rest_framework.generics import *
 from django.contrib.auth.decorators import *
+from feed.model_serializers.post_serializer import PostSerializer
+from ghumfir.serializers.pagination_serializer import Pagination
 
 from ghumfir.utils.exceptions import MyValidationError
 import recommendation
@@ -21,14 +23,14 @@ from ghumfir.wsgi import recommendation
 # Create your views here.
 class FeedView(GenericAPIView):
     permission_classes = [IsAuthenticated]
-    serializer_class = Pagination
     
-    def post(self, request, *args, **kwargs):
-        pagination  = Pagination(data = request.data)
+    def get(self, request, *args, **kwargs):
+        pagination  = Pagination(data = kwargs)
         isValid = pagination.is_valid()
         if isValid:
-            start = (pagination.data["page"] - 1) * pagination.data["size"]
-            end = start + pagination.data["size"]
+            size = 3
+            start = (pagination.data["page"] - 1) * size
+            end = start + size
             last_activity = recommendation.get_corpus_by_index(request.user)
             posts =  recommendation.sort_rest(request.user)
             paginated_posts = PostSerializer(posts[start+1:end+1], many = True).data

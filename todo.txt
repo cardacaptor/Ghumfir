@@ -2,11 +2,12 @@ Chat
 fetch messages of the user with pagination
 send message and get reply from the bot
 
-Search
-Get search posts pagination
-
 Recommendation
-Get recommended posts pagination
+Should not be viewed again (use offset id)
 
-Actions
-Like and dislike api
+Similar restaurants api
+Destination categories api
+Get posts by desitination category api
+
+multiple word search join using %20 to single word
+where are the tags for posts?

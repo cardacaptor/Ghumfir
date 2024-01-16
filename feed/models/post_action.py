@@ -41,8 +41,8 @@ class PostActionManager(models.Manager):
             return super().bulk_create(objs, batch_size, ignore_conflicts) 
 
 class PostAction(models.Model):
-    user = models.ForeignKey(User,on_delete=models.CASCADE)
-    post = models.ForeignKey(Post,on_delete=models.CASCADE)
+    user = models.ForeignKey(User,on_delete=models.CASCADE, related_name='actor')
+    post = models.ForeignKey(Post,on_delete=models.CASCADE, related_name='actions')
     action = models.TextField(
         choices= ActionChoices.choices,
     )

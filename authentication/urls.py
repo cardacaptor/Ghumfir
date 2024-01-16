@@ -2,7 +2,7 @@
 from django.contrib import admin
 from django.urls import path
 
-from authentication.views import *
+from authentication.controllers import *
 
 
 urlpatterns = [

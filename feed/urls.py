@@ -1,11 +1,11 @@
 
 from django.contrib import admin
 from django.urls import path
-from feed.views.dislike_action import DislikeActionView
+from feed.controllers.dislike_action import DislikeActionView
 
-from feed.views.feed import *
-from feed.views.like_action import LikeActionView
-from feed.views.search import SearchView
+from feed.controllers.feed import *
+from feed.controllers.like_action import LikeActionView
+from feed.controllers.search import SearchView
 
 # WHAT APIS DO YOU NEED
 # get - > feed/recommended/ -> List<Post>
@@ -17,9 +17,9 @@ from feed.views.search import SearchView
 # post - > feed/recommended/:id
 
 urlpatterns = [
-    path('', FeedView.as_view()),
-    path('action/like', LikeActionView.as_view()),
-    path('action/dislike', DislikeActionView.as_view()),
-    path('search', SearchView.as_view()),
+    path('<int:page>', FeedView.as_view(),),
+    path('<int:post_id>/like', LikeActionView.as_view()),
+    path('<int:post_id>/dislike', DislikeActionView.as_view()),
+    path('<int:page>/<str:search>', SearchView.as_view()),
     
 ]
