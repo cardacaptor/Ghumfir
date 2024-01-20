@@ -13,8 +13,7 @@ from ..serializers import *
 from django.contrib.auth import *
 from ..models import *
 
-# Create your views here.
-class LikeActionView(GenericAPIView):
+class LikeActionController(GenericAPIView):
     permission_classes = [IsAuthenticated]
 
     def post(self, request, *args, **kwargs): 

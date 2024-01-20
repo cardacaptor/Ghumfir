@@ -3,11 +3,6 @@ from rest_framework import serializers
 from django.contrib.auth.models import User
 from authentication.validators.user_validator import UserValidatorBasic
 
-class UserSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = User
-        fields = ['id', 'username', 'email']
-
 class SignUpSerializer(serializers.Serializer):
     
     validator = UserValidatorBasic()

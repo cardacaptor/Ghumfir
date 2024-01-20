@@ -14,7 +14,7 @@ from django.contrib.auth import *
 from ..models import *
 
 # Create your views here.
-class DislikeActionView(GenericAPIView):
+class DislikeActionController(GenericAPIView):
     permission_classes = [IsAuthenticated]
 
     def post(self, request, *args, **kwargs): 

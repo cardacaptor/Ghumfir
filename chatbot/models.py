@@ -1,3 +1,16 @@
 from django.db import models
+from django.contrib.auth.models import User
 
-# Create your models here.
+from feed.models.post import Post
+
+class ChatMessage(models.Model):
+    isBotMessage = models.BooleanField()
+    message = models.TextField()
+    user = models.ForeignKey(User,on_delete=models.CASCADE, related_name='creator', null = True)
+    created = models.DateTimeField(auto_now_add = True)
+    
+class MessagePost(models.Model):
+    message = models.ForeignKey(ChatMessage, on_delete=models.CASCADE, related_name='posts')
+    post = models.ForeignKey(Post, on_delete=models.CASCADE, related_name='recommended_post')
+    
+     

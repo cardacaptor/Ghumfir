@@ -12,7 +12,7 @@ from django.contrib.auth import *
 from ..models import *
 from django.contrib.postgres.search import SearchQuery, SearchRank, SearchVector
 
-class SearchView(GenericAPIView):
+class SearchController(GenericAPIView):
     permission_classes = [IsAuthenticated]
     
     def get(self, request, *args, **kwargs):

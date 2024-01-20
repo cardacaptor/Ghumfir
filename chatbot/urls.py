@@ -1,9 +1,10 @@
 
 from django.contrib import admin
 from django.urls import path
-
-from chatbot.views import hello_chatbot
+from chatbot.controllers.get_chat_controller import ChatController
+from chatbot.controllers.send_text_controller import SendTextController
 
 urlpatterns = [
-    path('', hello_chatbot),
+    path('', SendTextController.as_view(),),
+    path('<int:page>', ChatController.as_view(),),
 ]

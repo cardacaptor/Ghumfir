@@ -1,6 +1,6 @@
 
 from rest_framework import serializers
-from authentication.serializers import UserSerializer
+from authentication.serializers.model_serializer import UserSerializer
 from feed.models.post_action import PostAction
 from feed.models.post_viewed import PostViewed
 

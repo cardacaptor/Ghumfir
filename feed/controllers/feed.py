@@ -1,8 +1,6 @@
 from rest_framework.response import Response
-from rest_framework.decorators import *
 from rest_framework.permissions import * 
 from rest_framework.generics import *
-from django.contrib.auth.decorators import *
 from feed.model_serializers.post_serializer import PostSerializer
 from ghumfir.serializers.pagination_serializer import Pagination
 
@@ -19,9 +17,7 @@ from ghumfir.wsgi import recommendation
 #cursor based
 #offset based
 
-
-# Create your views here.
-class FeedView(GenericAPIView):
+class FeedController(GenericAPIView):
     permission_classes = [IsAuthenticated]
     
     def get(self, request, *args, **kwargs):

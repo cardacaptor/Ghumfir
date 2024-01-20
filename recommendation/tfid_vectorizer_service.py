@@ -4,6 +4,12 @@ from .tfid_vectorizer_algorithm import TFIDFVectorizerAlgorithm
 
 class TfidVectorizerService:
     
+    # constant for maximum number of post to be shown as a reply to user
+    max_message_post_length = 3
+    
+    # constant for maximum similarity score to be considered for "Did you mean 'pokhara'" in messages
+    character_similarity_lower_bound = 0.9
+    
     def initializeVectorizer(self, posts):
         #replace the second item with id
         corpus_obj_list = [Corpus(posts[i].caption, posts[i].id, posts[i]) for i in range(len(posts))]
@@ -16,6 +22,36 @@ class TfidVectorizerService:
     
     def sort_rest(self, post_id):
         return [Post.objects.get(id = i.post.id) for i in self.vectorizer.sort_all_corpus(post_id)]
+    
+    def sort_posts_for_message(self, message):
+        vectors = self.vectorizer.sort_corpus_for_message(message)
+        if(vectors[0].similarity <= 0):
+            return None
+        return [
+            Post.objects.get(id = i.corpus.post.id) 
+            for i in vectors[:self.max_message_post_length] 
+            if i.similarity > 0
+        ]
+        
+    def get_closest_vocab_for_text(self, message):
+        #finding highest similar vocabulary among all words
+        highest_similarity = None
+        for i in message.split():
+            if len(i) < 3:
+                continue
+            vectors = self.vectorizer.sort_vocab_for_message(i)
+            if(highest_similarity == None):
+                highest_similarity = vectors[0]
+            elif vectors[0].similarity > highest_similarity.similarity:
+                highest_similarity = vectors[0]
+                
+        if(highest_similarity == None):
+            return None
+        
+        #only accept if vocabulary is very similar to the keyword
+        if(highest_similarity.similarity < self.character_similarity_lower_bound):
+            return None
+        return highest_similarity.vocabulary.vocab
     
     def testVectorizer(self):
         corpus = [["This is the first document.", 1],["This is the new document.", 2],[ "document", 3],[ "This document is the second document.", 4],[ "And this is the third one.", 5]]
