@@ -17,7 +17,7 @@ class TfidVectorizerService:
         self.vectorizer = TFIDFVectorizerAlgorithm(corpus_obj_list)
         return self.vectorizer.corpus
     
-    def get_corpus_by_index(self, index):
+    def get_corpus_by_id(self, index):
         return self.vectorizer.idVsCorpus[index]
     
     def sort_rest(self, post_id):

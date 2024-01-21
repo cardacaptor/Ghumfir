@@ -27,7 +27,7 @@ class SearchController(GenericAPIView):
             paginated_posts = PostSerializer(posts[start+1:end+1], many = True).data
             return Response({
                             "data": paginated_posts, 
-                            "status_code": 201,
+                            "status_code": 200,
                             "message": "Results for '{}' successfully loaded".format(search_text),
                             },
                             status= 200

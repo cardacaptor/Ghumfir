@@ -27,16 +27,25 @@ class ContentBasedRecommendation(RecommendationI):
         self.log("Ready to recommend")
         print("-----------------------------------\n")
         
-    def get_corpus_by_index(self, user):
+    def get_corpus_by_last_action(self, user):
         last_action = PostAction.objects.filter(user = user).order_by('-id').first()
         if last_action == None:
             return {}
-        last_activity_post = self.vectorizerService.get_corpus_by_index(last_action.post_id).post
+        last_activity_post = self.vectorizerService.get_corpus_by_id(last_action.post_id).post
         if(last_action.action == ActionChoices.LIKE):
             return {"corpus_liked":last_activity_post.caption}
         return {"corpus_disliked":last_activity_post.caption}
     
-    def get_post_based_on_message(self, message, username):
+    def sort_rest(self, user):
+        last_action = PostAction.objects.filter(user = user).order_by('-id').first()
+        if last_action == None:
+            return Post.objects.all()
+        sorted_recommendation = self.vectorizerService.sort_rest(last_action.post_id)
+        if(last_action.action != ActionChoices.LIKE):
+            sorted_recommendation.reverse()
+        return sorted_recommendation
+
+    def get_bot_reply(self, message, username):
         help_response = self.respond_to_help(message, username)
         if(help_response != None):
             return (help_response, None)
@@ -78,12 +87,4 @@ class ContentBasedRecommendation(RecommendationI):
             if word.lower() in self.ending_inputs:
                 return "I am here if you want more recommendations :)"
     
-    def sort_rest(self, user):
-        last_action = PostAction.objects.filter(user = user).order_by('-id').first()
-        if last_action == None:
-            return Post.objects.all()
-        sorted_recommendation = self.vectorizerService.sort_rest(last_action.post_id)
-        if(last_action.action != ActionChoices.LIKE):
-            sorted_recommendation.reverse()
-        return sorted_recommendation
     

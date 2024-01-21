@@ -1,6 +1,7 @@
 import csv
 import os
-from feed.models.post import Post
+from feed.models.category import Category
+from feed.models.post import Post, PostTag, Tag
 from django.db import transaction
 import requests
 from django.core.files.base import ContentFile
@@ -18,8 +19,8 @@ class Preprocess:
             self.log("Data already exists")
             if not self.override:
                 return existing_posts
-            self.log("Deleting all posts")
-            existing_posts.delete()
+            self.log("Deleting all categories cascade")
+            Category.objects.all().delete()
         self.log("Loading from csv to db")
         with transaction.atomic():
             posts = []
@@ -33,22 +34,59 @@ class Preprocess:
                     if(len(row) != 0):
                         post = self.serialize_from_row(row)
                         posts.append(post)
-            return [i.save() for i in posts]
+            posts = [i.save() for i in posts]
+            self.update_category_ammortization()
+            return posts
             # return Post.objects.bulk_create(posts)
     
+    def update_category_ammortization(self):
+        categories = Category.objects.all()
+        for category in categories:
+            category.number_of_destinations = Post.objects.filter(category_id = category.id).count()
+            category.save()
+                
     def log(self, obj):
         print("   preprocessing:", end =" ")
         print(obj)
     
     def serialize_from_row(self, row):
-        return self.with_url(
+        category = self.read_or_create_category(self.access(row, "category"), self.access(row, "url"))
+        post = self.with_url(
             Post(
                 caption = self.access(row, "name"), 
                 price = self.access(row, "price") ,
-                duration = self.access(row, "duration")
+                duration = self.access(row, "duration"),
+                category_id = category.id
                 ),
             self.access(row, "url")
             )
+        self.read_or_create_tag(post, self.access(row, "hrefTags"))
+        return post
+    
+    def read_or_create_tag(self, post, tag_text):
+        if(tag_text == None):
+            return
+        tags = tag_text.split("|")
+        for i in tags:
+            key = i.split(":")[0]
+            value = i.split(":")[1]
+            tag = Tag.objects.filter(key = key)
+            if(len(tag) == 0):
+                tag = Tag(key = key)
+                tag.save()
+            else:
+                tag = tag[0]
+            PostTag.objects.create(value = value, post_id = post.id, tag_id = tag.id)
+        return tag
+    
+    def read_or_create_category(self, name, url):
+        category = Category.objects.filter(caption = name)
+        if(len(category) == 0):
+            category = self.with_url(Category(caption = name), url)
+            category.save()
+        else:
+            category = category[0]
+        return category
     
     def access(self, obj, key):
         element =  obj[self.rowIndex[key]]

@@ -34,6 +34,6 @@ class DislikeActionController(GenericAPIView):
                         "status_code": 201,
                         "message": message
                         },
-                        status= 200
+                        status= 201
                         )
         raise MyValidationError(action.errors)

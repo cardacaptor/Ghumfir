@@ -27,12 +27,12 @@ class FeedController(GenericAPIView):
             size = 3
             start = (pagination.data["page"] - 1) * size
             end = start + size
-            last_activity = recommendation.get_corpus_by_index(request.user)
+            last_activity = recommendation.get_corpus_by_last_action(request.user)
             posts =  recommendation.sort_rest(request.user)
             paginated_posts = PostSerializer(posts[start+1:end+1], many = True).data
             return Response({
                             "data": paginated_posts, 
-                            "status_code": 201,
+                            "status_code": 200,
                             "message": "Feed successfully loaded",
                             **last_activity,
                             },

@@ -1,24 +1,26 @@
 TODO
 ___________________
--Chat-
-fetch messages of the user with pagination - 1
-send message and get reply from the bot - 3
 
 -Recommendation-
 Should not be viewed again (use offset id) - 3
 
 -Posts-
 Similar restaurants api - 1
-Destination categories api - 1
-Get posts by desitination category api - 2
 multiple word search join using %20 to single word - 1
-where are the tags for posts? - 1
 
-Total story points left: 13
+Total story points left: 5
 
 ___________________
 DONE
+
+-Chat-
+fetch messages of the user with pagination - 1
+send message and get reply from the bot - 3
+
+where are the tags for posts? - 1
+Destination categories api - 1
+Get posts by desitination category api - 2
 ___________________
 
-total story points done: 0
+total story points done: 8
 ___________________

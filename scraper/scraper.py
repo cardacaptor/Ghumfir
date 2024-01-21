@@ -9,7 +9,7 @@ from seeder.interface import Seeder
 
 _base_url = "https://www.travelsewa.com/"
 class Scraper(ScraperI):
-    rowKeys = ["name", "price", "url", "destination", "duration", "aHref", "hrefTags", "hotel", "flight"]
+    rowKeys = ["name", "price", "url", "destination", "duration", "aHref", "hrefTags", "hotel", "flight", "category"]
     #Scapper configuration
     csv_path = str(os.path.join(BASE_DIR,"scraper", "scraper-output", "output.csv"))
     override = False
@@ -35,28 +35,29 @@ class Scraper(ScraperI):
         self.seeder.seed(self.dataset)
     
     region_urls =  [ 
-             (_base_url + i) for i in [
-                 "everest-region", 
-                 "langtang-region", 
-                 "annapurna-region",
-                 "bhutan","pokhara",
-                 "kathmandu",
-                 "kailash-mansarovar",
-                 "best-selling-tour-packages",
-                 "family",
-                 "cultural-tours",
-                 "popular-tours",
-                 "honeymoon",
-                 "luxury",
-                 "air-tours",
-                 "helicopter-tours",
-                 "hiking-and-trekking",
-                 "day-tours",
-                 "pilgrimage",
-                 "holidays",
-                 "holidays?page=2",
-                 "holidays?page=3",
-                 "holidays?page=4",
+             (_base_url + i, j) for i, j in [
+                 ("everest-region", "everest"),
+                 ("langtang-region", "langtang"),
+                 ("annapurna-region","annapurna"),
+                 ("bhutan","bhutan"),
+                 ("pokhara","pokhara"),
+                 ("kathmandu","kathmandu"),
+                 ("kailash-mansarovar","kailash mansarovar"),
+                 ("best-selling-tour-packages","best selling tour packages"),
+                 ("family","family"),
+                 ("cultural-tours","cultural tours"),
+                 ("popular-tours","popular tours"),
+                 ("honeymoon","honeymoon"),
+                 ("luxury","luxury"),
+                 ("air-tours","air tours"),
+                 ("helicopter-tours","helicopter tours"),
+                 ("hiking-and-trekking","hiking and trekking"),
+                 ("day-tours","day tours"),
+                 ("pilgrimage","pilgrimage"),
+                 ("holidays","holidays"),
+                 ("holidays?page=2","holidays"),
+                 ("holidays?page=3","holidays"),
+                 ("holidays?page=4","holidays"),
                 ]
             ]
     
@@ -82,7 +83,7 @@ class Scraper(ScraperI):
         aggregate = []
         uniqueSet = set()
         for destination in self.hotel_urls:
-            locations = self.scrape_content_hotels(destination)
+            locations = self.scrape_content_hotels((destination,  "hotel"))
             for i in locations:
                 if i["name"] not in uniqueSet:
                     aggregate.append(i)
@@ -90,7 +91,7 @@ class Scraper(ScraperI):
         self.log("1/3. Downloaded count: {} in summation".format(len(aggregate)))
                     
         for destination in self.flight_urls:
-            locations = self.scrape_content_flights(destination)
+            locations = self.scrape_content_flights((destination, "flight"))
             for i in locations:
                 if i["name"] not in uniqueSet:
                     aggregate.append(i)
@@ -117,7 +118,8 @@ class Scraper(ScraperI):
             csvwriter.writerow(self.serializer(None))
             csvwriter.writerows([self.serializer(i) for i in aggregate])
     
-    def scrape_content_region(self, url):
+    def scrape_content_region(self, urlAndCategory):
+        (url, category) = urlAndCategory
         response = self.httpGet(url)
         content = self.scrape_content_range(response, "Why booking with us?", "Contact With Travel Expert")
         
@@ -139,9 +141,10 @@ class Scraper(ScraperI):
             if not(len(hrefTags) == 0):
                 tags.append(hrefTags)
             
-        return [{"name": names[i], "price": prices[i], "url": urls[i], "destination": url, "duration":durations[i], "aHref": aHref, "hrefTags": hrefTags} for i in range(len(names))]
+        return [{"name": names[i], "price": prices[i], "url": urls[i], "destination": url, "duration":durations[i], "aHref": aHref, "hrefTags": hrefTags, "category": category} for i in range(len(names))]
     
-    def scrape_content_hotels(self, url):
+    def scrape_content_hotels(self, urlAndCategory):
+        (url, category) = urlAndCategory
         response = self.httpGet(url)
         content = self.scrape_content_range(response, '<h1 class="mb-4 heading-font font-weight-normal border-bottom pb-2">Hotel', "Nepal is mostly known to the world ")
         
@@ -152,9 +155,10 @@ class Scraper(ScraperI):
         aHref = self.iterate_generation(content, '<div class="position-relative hover-effect">\n        <a href="', '"')
         if not (len(names) == len(rooms) == len(urls) == len(aHref)):
             raise MyConfigurationError("Oops length of names: {}, prices: {}, urls: {}, aHref: {}".format(len(names), len(rooms), len(urls), len(aHref)))
-        return [{"name": names[i], "rooms": rooms[i], "url": urls[i], "hotel": url, "aHref": aHref} for i in range(len(names))]
+        return [{"name": names[i], "rooms": rooms[i], "url": urls[i], "hotel": url, "aHref": aHref, "category": category} for i in range(len(names))]
     
-    def scrape_content_flights(self, url):
+    def scrape_content_flights(self, urlAndCategory):
+        (url, category) = urlAndCategory
         response = self.httpGet(url)
         content = self.scrape_content_range(response, '<h1 class="main-title border-bottom pb-2">Flights</h1>', "Speak to an Expert?")
         
@@ -165,7 +169,7 @@ class Scraper(ScraperI):
         aHref = self.iterate_generation(content, '<h4 class="mb-2 heading-font">\n			<a href="', '" class="font-rochester main-color')
         if not (len(names) == len(prices) == len(urls) == len(aHref)):
             raise MyConfigurationError("Oops length of names: {}, prices: {}, urls: {}, aHref: {}".format(len(names), len(prices), len(urls), len(aHref)))
-        return [{"name": names[i], "price": prices[i], "url": urls[i], "flight": url, "aHref": aHref} for i in range(len(names))]
+        return [{"name": names[i], "price": prices[i], "url": urls[i], "flight": url, "aHref": aHref, "category": category} for i in range(len(names))]
     
     
     # -----------------------Helper--------------------------------

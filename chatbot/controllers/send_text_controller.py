@@ -19,7 +19,7 @@ class SendTextController(GenericAPIView):
         if isValid:
             chat_message = ChatMessage(message = req_message.data["message"], user = request.user, isBotMessage = False)
             chat_message.save()
-            (message, posts) = recommendation.get_post_based_on_message(req_message.data["message"], request.user.username)
+            (message, posts) = recommendation.get_bot_reply(req_message.data["message"], request.user.username)
             bot_message = ChatMessage(message = message, user = request.user, isBotMessage = True)
             bot_message.save()
             if(posts != None):
@@ -33,6 +33,6 @@ class SendTextController(GenericAPIView):
                             "status_code": 201,
                             "message": "Message sent successfully",
                             },
-                            status= 200
+                            status= 201
                             )
         raise MyValidationError(message.errors)
