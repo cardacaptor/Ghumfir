@@ -5,10 +5,9 @@ ___________________
 Should not be viewed again (use offset id) - 3
 
 -Posts-
-Similar restaurants api - 1
 multiple word search join using %20 to single word - 1
 
-Total story points left: 5
+Total story points left: 4
 
 ___________________
 DONE
@@ -20,7 +19,8 @@ send message and get reply from the bot - 3
 where are the tags for posts? - 1
 Destination categories api - 1
 Get posts by desitination category api - 2
+Similar restaurants api - 1
 ___________________
 
-total story points done: 8
+total story points done: 9
 ___________________
