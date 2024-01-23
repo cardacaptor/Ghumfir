@@ -9,7 +9,7 @@ class PostViewedSerializer(serializers.ModelSerializer):
     user = UserSerializer()
     class Meta:
         model = PostViewed
-        fields = ['user']
+        fields = ['user', 'session_id']
         
         
 class PostActionSerializer(serializers.ModelSerializer):
