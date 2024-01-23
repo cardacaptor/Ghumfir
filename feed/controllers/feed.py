@@ -33,7 +33,7 @@ class FeedController(GenericAPIView):
             end = start + size
             paginated_posts = []
             if(request.user == None):
-                paginated_posts = PostSerializer(Post.objects.all()[start+1:end+1], many = True).data
+                paginated_posts = Post.objects.all()[start+1:end+1]
             else:
                 if(page == 1 or session == None):
                     session = ViewSession.objects.create(request.user)
