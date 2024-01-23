@@ -19,12 +19,21 @@ from feed.controllers.similar_post import SimilarPostController
 # delete - > feed/recommended/:id 
 # post - > feed/recommended/:id
 
-urlpatterns = [
-    path('<int:page>', FeedController.as_view(),),
-    path('<int:post_id>/like', LikeActionController.as_view()),
-    path('<int:post_id>/dislike', DislikeActionController.as_view()),
-    path('<int:page>/<str:search>', SearchController.as_view()),
-    path('categories', CategoryController.as_view()),
-    path('category/<int:category_id>', CategoryFeedController.as_view(),),
-    path('similar/<int:post_id>', SimilarPostController.as_view(),),
+
+post_url_patterns = [
+    path('post/<int:post_id>/like', LikeActionController.as_view()),
+    path('post/<int:post_id>/dislike', DislikeActionController.as_view()),
+    path('post/similar/<int:post_id>', SimilarPostController.as_view(),),
 ]
+
+feed_url_patterns = [
+    path('landing/<int:page>/session/<str:session_id>', FeedController.as_view(),),
+    path('landing/<int:page>/<str:search>', SearchController.as_view()),
+]
+
+category_url_patterns = [
+    path('category', CategoryController.as_view()),
+    path('category/<int:category_id>', CategoryFeedController.as_view(),),
+]
+
+urlpatterns = post_url_patterns + feed_url_patterns + category_url_patterns

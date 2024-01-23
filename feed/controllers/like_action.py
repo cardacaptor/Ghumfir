@@ -3,6 +3,7 @@ from rest_framework.decorators import *
 from rest_framework.permissions import * 
 from rest_framework.generics import *
 from django.contrib.auth.decorators import *
+from feed.model_serializers.post_serializer import PostSerializer
 from feed.models.post import Post
 from feed.models.post_action import ActionChoices, PostAction
 from feed.model_serializers.post_action_serializer import PostActionSerializer
@@ -20,16 +21,19 @@ class LikeActionController(GenericAPIView):
         action = UserActionSerializer(data = kwargs)
         isValid = action.is_valid()
         if isValid:
-          post = Post.objects.get(id = action.data["post_id"])
+          post_id = action.data["post_id"]
+          post = Post.objects.get(id = post_id)
           action = PostAction.objects.maybe_create(
             post = post, 
             user = request.user, 
             action = ActionChoices.LIKE
           )
+          post = Post.objects.get(id = post_id)
           message = "Feed post liked successfully"
           if action == None:
             message = "Feed post un liked successfully"
           return Response({ 
+                        "data": PostSerializer(post).data,  
                         "status_code": 201,
                         "message": message
                         },

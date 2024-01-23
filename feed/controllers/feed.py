@@ -4,7 +4,7 @@ from rest_framework.generics import *
 from feed.model_serializers.post_serializer import PostSerializer
 from feed.models.post import Post
 from feed.models.post_viewed import PostViewed, ViewSession
-from ghumfir.serializers.pagination_serializer import Pagination
+from ghumfir.serializers.pagination_serializer import PaginationWithSession
 
 from ghumfir.utils.exceptions import MyBadRequest, MyValidationError
 import recommendation
@@ -23,32 +23,38 @@ class FeedController(GenericAPIView):
     permission_classes = [AllowAny]
     
     def get(self, request, *args, **kwargs):
-        pagination  = Pagination(data = kwargs)
+        pagination  = PaginationWithSession(data = kwargs)
         isValid = pagination.is_valid()
         if isValid:
             page = pagination.data["page"]
-            session_id = pagination.data["session_id"]
+            session_id = pagination.data.get("session_id")
             size = 3
             start = (page - 1) * size
             end = start + size
-            paginated_posts = []
-            if(request.user == None):
+            if(request.user.id == None):
                 paginated_posts = Post.objects.all()[start+1:end+1]
+                return Response({
+                                "data": PostSerializer(paginated_posts, many = True).data, 
+                                "status_code": 200,
+                                "message": "Feed successfully loaded",
+                                },
+                                status= 200
+                                )
+            if(page == 1 or session_id == None or session_id == 0):
+                session = ViewSession.objects.create(user_id = request.user.id)
             else:
-                if(page == 1 or session == None):
-                    session = ViewSession.objects.create(request.user)
-                else:
-                    session = ViewSession.objects.get(id = session_id)
-                if(session == None):
-                    raise MyBadRequest("Could not find session")
-                last_activity = recommendation.get_corpus_by_last_action(request.user)
-                posts =  recommendation.sort_rest(request.user, session.id)
-                paginated_posts = posts[start+1:end+1]
-                PostViewed.objects.bulk_create([
-                    PostViewed(user_id = request.user.id, post_id = i.id, session_id = session.id ) 
-                    for i in paginated_posts
-                    ])
+                session = ViewSession.objects.get(id = session_id)
+            if(session == None):
+                raise MyBadRequest("Could not find session")
+            last_activity = recommendation.get_corpus_by_last_action(request.user)
+            posts =  recommendation.sort_rest(request.user, session.id)
+            paginated_posts = posts[start+1:end+1]
+            PostViewed.objects.bulk_create([
+                PostViewed(user_id = request.user.id, post_id = i.id, session_id = session.id ) 
+                for i in paginated_posts
+                ])
             return Response({
+                            "session_id": session.id,
                             "data": PostSerializer(paginated_posts, many = True).data, 
                             "status_code": 200,
                             "message": "Feed successfully loaded",
