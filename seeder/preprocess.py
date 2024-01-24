@@ -5,6 +5,7 @@ from feed.models.post import Post, PostTag, Tag
 from django.db import transaction
 import requests
 from django.core.files.base import ContentFile
+from ghumfir.settings import BASE_DIR
 
 from scraper.scraper import Scraper
 
@@ -13,14 +14,16 @@ class Preprocess:
     rowIndex = {Scraper.rowKeys[i]: i for i in range(0, len(Scraper.rowKeys))}
     override = False
     
-    def preprocess(self, dataset):
+    def preprocess(self, dataset, override, delete):
+        self.override = override
         existing_posts = Post.objects.all()
         if(len(existing_posts) !=  0):
             self.log("Data already exists")
             if not self.override:
                 return existing_posts
-            self.log("Deleting all categories cascade")
-            Category.objects.all().delete()
+            if delete:
+                self.log("Deleting all categories cascade")
+                Category.objects.all().delete()
         self.log("Loading from csv to db")
         with transaction.atomic():
             posts = []
@@ -97,10 +100,16 @@ class Preprocess:
     def with_url(self, post, url):
         if(url == None or url.strip() == ""):
             return post
-        response = requests.get(url)
-        if response.status_code == 200:
-            file_name = os.path.join("static", url.split("/")[-1])
-            post.url.save(file_name, ContentFile(response.content))
-            return post
+        if("file:///" in url):
+            file_name = os.path.join("static", url.split("\\")[-1])
+            local_url = os.path.join(BASE_DIR, url.replace("file:///", ""))
+            ifile = open(local_url, 'rb')
+            post.url.save(file_name, ContentFile(ifile.read()))
+            ifile.close()
         else:
-            return post
+            file_name = os.path.join("static", url.split("/")[-1])
+            response = requests.get(url)
+            if response.status_code == 200:
+                post.url.save(file_name, ContentFile(response.content))
+                return post
+        return post

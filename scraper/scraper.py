@@ -18,7 +18,7 @@ class Scraper(ScraperI):
         if(not issubclass(type(seeder), Seeder)):
             raise MyConfigurationError("Instance passed through Scraper must be a subclass of Seeder")
         self.seeder = seeder
-            
+    
     def generateOrLoad(self):
         print("\n-----------------SCRAPER--------------")
         if(os.path.isfile(self.csv_path)):

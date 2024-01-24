@@ -13,7 +13,7 @@ from ..models import *
 from django.contrib.postgres.search import SearchQuery, SearchRank, SearchVector
 
 class SearchController(GenericAPIView):
-    permission_classes = [IsAuthenticated]
+    permission_classes = [AllowAny]
     
     def get(self, request, *args, **kwargs):
         pagination  = PaginationWithSearch(data = kwargs)

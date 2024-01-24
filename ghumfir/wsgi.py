@@ -12,6 +12,7 @@ import os
 from django.core.wsgi import get_wsgi_application
 from recommendation.content_based import ContentBasedRecommendation
 from recommendation.models import Corpus
+from scraper.collected import Collected
 
 from scraper.scraper import Scraper
 from seeder.generate_from_csv import GenerateFromCSV
@@ -21,6 +22,8 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ghumfir.settings')
 application = get_wsgi_application()
 
 # Scraper(RandomDataFeed()).generateOrLoad()
-Scraper(GenerateFromCSV()).generateOrLoad()
+Scraper(GenerateFromCSV(override = True)).generateOrLoad()
+# Collected(GenerateFromCSV(override = True, delete=False)).generateOrLoad()
+Collected(GenerateFromCSV(override = False, delete=False)).generateOrLoad()
 recommendation = ContentBasedRecommendation() 
 # TfidVectorizerService().testVectorizer()
