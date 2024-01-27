@@ -24,7 +24,7 @@ class SearchController(GenericAPIView):
             start = (pagination.data["page"] - 1) * size
             end = start + size
             posts = Post.objects.filter(caption__contains = search_text)
-            paginated_posts = PostSerializer(posts[start+1:end+1], many = True).data
+            paginated_posts = PostSerializer(posts[start:end], many = True).data
             return Response({
                             "data": paginated_posts, 
                             "status_code": 200,

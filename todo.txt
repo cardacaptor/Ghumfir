@@ -1,13 +1,4 @@
-TODO
-___________________
 
-
--Posts-
-multiple word search join using %20 to single word - 1
-
-Total story points left: 1
-
-___________________
 DONE
 
 -Chat-
@@ -21,7 +12,8 @@ Similar restaurants api - 1
 
 -Recommendation-
 Should not be viewed again (use offset id) - 3
+multiple word search join using %20 to single word - 1
 ___________________
 
-total story points done: 12
+total story points done: 13
 ___________________

@@ -1,4 +1,4 @@
-﻿name,price,url,destination,duration,aHref,hrefTags,hotel,flight,category
+name,price,url,destination,duration,aHref,hrefTags,hotel,flight,category
 The Soaltee Kathmandu,20813,file:///image\TheSoalteeKathmandu.png,"Tahachal, Kathmandu",,,,,,hotel
 Hotel Shanker,11425,file:///image\HotelSanker.png,"Lazimpat, Kathmandu",,,,,,hotel
 Hotel Manaslu,10779,file:///image\HotelManaslu.png,"Lazimpat, Kathmandu",,,,,,hotel
@@ -12,18 +12,18 @@ Fish Tail Lodge,7371,file:///image\FishTailLodge.png,"Lakeside Rd, Pokhara ",,,,
 Hotel Crown Himalayas,4663,file:///image\HotelCrownHimalayas.png,"Baidam ,gaurighat, Lakeside, Pokhara",,,,,,hotel
 Hotel Gurkha Haven,4167,file:///image\HotelGurkhaHaven.png,"Dam side, Pokhara",,,,,,hotel
 Rara Trek,2000,file:///image\RaraTrek.png,https://ntb.gov.np/en/rara,3,,,,,hiking and trekking
-Panorama Himalaya Trekking,100000,https://www.himalayajourneys.com/nepal-panorama-trekking-tour.php,,24,,,,,hiking and trekking
-Taplejung Trek,900,https://ntb.gov.np/en/pathivara--taplejung,,,,,,,hiking and trekking
-Namche Bazaar,1300,https://ntb.gov.np/en/namche-bazaar,,,,,,,hiking and trekking
-Khaptad Trekking,2500,https://ntb.gov.np/en/khaptad-national-park-nepal,,,,,,,hiking and trekking
-Jomsom and Muktinath Trek,,https://ntb.gov.np/en/jomsom-muktinath,,,,,,,hiking and trekking
-Tengboche Trek,,https://ntb.gov.np/en/tengboche,,,,,,,hiking and trekking
-Khunde & Khumjung Trek,,https://ntb.gov.np/en/khunde-&-khumjung,,,,,,,hiking and trekking
-Upper Seti River Rafting - 1/2 Day,,https://www.paddlenepal.com/rafting-upper-seti-river/,,,,,,,rafting
-Marshyangdi River Rafting - 2 Days,,https://www.paddlenepal.com/marshyangdi-river-2-days/,,,,,,,rafting
-Lower Seti River Rafting - 2 Dyas,,https://www.paddlenepal.com/lower-seti-river-2-days/,,,,,,,rafting
-Kaligandaki River Rafting - 3 Days,,https://www.paddlenepal.com/rafting-kaligandaki-river-3-days/,,,,,,,rafting
-Lower Kaligandaki River Rafting - 6 Days,,https://www.paddlenepal.com/rafting-lower-kaligandaki-river-6-days/,,,,,,,rafting
-Sun Koshi River Rafting - 9 Days,,https://www.paddlenepal.com/rafting-sun-koshi-river-rafting-9-days/,,,,,,,rafting
-Karnali River Rafting - 10 Days,,https://www.paddlenepal.com/rafting-karnali-river-rafting-10-days/,,,,,,,rafting
-Tamur River - 12 Days,,https://www.paddlenepal.com/rafting-tamur-river-rafting-12-days/,,,,,,,rafting
+Panorama Himalaya Trekking,100000,file:///image\NepalPanroramaTrekking.png,"Mt. Everest, Mt. Cho oyu, Mt. Lhotse",24,,,,,hiking and trekking
+Taplejung Trek,900,file:///image\Pathivara.png,"Pathivara, Kathmandu",4,,,,,hiking and trekking
+Namche Bazaar,1300,file:///image\NamcheBazaar.png,"Namche Bazaar, Solukhumbu",2,,,,,hiking and trekking
+Khaptad Trekking,2500,file:///image\Khaptad.png,Khaptad,3,,,,,hiking and trekking
+Jomsom and Muktinath Trek,,file:///image\Muktinath.png,Mustang,4,,,,,hiking and trekking
+Tengboche Trek,,file:///image\Tengboche.png,"Tengboche, Solukhumbu",3,,,,,hiking and trekking
+Khunde & Khumjung Trek,,file:///image\KhundeKhumjung.png,Solukhumbu,3,,,,,hiking and trekking
+Upper Seti River Rafting - 1/2 Day,,file:///image\UpperSetiRiver.png,Kaski,2,,,,,rafting
+Marshyangdi River Rafting - 2 Days,,file:///image\Marshyangdi.png,Lamjung,2,,,,,rafting
+Lower Seti River Rafting - 2 Days,,file:///image\LowerSeti.png,Kaski,2,,,,,rafting
+Kaligandaki River Rafting - 3 Days,,file:///image\KaliGandaki.png,Mustang,3,,,,,rafting
+Lower Kaligandaki River Rafting - 6 Days,,file:///image\LowerKali.png,Nawalparasi,6,,,,,rafting
+Sun Koshi River Rafting - 9 Days,,file:///image\Sunkoshi.png,Sindhupalchok,9,,,,,rafting
+Karnali River Rafting - 10 Days,,file:///image\Karnali.png,Nepal,10,,,,,rafting
+Tamur River - 12 Days,,file:///image\Tamur.png,Nepal,12,,,,,rafting

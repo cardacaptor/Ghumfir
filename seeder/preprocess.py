@@ -28,6 +28,7 @@ class Preprocess:
         with transaction.atomic():
             posts = []
             skipped_title = False
+            counter = 0
             with dataset as csvfile:
                 reader = csv.reader(csvfile)
                 for row in reader:
@@ -37,7 +38,10 @@ class Preprocess:
                     if(len(row) != 0):
                         post = self.serialize_from_row(row)
                         posts.append(post)
-            posts = [i.save() for i in posts]
+                        counter += 1
+                        if(counter % 10 == 0):
+                            print("{} done".format(counter))
+            [i.save() for i in posts]
             self.update_category_ammortization()
             return posts
             # return Post.objects.bulk_create(posts)

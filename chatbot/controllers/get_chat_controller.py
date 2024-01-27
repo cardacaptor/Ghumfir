@@ -17,10 +17,10 @@ class ChatController(GenericAPIView):
         pagination  = Pagination(data = kwargs)
         isValid = pagination.is_valid()
         if isValid:
-            size = 4
+            size = 10
             start = (pagination.data["page"] - 1) * size
             end = start + size
-            messages = ChatMessage.objects.filter(user_id = request.user.id).order_by('-created')[start:end+1]
+            messages = ChatMessage.objects.filter(user_id = request.user.id).order_by('-created')[start:end]
             paginated_messages = ChatMessageSerializer(messages, many = True).data
             return Response({
                             "data": {

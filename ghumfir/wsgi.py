@@ -21,9 +21,14 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ghumfir.settings')
 
 application = get_wsgi_application()
 
-# Scraper(RandomDataFeed()).generateOrLoad()
-Scraper(GenerateFromCSV(override = True)).generateOrLoad()
-# Collected(GenerateFromCSV(override = True, delete=False)).generateOrLoad()
-Collected(GenerateFromCSV(override = False, delete=False)).generateOrLoad()
+#to load from start
+# Scraper(GenerateFromCSV(override = True, delete = True)).generateOrLoad()
+# Collected(GenerateFromCSV(override = True, delete = False)).generateOrLoad()
+
+#by default
+Scraper(GenerateFromCSV(override = False, delete = False)).generateOrLoad()
+Collected(GenerateFromCSV(override = False, delete = False)).generateOrLoad()
+
 recommendation = ContentBasedRecommendation() 
+# Scraper(RandomDataFeed()).generateOrLoad()
 # TfidVectorizerService().testVectorizer()

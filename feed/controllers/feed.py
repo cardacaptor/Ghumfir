@@ -32,7 +32,7 @@ class FeedController(GenericAPIView):
             start = (page - 1) * size
             end = start + size
             if(request.user.id == None):
-                paginated_posts = Post.objects.all()[start+1:end+1]
+                paginated_posts = Post.objects.all()[start:end]
                 return Response({
                                 "data": PostSerializer(paginated_posts, many = True).data, 
                                 "status_code": 200,
