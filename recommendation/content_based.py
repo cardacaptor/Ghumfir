@@ -5,7 +5,9 @@ from feed.models.post_viewed import PostViewed
 from recommendation.interface import RecommendationI
 from recommendation.tfid_vectorizer_service import TfidVectorizerService
 
-    
+#content filtering 
+#collaborative filtering
+
 class ContentBasedRecommendation(RecommendationI):
     
     #CAPTURING MOST GREETINGS

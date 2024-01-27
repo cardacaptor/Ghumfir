@@ -20,7 +20,7 @@ class ChatController(GenericAPIView):
             size = 10
             start = (pagination.data["page"] - 1) * size
             end = start + size
-            messages = ChatMessage.objects.filter(user_id = request.user.id).order_by('-created')[start:end]
+            messages = ChatMessage.objects.filter(user_id = request.user.id).order_by('created')[start:end]
             paginated_messages = ChatMessageSerializer(messages, many = True).data
             return Response({
                             "data": {

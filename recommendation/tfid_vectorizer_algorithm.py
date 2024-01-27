@@ -17,7 +17,6 @@ class TFIDFVectorizerAlgorithm():
         if post_id not in self.idVsCorpus:
             raise MyConfigurationError("Invalid post_id.")
         user_corpus = self.idVsCorpus[post_id]
-        
         #sorting corpus based on similarity scores but only returning corpuses 
         sorted_similarity_scores = self.sort_corpus_by_matrix(user_corpus.tfidf_matrix) 
         sorted_corpus_without_score = [corpusSimilarity.corpus for corpusSimilarity in sorted_similarity_scores]

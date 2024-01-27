@@ -13,11 +13,9 @@ from feed.controllers.similar_post import SimilarPostController
 # WHAT APIS DO YOU NEED
 # get - > feed/recommended/ -> List<Post>
 # get - > feed/recommended/:id -> Post
-
- 
 # post - > feed/recommended/ 
 # delete - > feed/recommended/:id 
-# post - > feed/recommended/:id
+# put - > feed/recommended/:id 
 
 
 post_url_patterns = [
