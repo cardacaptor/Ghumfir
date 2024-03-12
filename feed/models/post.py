@@ -4,6 +4,7 @@ from feed.models.category import Category
 
 class Post(models.Model):
     caption = models.TextField(null = True)
+    name = models.TextField(null = True)
     url = models.ImageField(null = True)
     price = models.FloatField(null = True)
     duration = models.IntegerField(null = True)
@@ -16,7 +17,7 @@ class Post(models.Model):
 
     def __str__(self):
         return str({
-            "caption":self.caption, 
+            "caption":self.name, 
             "url":self.url, 
             "price":self.price, 
             "duration":self.duration,

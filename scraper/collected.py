@@ -8,7 +8,7 @@ from seeder.interface import Seeder
 class Collected(ScraperI):
     #Scapper configuration
     csv_path = str(os.path.join(BASE_DIR,"scraper", "scraper-output", "collected1.csv"))
-    override = True
+    override = False
     
     def __init__(self, seeder):
         if(not issubclass(type(seeder), Seeder)):

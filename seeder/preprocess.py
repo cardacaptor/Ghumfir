@@ -64,9 +64,14 @@ class Preprocess:
     
     def serialize_from_row(self, row):
         category = self.read_or_create_category(self.access(row, "category"), self.access(row, "url"))
+        caption = self.access(row, "caption")
+        name = self.access(row, "name")
+        if(caption == None):
+            caption = name
         post = self.with_url(
             Post(
-                caption = self.access(row, "name"), 
+                caption = caption, 
+                name = name,
                 price = self.access(row, "price") ,
                 duration = self.access(row, "duration"),
                 category_id = category.id

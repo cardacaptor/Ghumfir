@@ -25,11 +25,12 @@ application = get_wsgi_application()
 #to load from start
 # Scraper(GenerateFromCSV(override = True, delete = True)).generateOrLoad()
 # Collected(GenerateFromCSV(override = True, delete = False)).generateOrLoad()
+# PlacesJson(GenerateFromCSV(override = True, delete = False)).generateOrLoad()
 
 #by default
-Scraper(GenerateFromCSV(override = True, delete = True)).generateOrLoad()
-Collected(GenerateFromCSV(override = True, delete = False)).generateOrLoad()
-PlacesJson(GenerateFromCSV(override = True, delete = False)).generateOrLoad()
+Scraper(GenerateFromCSV(override = False, delete = False)).generateOrLoad()
+Collected(GenerateFromCSV(override = False, delete = False)).generateOrLoad()
+PlacesJson(GenerateFromCSV(override = False, delete = False)).generateOrLoad()
 
 recommendation = ContentBasedRecommendation() 
 # Scraper(RandomDataFeed()).generateOrLoad()

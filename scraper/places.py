@@ -29,10 +29,10 @@ class PlacesJson(ScraperI):
                 return self.generateOrLoad()
         else:
             self.log(self.generate_csv())
-        self.dataset = open(file = self.csv_path)
+        self.dataset = open(file = self.csv_path, encoding="utf8")
         self.log("Opening csv file: {}".format(self.csv_path))
         print("-----------------------------------\n")
-        # self.seeder.seed(self.dataset)
+        self.seeder.seed(self.dataset)
     
     def log(self, obj):
         print("   scraper:", end =" ")
