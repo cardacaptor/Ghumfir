@@ -9,6 +9,12 @@ from ghumfir.settings import BASE_DIR
 
 from scraper.scraper import Scraper
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
+PLACES_API_KEY = os.getenv('PLACES_API_KEY')
+
 # price,url,duration,hrefTags
 class Preprocess:
     rowIndex = {Scraper.rowKeys[i]: i for i in range(0, len(Scraper.rowKeys))}
@@ -112,7 +118,7 @@ class Preprocess:
             ifile.close()
         else:
             file_name = os.path.join("static", url.split("/")[-1])
-            response = requests.get(url)
+            response = requests.get(url.replace('%PLACES_API_KEY%', PLACES_API_KEY))
             if response.status_code == 200:
                 post.url.save(file_name, ContentFile(response.content))
                 return post

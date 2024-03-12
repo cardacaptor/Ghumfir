@@ -10,7 +10,7 @@ from seeder.interface import Seeder
 _base_url = "https://www.travelsewa.com/"
 
 class Scraper(ScraperI):
-    rowKeys = ["name", "price", "url", "destination", "duration", "aHref", "hrefTags", "hotel", "flight", "category"]
+    rowKeys = ["name", "price", "url", "destination", "duration", "aHref", "hrefTags", "hotel", "flight", "category", "caption"]
     #Scapper configuration
     csv_path = str(os.path.join(BASE_DIR,"scraper", "scraper-output", "output.csv"))
     override = False
