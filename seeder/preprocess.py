@@ -123,6 +123,8 @@ class Preprocess:
             ifile.close()
         else:
             file_name = os.path.join("static", url.split("/")[-1])
+            if("." not in file_name):
+                file_name = file_name + ".jpg"
             response = requests.get(url.replace('%PLACES_API_KEY%', PLACES_API_KEY))
             if response.status_code == 200:
                 post.url.save(file_name, ContentFile(response.content))

@@ -105,7 +105,7 @@ class PlacesJson(ScraperI):
     def getPhotoUrl(self, reference):
         if(reference == None):
             return None
-        return "https://maps.googleapis.com/maps/api/place/photo?photo_reference="+reference+"&key=%PLACES_API_KEY%maxwidth=1024"
+        return "https://maps.googleapis.com/maps/api/place/photo?photo_reference="+reference+"&key=%PLACES_API_KEY%&maxwidth=1024"
         
     def access(self, obj, key):
         if(key not in obj):
