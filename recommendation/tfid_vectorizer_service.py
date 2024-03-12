@@ -40,6 +40,7 @@ class TfidVectorizerService:
             if len(i) < 3:
                 continue
             vectors = self.vectorizer.sort_vocab_for_message(i)
+            # print((i, [(i.similarity, i.vocabulary.vocab) for  i in vectors]))
             if(highest_similarity == None):
                 highest_similarity = vectors[0]
             elif vectors[0].similarity > highest_similarity.similarity:

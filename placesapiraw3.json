@@ -1,0 +1,1026 @@
+{
+    "html_attributions": [],
+    "next_page_token": "ATplDJZtJmRAFd7wITZF1UE9JEOuyzsf6XqSHOi_lJ9uRTQi1sEsTzIc9M8iW1pKQ_gOGn5cEmkJwZMB61iJ9cfZKoZ_MSxhEISyglF2S-cU770q7gpU_KxlWLJd8TK8aMXM6cDrXaGzaIbJkbH2MlddoWaM9Q0MSU4bwh1rBTH5b4DSSZxbdtiaZUqxvdBCWxHsslFdu-04qF3OF73tSUG6Hg8Q4UE3Dr_q5amuwgW5x-FtBvryIiUvI6qwAFxnIYREFp3PxyaG-lLb_12OjLxqrjijbHdS_c_DvW47Clm_QMQAqEeNR5pMOoO_cAoi0t-h08K9uclPK9qOsWfm4DvZn6LSbDuzoi9ed1ejTI7LeR9X4K6D8L2roIsQy2BPLyLZ3gT6IFgIZlWVwKzXAx3iOPpm3vCBXQ-JqHkR-qG7VGG8uk4jwkz5RRR6Q3LnoGnEQJtEb0DBI_gyqCZba3S5pT1QpcMk0yYyITmt6VCN0UICYtO6SjwfPmCw4M09mWHB1ZFeHAYr_Jl2iMCi320HvwYNWZWySpl_8rk0YgcdsDIxtVGFOOQsTq3nEE8H3-lL4l3wqP2SmhKt6CJBwPqwctoZ0T3obwgV3UAmODtrsV9hOblQFtEI78QsS9xQsge_N3ZrPJZxXULshoTSOv71dNLs6dw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7105504,
+                    "lng": 85.31657009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.71195293029151,
+                        "lng": 85.3179339302915
+                    },
+                    "southwest": {
+                        "lat": 27.7092549697085,
+                        "lng": 85.3152359697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Casino Anna",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102358175270368640481\">Binay Shah</a>"
+                    ],
+                    "photo_reference": "ATplDJZuXLhqtaCCZXYDaAmMV7mxHwcY_VJwMSGuj13gHsFBVppbm2S1E6Tt6phSnpNrSGl5HlTkGMSLsFZiN8ML8uEkuKoi4K52Kldu7_b0nQ4tTPMkPF3CEBgGCIWKAv1ehFKQoQWk_YQBlZ6fpAlaZn1WQiSrdQos8KE2jUh464MASyok",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ6QvDKwIZ6zkRl-EMjXNfCQY",
+            "plus_code": {
+                "compound_code": "P868+6J Kathmandu, Nepal",
+                "global_code": "7MV7P868+6J"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ6QvDKwIZ6zkRl-EMjXNfCQY",
+            "scope": "GOOGLE",
+            "types": [
+                "casino",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61,
+            "vicinity": "Seto Dhoka Marg, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7046884,
+                    "lng": 85.3072686
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7060373802915,
+                        "lng": 85.3086175802915
+                    },
+                    "southwest": {
+                        "lat": 27.7033394197085,
+                        "lng": 85.30591961970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Jagannath Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1337,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104802757005960414998\">Amit Bohara</a>"
+                    ],
+                    "photo_reference": "ATplDJa1LE04TDBjUnqULdxhTv_nbjI_j1CcmJjcOJNViCuzHEYF39A6Mos7UE3yKMosygUULMqiHain2ALCo5M5hbPaNSJ0Qt-q9xE7CLKkiXxOzGhMujrGofRbEVn7tuVA5ARa-WLKzpEKJ5PTtNHIsQfCfZn7prV53L5EmhfqENM9YiA0",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJ58lAH1YY6zkR-2rzN2hCUwY",
+            "rating": 4.7,
+            "reference": "ChIJ58lAH1YY6zkR-2rzN2hCUwY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 79,
+            "vicinity": "P834+VWC, Hanuman Dhoka Road, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7100359,
+                    "lng": 85.3140346
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7114070802915,
+                        "lng": 85.3153863302915
+                    },
+                    "southwest": {
+                        "lat": 27.70870911970849,
+                        "lng": 85.3126883697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Joy Travel and Tours Pvt. Ltd.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 634,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104901125177128922751\">Joy Travel</a>"
+                    ],
+                    "photo_reference": "ATplDJYaPqu-apwRavYE7K-l9wL5BS5iTHitQKkQk6Il4J_k725s5Rq-7uCecXTWV2p_UqKIXc-lDHZs0iIzwUaU0IIW-aVTRNDKNtkok0s-tcyuE4gqikLKyj4NbVe-Pvugr0yZ3fD3UrSonNfDcbRHCfUsb1h9lPQs3ObMtOcxQeatipbo",
+                    "width": 845
+                }
+            ],
+            "place_id": "ChIJQ8qU5QEZ6zkRp_gC5x9z8NU",
+            "plus_code": {
+                "compound_code": "P867+2J Kathmandu, Nepal",
+                "global_code": "7MV7P867+2J"
+            },
+            "rating": 5,
+            "reference": "ChIJQ8qU5QEZ6zkRp_gC5x9z8NU",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38,
+            "vicinity": "Jyatha Marg, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.710478,
+                    "lng": 85.3095507
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7118701302915,
+                        "lng": 85.31093378029149
+                    },
+                    "southwest": {
+                        "lat": 27.7091721697085,
+                        "lng": 85.30823581970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Narba Treks & Expeditions(p)Ltd.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1076,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117827875226071690871\">Narba Treks &amp; Expeditions(p)Ltd.</a>"
+                    ],
+                    "photo_reference": "ATplDJacgEhQAhNhh3Y8Uqnjds1lINLf47OnIVREW-ARHtQCXQblEzjzA138LwKMruwq1udGuFIQNbHEfe95l7QSp3RDuAj9xWwhoi5dCvPRsWdMvTLazz5WwANTbyg_8UV7arlmjxweW-ZQLvtkqOVkrHwuRlPe2Ml4h369i2SHgpT5_4Vl",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJhYoGBPwY6zkRHlLYiF-hzNM",
+            "plus_code": {
+                "compound_code": "P865+5R Kathmandu, Nepal",
+                "global_code": "7MV7P865+5R"
+            },
+            "rating": 4.9,
+            "reference": "ChIJhYoGBPwY6zkRHlLYiF-hzNM",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38,
+            "vicinity": "Thamel, Kathmandu, Nepal, chhetrapati, kathmandu, nepal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7141261,
+                    "lng": 85.3145041
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7153359302915,
+                        "lng": 85.3158172302915
+                    },
+                    "southwest": {
+                        "lat": 27.7126379697085,
+                        "lng": 85.3131192697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Garden of Dreams",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 9000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117351034781183086591\">Paras Mani Amgain</a>"
+                    ],
+                    "photo_reference": "ATplDJYGPnG3zq1wfKWjfCZ8SNnja0A-dpxayr-TbRJOywIMihJ8i9RAYpUYU-XJW99cHJsXKSpCt4GA6L1TFM5-kSY4p5AQ6P58qQfv-iNNVmSPC8d3wpChDZorrKgBn17obT3ud0jTBckg4oCsFCL924G45pFpVwJcmvkHx3wV_hqgRuuV",
+                    "width": 12000
+                }
+            ],
+            "place_id": "ChIJi-BViAIZ6zkRaq6h8vq9K_U",
+            "rating": 4.2,
+            "reference": "ChIJi-BViAIZ6zkRaq6h8vq9K_U",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11609,
+            "vicinity": "P877+MR2, Tridevi Sadak, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7149488,
+                    "lng": 85.3124821
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7162857302915,
+                        "lng": 85.3138278802915
+                    },
+                    "southwest": {
+                        "lat": 27.7135877697085,
+                        "lng": 85.31112991970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tour Guide In Nepal- Trekking Agency Nepal | Nepal tour",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112500119652372468129\">Tour Guide In Nepal- Trekking Agency Nepal | Nepal tour</a>"
+                    ],
+                    "photo_reference": "ATplDJaTAJhnT0e8CBv1ZMjLUXhG4IVcJOkXmr2cwLPvN62kQkg88CrGu27Tiul1wUQEa8qTaNGvc1NCToknT7npHE_wPUffPxc5wsc-pAkWD6YXX5kg2OdueSU7tHdNLiI56FXFeVv4o_EzPXvb7OVnmlKSHyBZ5zAIWZuXEjwH7RRaiV1Y",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJoyVFdf0Y6zkRJc5Z7Qhkij8",
+            "plus_code": {
+                "compound_code": "P876+XX Kathmandu, Nepal",
+                "global_code": "7MV7P876+XX"
+            },
+            "rating": 4.8,
+            "reference": "ChIJoyVFdf0Y6zkRJc5Z7Qhkij8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "Thamel Dabali Marg, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7144857,
+                    "lng": 85.31146299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.71578258029151,
+                        "lng": 85.3128050302915
+                    },
+                    "southwest": {
+                        "lat": 27.7130846197085,
+                        "lng": 85.31010706970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kailash Adventure Pvt Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 318,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115716007154268163177\">Kailash Adventure Pvt Ltd</a>"
+                    ],
+                    "photo_reference": "ATplDJYOYPrmcZyxU-j8Pg8skZy0s9XzRK-aygienWBkTlWMjPPCI1Wm8_XQwD558DgY1AjH_CYAFHZjGbC3Jc8Da2Jo9f-xOC9_M2-Wu_4A3fKSZA0fM9gMKx64dYsjjSzgmcGmPxZXz81J9r4fDiEIKEeIn0q1fZwTAqlQE2OXX9dvIuMA",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJp4BZBP0Y6zkRU9qP_Rll-V8",
+            "plus_code": {
+                "compound_code": "P876+QH Kathmandu, Nepal",
+                "global_code": "7MV7P876+QH"
+            },
+            "rating": 4.8,
+            "reference": "ChIJp4BZBP0Y6zkRU9qP_Rll-V8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7153499,
+                    "lng": 85.3113663
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7166940802915,
+                        "lng": 85.31274208029151
+                    },
+                    "southwest": {
+                        "lat": 27.71399611970849,
+                        "lng": 85.31004411970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Scenic Nepal Treks & Expedition Pvt. Ltd.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117202958673411370184\">Scenic Nepal Treks &amp; Expedition Pvt. Ltd.</a>"
+                    ],
+                    "photo_reference": "ATplDJYzPUdNEu5GaUSHDM94s4Z-hj-1v-aR1EHJHspF6CDegi43RwS2iYNnxINOYGflAhSILnNOtu-HJZvVQzskEXroi5jgcUaGct6lTiS1pzCHCoCf7cylgrk8yZ9HbesGFBJPUDYkoSfPeptn78o-9xNTBzgKZkNnmqBQz14NzvhQty98",
+                    "width": 5760
+                }
+            ],
+            "place_id": "ChIJoS-AO-MY6zkR88MID8gZCt0",
+            "plus_code": {
+                "compound_code": "P886+4G Kathmandu, Nepal",
+                "global_code": "7MV7P886+4G"
+            },
+            "rating": 4.7,
+            "reference": "ChIJoS-AO-MY6zkR88MID8gZCt0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52,
+            "vicinity": "Bhagwati Marg, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.704272,
+                    "lng": 85.307417
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7056209802915,
+                        "lng": 85.30876598029151
+                    },
+                    "southwest": {
+                        "lat": 27.7029230197085,
+                        "lng": 85.30606801970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Hanuman Dhoka",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113330987551171145733\">Xilont</a>"
+                    ],
+                    "photo_reference": "ATplDJZFNSaro8AARHu3AIxoPzIMVaC3Vo4aTktk7VTTWq77JZfut9IdwZ7ZbSGf8wjwuRuMNySNHYnrbYQvUoZ-x6Bdovd_iXIU354AMk6m0B2xVqcXrqjsbU3i6PQ0NFnb_UDm6UcRKe_UgAkYhzKb218fsnpWKrLPeoEUIy7JiNIRuZ5n",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJpUfhGVYY6zkRSRfU0WG-41s",
+            "plus_code": {
+                "compound_code": "P834+PX Kathmandu, Nepal",
+                "global_code": "7MV7P834+PX"
+            },
+            "rating": 4.5,
+            "reference": "ChIJpUfhGVYY6zkRSRfU0WG-41s",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1083,
+            "vicinity": "Hanuman Dhoka Sadak, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7169915,
+                    "lng": 85.3117133
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.71833533029151,
+                        "lng": 85.3131099302915
+                    },
+                    "southwest": {
+                        "lat": 27.7156373697085,
+                        "lng": 85.31041196970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Leaf Holidays Treks and Expedition",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 415,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105468184090474309436\">Leaf Holidays Treks and Expedition</a>"
+                    ],
+                    "photo_reference": "ATplDJZc3rEWmYlSNkpNsqolL__lr9vcuNNTBIXewqslEo55JIMcBG4GCLL6McOxXpLm8k8DC_37vEPvF5E6bUF44oW1HRJZVjUvs0xuOTJfNdAEy1NGs4yc_9Ndq2n2JQS8QtHDjS9eKMTlSSm3Se-JzxGuapWUem-_a8yMKmQQsp-K0gfw",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJAQi3AP0Y6zkRZmtXnfsofik",
+            "plus_code": {
+                "compound_code": "P886+QM Kathmandu, Nepal",
+                "global_code": "7MV7P886+QM"
+            },
+            "rating": 4.5,
+            "reference": "ChIJAQi3AP0Y6zkRZmtXnfsofik",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Thamel Marg, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7172233,
+                    "lng": 85.3117795
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.71857088029151,
+                        "lng": 85.31314813029151
+                    },
+                    "southwest": {
+                        "lat": 27.7158729197085,
+                        "lng": 85.31045016970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Nepal Everest Adventures Pvt. Ltd.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 405,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102760924538122899007\">Tika Paneru</a>"
+                    ],
+                    "photo_reference": "ATplDJafiejeNQJsJsbS1N_q9uqHDRLeg9wx_UXNt2HRh_BlpbcB7yNhegmRgfS_gj2ePulYVkEGB2hkyeS955jD-eRKPEiELpBULr_xs4HzcpeGS6AbfuYUywFbG90pOkNP9drEau6I-4xY5pIoQVAPDLbnlnR-IA1VATcjcp_ggt7wic4l",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJAYgRUUgh6zkRGHIRojfFeVo",
+            "plus_code": {
+                "compound_code": "P886+VP Kathmandu, Nepal",
+                "global_code": "7MV7P886+VP"
+            },
+            "rating": 5,
+            "reference": "ChIJAYgRUUgh6zkRGHIRojfFeVo",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Thamel marga, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.716704,
+                    "lng": 85.30983499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7180841302915,
+                        "lng": 85.3111901802915
+                    },
+                    "southwest": {
+                        "lat": 27.7153861697085,
+                        "lng": 85.3084922197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Magic Expedition and Tours",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106751078567655330588\">Magic Expedition and Tours</a>"
+                    ],
+                    "photo_reference": "ATplDJZs1xp5SOj16gxO-SjuAisXrofva0lOMB2iH7IXiot-9CegJx2XFr3CF6y8T1GuCJa9q_NhAHpg8OwJxpdBpc6Fw0tuTMIo_w5ymsItoGl-pxjiDn6C2qd6f4ofu7JZGbMjKPQ3tEgzWEi7btwV7e_Nry9E615MO-CyRs2rQo4R_VQl",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJ55-yyvwY6zkRTGiROpIMiFY",
+            "plus_code": {
+                "compound_code": "P885+MW Kathmandu, Nepal",
+                "global_code": "7MV7P885+MW"
+            },
+            "rating": 5,
+            "reference": "ChIJ55-yyvwY6zkRTGiROpIMiFY",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "tourist_attraction",
+                "park",
+                "school",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 101,
+            "vicinity": "Z Street, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7039986,
+                    "lng": 85.3067169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7053475802915,
+                        "lng": 85.30806588029151
+                    },
+                    "southwest": {
+                        "lat": 27.7026496197085,
+                        "lng": 85.30536791970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Gaddi Baithak",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112776772683453374397\">T Rana</a>"
+                    ],
+                    "photo_reference": "ATplDJbv5Io8JNTVLhFPWyTJmPMV3YaXqMhssjGenE0hK5gfFNjwCF7_SQpZElmkyvteQ8VsGwukIHFlg8LpcJhjX4D3fN_fST1KxXCNa_Oj0HBSk7qZKYw6YUMb8I7Y--5P6H1S1hgxNS84onPtrSSVaaYKxMMWLAwr3s1e6QIEq1-2Ify-",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJlYz2OlYY6zkRlDqJ5_Fj9vA",
+            "rating": 4.4,
+            "reference": "ChIJlYz2OlYY6zkRlDqJ5_Fj9vA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 143,
+            "vicinity": "P834+HMW, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7168514,
+                    "lng": 85.30890730000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7182040802915,
+                        "lng": 85.3102460802915
+                    },
+                    "southwest": {
+                        "lat": 27.7155061197085,
+                        "lng": 85.3075481197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Boundless Adventure (P) Ltd.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114991197799577343427\">Boundless Adventure (P) Ltd.</a>"
+                    ],
+                    "photo_reference": "ATplDJZaC4URWquF6mGfK6ZiDnht9UTii2upUNC8NWoa5bOek7joNXQ-fj5EWJxgz1Pucm6irau0RlGxGBQ5zuGv4HmvAqBvxpXoUJ3J_z28NP3qyK0wPoSVoiXlW6hVD7AJvJ5tcUnN1ZyWzLBE_V2fTRvjekk2X2fh7MiulrDzZGZBL7ON",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJtQvRxfwY6zkRuSkj8wCojwg",
+            "plus_code": {
+                "compound_code": "P885+PH Kathmandu, Nepal",
+                "global_code": "7MV7P885+PH"
+            },
+            "rating": 5,
+            "reference": "ChIJtQvRxfwY6zkRuSkj8wCojwg",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Paknajol Marg, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.71564990000001,
+                    "lng": 85.3098571
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7170781302915,
+                        "lng": 85.31121948029151
+                    },
+                    "southwest": {
+                        "lat": 27.7143801697085,
+                        "lng": 85.3085215197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Adventure Great Himalaya Treks & Expedition",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111387305167858273449\">Adventure Great Himalaya Treks &amp; Expedition</a>"
+                    ],
+                    "photo_reference": "ATplDJbpKMMoqGMPcSB7VNCqWcdo19aXyHDSFyUWIb11h__pEacS1KtOgfa-nQXLD7wMQeVwIw7U6A66d4sxf7SGXj7uXdASxdvKhm31ILt4DDE2UeEBHwzumbehf7GGsLfFeowMLhtJG2aLOb95EVaUClGX-C5OiWBwmhZqUaY2Z9ioliiQ",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJX3fTwPwY6zkRq3cnXvyGT_I",
+            "plus_code": {
+                "compound_code": "P885+7W Kathmandu, Nepal",
+                "global_code": "7MV7P885+7W"
+            },
+            "rating": 4.9,
+            "reference": "ChIJX3fTwPwY6zkRq3cnXvyGT_I",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57,
+            "vicinity": "Saat Ghumti Marg, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7260237,
+                    "lng": 85.3135204
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7273003802915,
+                        "lng": 85.3148420302915
+                    },
+                    "southwest": {
+                        "lat": 27.7246024197085,
+                        "lng": 85.31214406970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kanchenjunga Trekking",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112617773676378713596\">Kanchenjunga Trekking</a>"
+                    ],
+                    "photo_reference": "ATplDJbFUwr48ZAFiCaHqCGzZE9w-TOyHjWYuxbOxlZ4hcRWp8hFgFynXtOXMNeR3e0AK8f1caxOnB7TAp-WLJs2fi_HSCqh_eGq0jGdRmu1VilY3_ghAneL8w1DuvWpXXGNJDDB8kGhorsdCyUG7UnqXCW--wMv3cNWWnmSi7bqH6MDgDbq",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJGWl75-IY6zkRaTGSyuCJ3LM",
+            "plus_code": {
+                "compound_code": "P8G7+CC Kathmandu, Nepal",
+                "global_code": "7MV7P8G7+CC"
+            },
+            "rating": 3.6,
+            "reference": "ChIJGWl75-IY6zkRaTGSyuCJ3LM",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.728793,
+                    "lng": 85.3145811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7301293802915,
+                        "lng": 85.3159941302915
+                    },
+                    "southwest": {
+                        "lat": 27.7274314197085,
+                        "lng": 85.31329616970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Red Carpet Journey | Nepal Tours and Travels",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105275616958116475487\">Red Carpet Journey | Nepal Tours and Travels</a>"
+                    ],
+                    "photo_reference": "ATplDJbg3IYtGdkXMh7e8hZjTbBNn2IQ_GRIt9tk3u3qRiUsLX4fIo1Oc55gbOLQUCSHNrY94RsRiwFKGYFU-dAD8zONW6Cft1tsJfuccvhE4emi4a1MDZ9iL5_kE_KCieJkQuzFPqbSx1l2V8bxx_c-FMhgwkNqO0rrhsVTLc5vkrK0v6sG",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJnRha5AEZ6zkR0zpnDM6OF_Y",
+            "plus_code": {
+                "compound_code": "P8H7+GR Kathmandu, Nepal",
+                "global_code": "7MV7P8H7+GR"
+            },
+            "rating": 4.2,
+            "reference": "ChIJnRha5AEZ6zkR0zpnDM6OF_Y",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Samakhusi Marg, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7142925,
+                    "lng": 85.30723499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7155799302915,
+                        "lng": 85.30858428029151
+                    },
+                    "southwest": {
+                        "lat": 27.71288196970849,
+                        "lng": 85.30588631970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Glorious Himalaya Trekking (P) Ltd.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109802969158374399998\">Glorious Himalaya Trekking (P) Ltd.</a>"
+                    ],
+                    "photo_reference": "ATplDJZjv5FQgnaF9J3F5EvtO7jvkQySNjDs2lo_yaE2rcb5Rv506wi0txiAMuTp0W7oRHR_D0enoRnBO90sV3T70y_Yzom9Nvo-zGu2XtCvYS-YMJUMi9zKu3kF_qfCVem0kZs49J6KT2lTxqGexD_PHMrHUDlGNmsFwuPlPvHMF-T6wNY4",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJter_HaIZ6zkRD7OGvrsk1qE",
+            "plus_code": {
+                "compound_code": "P874+PV Kathmandu, Nepal",
+                "global_code": "7MV7P874+PV"
+            },
+            "rating": 4.8,
+            "reference": "ChIJter_HaIZ6zkRD7OGvrsk1qE",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Taphwo Swan Marga, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7181353,
+                    "lng": 85.3084872
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7194854302915,
+                        "lng": 85.3098098302915
+                    },
+                    "southwest": {
+                        "lat": 27.7167874697085,
+                        "lng": 85.30711186970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Icicles Adventure Treks & Tours (P.) Ltd.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100322895160483339757\">EL L</a>"
+                    ],
+                    "photo_reference": "ATplDJZnJuKJhleUSIuvdEmGlsUJuOn27r3OdFb_9-BuK9QL4HHruGzUQ7Pp9rGZtzVdkFAlDhn7UozZ7quKEFD-HajT3LDh2_uRDysl2D4yHh-59kEZ5rhJ1NctLnKSP0biXP-6_LrRQqy8tFCf9XFPIBIElafNqzlhJetf4F2Mv6tnz5QZ",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJeckbpfoY6zkRR9FtukpQOPk",
+            "plus_code": {
+                "compound_code": "P895+79 Kathmandu, Nepal",
+                "global_code": "7MV7P895+79"
+            },
+            "rating": 5,
+            "reference": "ChIJeckbpfoY6zkRR9FtukpQOPk",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "Paknajol Marg, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.718883,
+                    "lng": 85.308099
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7203341302915,
+                        "lng": 85.3094619302915
+                    },
+                    "southwest": {
+                        "lat": 27.71763616970849,
+                        "lng": 85.30676396970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Encounter Karma Treks Pvt Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117234695076936793733\">Encounter Karma Treks Pvt Ltd</a>"
+                    ],
+                    "photo_reference": "ATplDJbp3V9MnskRtrGajPjhPcVy_tDHKcbBGb2H8TLNLDcuXIAHVcu66qso6orqgiwNsVTe_WkLE5Z0MzPFeduFtjxXpQGtC07Np3h6V48HlQdu0zbbzrjsQ-JaI0qdSFoyfaO9ThdxaJ04212Mb12vAzqpFjotNpQ_CMDno9An-n2GEDC2",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ21k2aeMY6zkR8-sYawn6pcQ",
+            "reference": "ChIJ21k2aeMY6zkR8-sYawn6pcQ",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "P895+H65, Kathmandu"
+        }
+    ],
+    "status": "OK"
+}

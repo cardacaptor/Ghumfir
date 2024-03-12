@@ -1,0 +1,958 @@
+{
+    "html_attributions": [],
+    "next_page_token": "ATplDJa_ZYh-F2aO87KQIRdh_OSIMYmjJ3xnPLo-awS9KOiLO-S4l2_6HN4FOjoMOXQZVKXxX6QHlJjSQUfWOQOsPK-AOX4Z7DB2fAr4XZgKMoxzWr0KPmW3-glaPHCZrBVYg-hT2nHYmJ9kJItFAxklJiPNluMmw18kns9F7YjV-VNdnUIh1MSDInKBlnUsZepKOA_k7lgWujiy15howfAwB6Rhl4ck3ptY0y9y1uSG4czEAIgBhsKgea-WI3T-R2lzjqxHiEYECjAoNuEj1I1oZcDJnZjbjk1eiT2ioQ5vJOzBPjoi5sZE7pJf6J9s6RYdPOOohOUyt9ho7lCeBFibwsZasVNedffr7vcZKAfz47LvtL2guc2mf6HB2N6pucdx-FB2_PJpCGn_V_B_S7X63-nQbK6VP8l5VRp_D87Atk67nP3QV8OpRmeNUgaeAK-SAHaxuryH0ajm-c3KrvnNo0jRRXbL9dH7PMJ80pJ8Au-jxEw6-ZnKNYZQ2xzCM-WEToKzxP9X8QPCGLjHeRZAtQUQ6ewcXl-55pKAirIgmUJGJcLh76VHqjeSqqyfAEgsIflwgDZyvjok3Rn5yg4SlqoOrwePRyYSAoFV1MMeCg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "RCMJ+QFQ, Pasakha, Jaigaon, Gabaur Bachhra Forest, West Bengal 735208, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8344651,
+                    "lng": 89.43122749999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.83599142989272,
+                        "lng": 89.43213572989272
+                    },
+                    "southwest": {
+                        "lat": 26.83329177010728,
+                        "lng": 89.42943607010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pasakha picnic spot",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101406695489081673528\">ASIM SARKER</a>"
+                    ],
+                    "photo_reference": "ATplDJZn--dBRbcN9mzZBRucwEXVFpQuFJpDO0xzKZNQBpmD6coE8XCk2SwkPwT4eIfvMQcvWcnTQKZIXqtBOO-aiM71i4KBTaHFMg1LKcflDb6x_xiUjVGIN0eWrCwCCPwInKNhHT2XoFy8OTuDXRUyZWqYisUoyWTVvIEkuOHNtkUJwv7s",
+                    "width": 4618
+                }
+            ],
+            "place_id": "ChIJn8SrOa414jkRrrvb3HD5mxo",
+            "rating": 4,
+            "reference": "ChIJn8SrOa414jkRrrvb3HD5mxo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 103
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "FJCJ+HFH, Genyen Lam, Thimphu, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.4714299,
+                    "lng": 89.6312368
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.47277912989272,
+                        "lng": 89.6326887798927
+                    },
+                    "southwest": {
+                        "lat": 27.47007947010727,
+                        "lng": 89.62998912010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Simply Bhutan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110393131361880623449\">Srihari Sastry</a>"
+                    ],
+                    "photo_reference": "ATplDJa3cawqzjGGLqApOsMMBn1Ct7ZjyWX7fAMCEuyA_TTmuKIuTCcFfPRUQdFFX0c2St_qgYzZoeODpNZkegNvdOU4JnSkiUh9_HSLXJuZc2j2HRtOl-vkY05QkzbAnLpPLiKIellDiMq-sKWN0-LHk90XpVR28NlQSukZoSPSkx0BltEO",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJbxfqwBuU4TkRqsnL1fbxHkw",
+            "rating": 4.4,
+            "reference": "ChIJbxfqwBuU4TkRqsnL1fbxHkw",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 940
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "23MR+QQH, Thanza, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 28.0344402,
+                    "lng": 90.0919887
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.03579002989272,
+                        "lng": 90.09333852989272
+                    },
+                    "southwest": {
+                        "lat": 28.03309037010728,
+                        "lng": 90.09063887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "LUNANA VILLAGE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106167692877341189034\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJY4DYvAcU5Ve2PzOz4hmCQ0ekW8g2QJGpb45vAGyo57ARGZvfNNk5B94_RaLOELcK9va4s87EDasZwUbAfjwjG7lBXiALCn5VAjHq0918PwJkqIyVM6eSCUEjOs2x0L0bi-M58Or57T2WuCKsHgs6GnnE3r1Zk6RxTsyeYgscRPM2mJ",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ8bhJ-iqPXzcRL_Yh0D9TEoE",
+            "rating": 4.9,
+            "reference": "ChIJ8bhJ-iqPXzcRL_Yh0D9TEoE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "F59J+XQR, Dungdungneysa, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.469997,
+                    "lng": 90.1818813
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.47068167989272,
+                        "lng": 90.18387732989272
+                    },
+                    "southwest": {
+                        "lat": 27.46798202010728,
+                        "lng": 90.18117767010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Phobjikha View Point Chorten",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116854270779263430084\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJadCOZeAfWQcWBALGKdAeAJyipqle8wUMilWW1IN7Ms2A5nRtqvnED4imOwVcZtai7cnbiOGe3t9yiioVgjVZWG2fmigPq6XGyIXeJjUFn4B7N4z9HU5bAQKE4K5f6wH8CAVaW0bPO1ZsKPQRvqFlfVnV3qJidgpFdUsVyI5c-rcFrQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJS6CHcWZDXzcR_d16aH2hZRE",
+            "rating": 4.8,
+            "reference": "ChIJS6CHcWZDXzcR_d16aH2hZRE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kanamara F.V., Assam 783393, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.7184013,
+                    "lng": 90.5774474
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.71976787989272,
+                        "lng": 90.57879007989273
+                    },
+                    "southwest": {
+                        "lat": 26.71706822010728,
+                        "lng": 90.57609042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kalamati",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115166316584065504599\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJY0udN6CTGgdoJJGoKNJokxaZ8aOC080d2MiPRzpsUfa8UvQmJ9vRPJT3SlDcmEdybUyJNSkwUfKL_8ZXQ6rA-e3gQ9Fawqaa7oi-QcqN_yJVjDWBMlUcGN1-RyEr7PQrKZ5gcsvUg_85coaVoajdgS7_ZZgpDy7PwxkKhpvV959Yz4",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJJ0DdXBwfWTcR3LkPYtqFVFk",
+            "plus_code": {
+                "compound_code": "PH9G+9X Kanamara F.V., Assam, India",
+                "global_code": "7MRGPH9G+9X"
+            },
+            "rating": 4.2,
+            "reference": "ChIJJ0DdXBwfWTcR3LkPYtqFVFk",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 165
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "MMXP+X2V, Jayanti Tea Garden, West Bengal 735227, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.6999786,
+                    "lng": 89.68504430000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.70138657989272,
+                        "lng": 89.68652122989273
+                    },
+                    "southwest": {
+                        "lat": 26.69868692010728,
+                        "lng": 89.68382157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Jayanti Picnic Spot",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4208,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110808066370136474589\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJYolGOARE4ek9FX867caMCwoOAC1ebGKyF8kY5p16uqdJbgYlfZ2rwWXvcPQWwKv9uxHDe8IKsZC4iZUudMaivct2wvHeUBFruGLXf8uIhhWRT7PknJp_vnciizFOidP9bSGPMwioob_-oZMElOWNLtG_4lTcjW-1zM8WlQSLcMviwm",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJjXUtPfRD4jkRfV_PbVrrC24",
+            "rating": 4.2,
+            "reference": "ChIJjXUtPfRD4jkRfV_PbVrrC24",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 220
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "JVQ4+5FH, Panga Teng Tso lake, Arunachal Pradesh, India, Tawang",
+            "geometry": {
+                "location": {
+                    "lat": 27.6379321,
+                    "lng": 91.85621929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.63897592989272,
+                        "lng": 91.85815305
+                    },
+                    "southwest": {
+                        "lat": 27.63627627010728,
+                        "lng": 91.85501285000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Panga Teng Tso lake",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116467944250664649740\">lordofthestreets69</a>"
+                    ],
+                    "photo_reference": "ATplDJavAd9KAJQrWHocqhJMaOg1oQRq7t68tbcDOFX2lY9ZFA5r1M4ZBrGTrF3wK2avi1XZXF7SAeR14v7u2MOCjTMLllXBa9b2j5R4dDC9-NL2FfFwJYC6hNt5nRUTWXrrHzsfFXkHSvnTmQjO2rKsPYadY-oed0ZIyqAbNJYZH_xNwPlT",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-bF44nP2XDcRgQbLp-4SLzg",
+            "rating": 4.7,
+            "reference": "ChIJ-bF44nP2XDcRgQbLp-4SLzg",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 406
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5GHH+7CR, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.178245,
+                    "lng": 90.5285025
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17959482989273,
+                        "lng": 90.52985232989272
+                    },
+                    "southwest": {
+                        "lat": 27.17689517010728,
+                        "lng": 90.52715267010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Nabji Viewpoint",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114785677640861177048\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJbz_fXx9RqCfG1n4QS02oco3gBgpw-ejXRe76c0Mz0tzhzJLCPMPW29Mbz6xexSdi8NlT1-x3-ATwtSiooy2e6F9G4J-y6BeeXIlcqA8tj1GGapHiYJbux2ZjYON9HyjdFXRiJJhzuMfvnLEFN2fSonaRtTgrvaxaUVX-D6MJnmYxrw",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJ37Wbr4UrXzcRbfghVEneytw",
+            "rating": 5,
+            "reference": "ChIJ37Wbr4UrXzcRbfghVEneytw",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "FJRP+QJC, Thimphu, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.4919418,
+                    "lng": 89.6365144
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.49327647989272,
+                        "lng": 89.63770487989272
+                    },
+                    "southwest": {
+                        "lat": 27.49057682010728,
+                        "lng": 89.63500522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ludrong Memorial Garden",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109805732726037650405\">Bhutan Swallowtail</a>"
+                    ],
+                    "photo_reference": "ATplDJasoUEpjBAfH0AsHFNXzbwMhHmxvYblZvplQAgLLKG22NlumPUB3fQwbEm_kFE-3Iw-4ePDR-rlhCt5RsJ811OBRoPkac-SU3g5UFKtL3uncJZry8sc_EdrMONoKBi9KWgtsW3uptMJUEtoJ0QhtwdrQiNf-TnYB8XpvV8BGRBJMGdF",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJ954LGDCU4TkR2p_Y7NczeaA",
+            "rating": 4.6,
+            "reference": "ChIJ954LGDCU4TkR2p_Y7NczeaA",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HVQ9+HXR, Punakha, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.5889867,
+                    "lng": 89.86989109999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.59046942989272,
+                        "lng": 89.87099997989272
+                    },
+                    "southwest": {
+                        "lat": 27.58776977010728,
+                        "lng": 89.86830032010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Punakha Suspension Bridge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114508021123729888747\">Hrishikesh Sinkar</a>"
+                    ],
+                    "photo_reference": "ATplDJbRSRURhxlpqQprniJ-3SONNP1Q7tO5bUqlS13mn2gk1CcqULRKySXvR9KfkBhbW0lC_dzblyTCTo6fgXMLa63yI5KAFcadZyPwBeSm_qnHA9ZSeWRAqdiw0dyv-p9oRb7JlxVGTCjXIilOQt3Fxd0JVQMxt0TfFzBv241jHLs5KHBh",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJ6X8mDCLd4TkRy-VNzjpBPC4",
+            "rating": 4.7,
+            "reference": "ChIJ6X8mDCLd4TkRy-VNzjpBPC4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1022
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "RFXH+335, Bongaigaon-Gelephu Rd, Amguri, Assam 783370, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8476354,
+                    "lng": 90.47773389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.84898317989272,
+                        "lng": 90.47908862989273
+                    },
+                    "southwest": {
+                        "lat": 26.84628352010728,
+                        "lng": 90.47638897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mwnabill Picnic way 3 ali",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103518695587824364859\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJYaBhy8billiFAgRPqA1sPSXrcprRHnH1CJrBSAxWV1HPo5DbJY0cl5Myq88V8t8NeWBaEI_wzZw0SnW7P46qASmtJtav5AmxBFwX33YA3rCJebbE_3iNfHa_hEIoY-E-QSqAM9UFmmmqi3mX4TlfZv3vHM69v8ID8N4tHKU4gF-px1",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJnWoqw1XdWDcRhUQhGTjke54",
+            "rating": 5,
+            "reference": "ChIJnWoqw1XdWDcRhUQhGTjke54",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "846 Je Bamo Lam SE, Tshatshobaykha, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.4381802,
+                    "lng": 89.66971889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.43992662989272,
+                        "lng": 89.67120962989272
+                    },
+                    "southwest": {
+                        "lat": 27.43722697010728,
+                        "lng": 89.66850997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Semtokha Dzong སེམས་རྟོགས་ཁ་རྫོང་།",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1064,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116176667029963684056\">Daniela Stroe</a>"
+                    ],
+                    "photo_reference": "ATplDJaMIZxqrc0IiWcmeRaKkTng6dFE6w5yfqJY4mXH_jxKUeT7RsIpTOw0jYXwtZU8M6kH03eBoLIE6PKlynz3dhk98LzJYq6Vxl82PQJ2gaq7tKWkImt3qYdlKbWaQ0-RXLCPCWEyQ8S07rLe1EGcDou8ivpI4SnNMJJTDltzU_8A_r78",
+                    "width": 1599
+                }
+            ],
+            "place_id": "ChIJ1QkVeHGT4TkR590WadvVg8E",
+            "plus_code": {
+                "compound_code": "CMQ9+7V Thimphu",
+                "global_code": "7MVFCMQ9+7V"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ1QkVeHGT4TkR590WadvVg8E",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 396
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Drugyel Dzong, Chuyul, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.5033487,
+                    "lng": 89.32237730000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.50468837989272,
+                        "lng": 89.32372297989272
+                    },
+                    "southwest": {
+                        "lat": 27.50198872010727,
+                        "lng": 89.32102332010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Drukgyel Dzong འབྲུག་རྒྱལ་རྫོང་།",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107853409691626619868\">T. C Fox</a>"
+                    ],
+                    "photo_reference": "ATplDJbwAofW2g9gx1OC57UwbyKGW9CFELcC0DGIPk2B8PKVBbQBosuzVtGJmAMlH8ln3PfPhCZky-Jx0fXgHypR2oaAS5NKhzFNT2IoqWn2iqYqWkOtDAbMpMU1smrW-aY6Yq-6I0WXJDcIKaqRgaS-t02jU3CgGMc5WGGGvLUbOKKzGJ9w",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJF9o8g3N04TkRq74BQjKsxCE",
+            "plus_code": {
+                "compound_code": "G83C+8X Chuyul",
+                "global_code": "7MVFG83C+8X"
+            },
+            "rating": 4.2,
+            "reference": "ChIJF9o8g3N04TkRq74BQjKsxCE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 152
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jahanar Ghola, Assam 781319, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.2254375,
+                    "lng": 90.8580625
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.22676502989273,
+                        "lng": 90.85938162989271
+                    },
+                    "southwest": {
+                        "lat": 26.22406537010728,
+                        "lng": 90.85668197010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Baghbar Hill",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1844,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106116453786739858549\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJZZnyFr7vI3KdudAkpOluwMEqpxQ9SbJjgjKunbxwxhcDjhoABtyiAJ1Juh0r8-He3R4JlUUJcFnGR7MXQkNucIikdQpSfFNkPoPFOop_DUo8X-1GdPEpkn5gryMmtx0Mq352N2rf25kM2IHPiVf4A6-NPFVfGgOZAZHO6TuzgKUe8S",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ_QoWivO9WTcRi4SEOD9uQBQ",
+            "plus_code": {
+                "compound_code": "6VG5+56 Jahanar Ghola, Assam, India",
+                "global_code": "7MRG6VG5+56"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ_QoWivO9WTcRi4SEOD9uQBQ",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 65
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "RFRW+CG5, Assam 783370, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.8410207,
+                    "lng": 90.4963628
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.84237052989272,
+                        "lng": 90.49771262989273
+                    },
+                    "southwest": {
+                        "lat": 26.83967087010728,
+                        "lng": 90.49501297010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mwnabill Picnic Area",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4618,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111368062351366336383\">Pritam prit</a>"
+                    ],
+                    "photo_reference": "ATplDJZF27hCC5iW6oTzXj_UPuVKoAbbbmT-t5_i48FxFIey9QmWWMpgMfR6robKryCd3oOaztsCApoCi9bixDf3ZU3o6XTLrz-m1FC5eYKGolpjTlQFBAh6AIVqF_rbwQTCCS_dpcn7RpVx2BTpWv5cCdfR0CO5B7SLfDEvFgAEf96SUnPL",
+                    "width": 3464
+                }
+            ],
+            "place_id": "ChIJ5Va3-5rdWDcRoyhWP0Dmyis",
+            "rating": 3.1,
+            "reference": "ChIJ5Va3-5rdWDcRoyhWP0Dmyis",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "CF9W+6QG, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.4180585,
+                    "lng": 90.496956
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.41925027989272,
+                        "lng": 90.49841312989271
+                    },
+                    "southwest": {
+                        "lat": 27.41655062010728,
+                        "lng": 90.49571347010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bubja Waterfall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108186968207538151354\">Poonam Mongar</a>"
+                    ],
+                    "photo_reference": "ATplDJZiqgaAjepqKLd_2geP0EZfKWKGGt_kzdE8d0FNO-H1uw_sMWFe3oYCdp8ufVc3CTzZVe2hgFbHaYiWFwr6a3hsO4gcFtdHq6cLAgOxamOZ1XfcJp4Pt-SiPIcRMGKnLwv7iumivi4uvnbqM6zXslmkm8_sB2EyK2FBFRBcEejgMe9H",
+                    "width": 2880
+                }
+            ],
+            "place_id": "ChIJRfHkdmQlXzcRcJl8TdsTDK8",
+            "rating": 4,
+            "reference": "ChIJRfHkdmQlXzcRcJl8TdsTDK8",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Trashigang 11001, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.3368942,
+                    "lng": 91.5514496
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.33792392989272,
+                        "lng": 91.55283177989273
+                    },
+                    "southwest": {
+                        "lat": 27.33522427010728,
+                        "lng": 91.55013212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Trashigang Dzong",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4082,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112321412419058616817\">Lekey Choden Dorji</a>"
+                    ],
+                    "photo_reference": "ATplDJbJeK_FKUKD7jhpS9F6NrFAmwRKcXVFNEB_UpzngHigIuCTe7Tuu6G7dfC6kLVsEpDmL7FsOtwLwHJGXYRqpH9PeHTFxrEMFLsE6caCjB5TPil0hqLAFz78SozjaI1QVSf22ToJpHvvrbOO-g4VxLGWCT8J_5AtFl7YPF4SMN498-oG",
+                    "width": 6123
+                }
+            ],
+            "place_id": "ChIJwVBRPo5yXDcRv5efsBv-uxc",
+            "plus_code": {
+                "compound_code": "8HP2+QH Trashigang",
+                "global_code": "7MVH8HP2+QH"
+            },
+            "rating": 4.4,
+            "reference": "ChIJwVBRPo5yXDcRv5efsBv-uxc",
+            "types": [
+                "place_of_worship",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Central Range, Kachugaon, Kokrajhar, Assam 783370, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.5675363,
+                    "lng": 90.06297839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.56887202989272,
+                        "lng": 90.06439177989273
+                    },
+                    "southwest": {
+                        "lat": 26.56617237010727,
+                        "lng": 90.06169212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Raimona National Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118313183491500043002\">SUBUNGCHA BASUMATARY</a>"
+                    ],
+                    "photo_reference": "ATplDJZu_IlwkH_aUAWNaZ3MHXKCeH5xayWMeo8_z09bEFMdWNwEWMtc9BK2_JeSlFpdOU6TMZs0ciM6ruu348BG7l2OdiuicxlPo00PoGyaF4qL-NKfOJE6a1Ol8UzM7Sn3sFHRhZ8gmS4dn7CF5HWsWZw-pZIhIf3d_4J1_no3MVocwUfY",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJie70sD6DWDcRFO8T2xtdAo4",
+            "plus_code": {
+                "compound_code": "H397+25 Kachugaon F.V., Assam, India",
+                "global_code": "7MRGH397+25"
+            },
+            "rating": 4.1,
+            "reference": "ChIJie70sD6DWDcRFO8T2xtdAo4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Baghpara Mission, Hill Block N.C, Assam 783383, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.3298363,
+                    "lng": 90.5399631
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.33118612989272,
+                        "lng": 90.54131292989271
+                    },
+                    "southwest": {
+                        "lat": 26.32848647010728,
+                        "lng": 90.53861327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Baghpara Eco Tourism Village",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3368,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109297056548191917230\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJbHDoILRVoz2DuKhoeuFM2bJAFyCSiu6AO6ivJwB9ogY8RK43YKa_lOC8tDAvLNY2UpLciGAk1Bxwvk_r_qQ_Od22B7byA-eE8vr4b5Q3tiUfZogjDMPgIeirEj-bVTVZs0Og0056WJTvDikyFA34JBX4mknqotaMYgwKEiwPOx5n4M",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJuecLe31VWDcRrH4E384c700",
+            "plus_code": {
+                "compound_code": "8GHQ+WX Hill Block N.C, Assam, India",
+                "global_code": "7MRG8GHQ+WX"
+            },
+            "rating": 3.6,
+            "reference": "ChIJuecLe31VWDcRrH4E384c700",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "CCH8+FGH, Paro, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.428684,
+                    "lng": 89.41636539999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.43008942989272,
+                        "lng": 89.41777922989272
+                    },
+                    "southwest": {
+                        "lat": 27.42738977010728,
+                        "lng": 89.41507957010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Valleys Of Bhutan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3998,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108114047020964618358\">bryan lee</a>"
+                    ],
+                    "photo_reference": "ATplDJb0-b4YurZj-DFIs-hGpf8F3f8QeV8W-DZwhEIhiPYfwPJd2CZZRobn0xyTDM82zI-u7YIZJJOqvsQ-WiXcUJ8RdCTIDFqLy_M85SCexiiL2RU7Z2nYTK8d1e4U72hix_2qGKT2pq9SBu37TlwIlG_R75HwrRYa2tvhkYcG-1Kyqadt",
+                    "width": 5331
+                }
+            ],
+            "place_id": "ChIJ-9GZcpWd4TkRxyQNHn4XwW4",
+            "rating": 4.7,
+            "reference": "ChIJ-9GZcpWd4TkRxyQNHn4XwW4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        }
+    ],
+    "status": "OK"
+}

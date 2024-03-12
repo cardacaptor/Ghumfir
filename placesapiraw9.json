@@ -1,0 +1,924 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2002378,
+                    "lng": 83.95107349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.20130793029151,
+                        "lng": 83.9521840802915
+                    },
+                    "southwest": {
+                        "lat": 28.1986099697085,
+                        "lng": 83.9494861197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Viewpoint",
+            "photos": [
+                {
+                    "height": 2252,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102124409012972201742\">Marina Koren</a>"
+                    ],
+                    "photo_reference": "ATplDJa_mm8DLpkTVS6zZ0vwCZ18AAryzFvMgq78e-UNN4DWxtuM5DkrOwBQ_-d_azfxm7i0sjB18yLyMbZNtMDlr1M6FBkBLuAZcJuXxzXoV4Y6o1GtqkkIW-ir5TAQ4-fqkEQV9Y_BShjSk4zsvF3lgYq9yyZEHYv5Oa-Y9WQqeHPf69kd",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJhSJJ0NCVlTkRZZilEVY_hug",
+            "rating": 4.8,
+            "reference": "ChIJhSJJ0NCVlTkRZZilEVY_hug",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "6X22+3CW"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.208105,
+                    "lng": 83.9555652
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.20945398029151,
+                        "lng": 83.9569141802915
+                    },
+                    "southwest": {
+                        "lat": 28.20675601970851,
+                        "lng": 83.95421621970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Barahi Ghat",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113786858126079788218\">Mukunda Bista</a>"
+                    ],
+                    "photo_reference": "ATplDJZkDgBVXB5LfcJwMyrFDazCc7H7cl6aZ8_5COuNJKZXdCwQzqxDpR97b4zoSfgqQ8lGJfLGaTByBfXezT_yHX-ywRfZMPQ8cqFzBvtZk_jqlPL7tV75xknjgf31hQppcoHnA88gVG9M5nTOY-3-uq8SSyY3JZDceFYXw4DYxuYmT07o",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJL93ntvyVlTkRXZR0Uj14zSI",
+            "rating": 4.5,
+            "reference": "ChIJL93ntvyVlTkRXZR0Uj14zSI",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62,
+            "vicinity": "6X54+66W, Street Number 13, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2147667,
+                    "lng": 83.9557282
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2160108802915,
+                        "lng": 83.9573062802915
+                    },
+                    "southwest": {
+                        "lat": 28.2133129197085,
+                        "lng": 83.95460831970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Phewa Lake View Point",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117133144572057354353\">mohan sakpal</a>"
+                    ],
+                    "photo_reference": "ATplDJaqm48YKjmbsJzHJivBMk6xplmq-qUDrR0wAfGMwNpw4Nxc5sYoRGlyOzYTatpZNxCR8bpLZLO7BJt115h31fN-LtoSjdDNm3AmQTy-Z_tFfsGBdUANyZe7hccy88LTTsJAmuaxKeefzIWrAvaVbrGag-XYqqg2SdAmWZ5PHrrLuTJn",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJfSGlpeGUlTkRVzgkq3TRjXY",
+            "rating": 4.6,
+            "reference": "ChIJfSGlpeGUlTkRVzgkq3TRjXY",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 970,
+            "vicinity": "6X74+W75, gantavya Street, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2079797,
+                    "lng": 83.9559749
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2093709802915,
+                        "lng": 83.95732188029149
+                    },
+                    "southwest": {
+                        "lat": 28.2066730197085,
+                        "lng": 83.95462391970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Egret Breeding Ground",
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111101130830289453207\">lynn barreto miranda</a>"
+                    ],
+                    "photo_reference": "ATplDJZ4p1SquVytbfHM4R_-ulN_TWXGU1tQIOyg1mop1T-bQdJH0l8887troP_aGAwtCOZHu34fb4oXongh-xMUIC4Hvd7HNMl_vHCH70Cuol5jzh5K2jqGaXaIwTOEHSwVYVqEiHv_hIcI5dTQ7p3i0aWZ1nVFIRJVWnb92M079PsJf12s",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJvzOy6mCVlTkRiHeAxUBpuJI",
+            "rating": 4.7,
+            "reference": "ChIJvzOy6mCVlTkRiHeAxUBpuJI",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "6X54+59X, Unnamed Road, पोखरा"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2109932,
+                    "lng": 83.89677499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2119160302915,
+                        "lng": 83.89816808029151
+                    },
+                    "southwest": {
+                        "lat": 28.2092180697085,
+                        "lng": 83.89547011970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "देउराली स्वाँरा",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110209279548369098642\">Prem Gurung</a>"
+                    ],
+                    "photo_reference": "ATplDJa6BHJ1cd7sju76B8gXEfTIjiiR-UbNE2DWB1ou2h20FRdmF6Pv1kqMP_mYwMSLDdPdxatKvxhfJU9Z5UhB22tS0Yye8PVUMStdSpV8fhFUNOQDJ193DwbQY5DYDcgK-o_RJJ_HpFVEIhd58ZbSbv2bAkYHzgXTXi010SA85-AVckkM",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJD25OQADrlTkR4QtdKEldeck",
+            "rating": 5,
+            "reference": "ChIJD25OQADrlTkR4QtdKEldeck",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6V6W+4JF, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2107461,
+                    "lng": 83.9569922
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2120989802915,
+                        "lng": 83.9583689802915
+                    },
+                    "southwest": {
+                        "lat": 28.2094010197085,
+                        "lng": 83.95567101970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Spring Rain Adventure(春雨旅行社)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110321310423815948119\">Spring Rain Adventure(春雨旅行社)</a>"
+                    ],
+                    "photo_reference": "ATplDJYk_-9yQpNgbmSr4dhQDNS3BKgc0U9oJ7Sh_4YDrIhh7ml1lgRta6yUo7wum9W4CcrgIH_KuwDJUQgCuxvp8bwfnMwzqMCXYt22lkbvd-wfOxgAXtj_MglYqIPEJ2KtNBMZg0-bTyTPddSRWeKx_uvecaW3P1tdi8I3bYPpP8TVfqfr",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ91VW04KVlTkR8W3thZHMLds",
+            "plus_code": {
+                "compound_code": "6X64+7Q Pokhara, Nepal",
+                "global_code": "7MW56X64+7Q"
+            },
+            "rating": 2.3,
+            "reference": "ChIJ91VW04KVlTkR8W3thZHMLds",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Center Point, Lakeside Road, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.211396,
+                    "lng": 83.95705219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2127424302915,
+                        "lng": 83.95845683029151
+                    },
+                    "southwest": {
+                        "lat": 28.2100444697085,
+                        "lng": 83.95575886970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Adventure Pokhara",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 540,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111561802029238049412\">Adventure Pokhara</a>"
+                    ],
+                    "photo_reference": "ATplDJZ6pbRyEAKfhgQcWWXOPcaAb0cpqJkcl5Zi_qS7ANacMZ5W32CdvNhVeoXfaW-1s7nUF2EGmsHgVwQnp5p5wammy-NT_eot0MBDwJOtowz1bOiamcMWvOHO_5Z2_Xu6VQt_cOTHr5-Ni0pKa6nww6lnEuckiuRgXx9MQKIiq9YU3DIy",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJC6n1avmVlTkRgcGibfF_GT8",
+            "plus_code": {
+                "compound_code": "6X64+HR Pokhara, Nepal",
+                "global_code": "7MW56X64+HR"
+            },
+            "rating": 5,
+            "reference": "ChIJC6n1avmVlTkRgcGibfF_GT8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Center Point, Lakeside Road 6, Pokhara"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 28.2103079,
+                    "lng": 83.957144
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2116591302915,
+                        "lng": 83.9584931802915
+                    },
+                    "southwest": {
+                        "lat": 28.2089611697085,
+                        "lng": 83.95579521970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "लेक साइड",
+            "permanently_closed": true,
+            "place_id": "ChIJtVr95J6VlTkRLrA_GmUwgf0",
+            "reference": "ChIJtVr95J6VlTkRLrA_GmUwgf0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "6X64+4VC, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2130928,
+                    "lng": 83.95729519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2144531302915,
+                        "lng": 83.95864703029152
+                    },
+                    "southwest": {
+                        "lat": 28.2117551697085,
+                        "lng": 83.95594906970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pokhra",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117697659655322695970\">Atharv Field Hockey India Atharv Hyderabad</a>"
+                    ],
+                    "photo_reference": "ATplDJYWH6-kFXr6pAs0VVqB26FiPz1UcnaDtK8UCcUGG0rD4s0AkOynGchdLbRdHwpWyq1GPEO3rsNSSBObITk_DFyxcQvL33YoO27uyeQ5kER97qARoEvE9wvwjUIfinb_R4CYi6VZBInR2-glDKV7prCo6fQRER9PbUW7b_OXbo2HJ5Ae",
+                    "width": 1860
+                }
+            ],
+            "place_id": "ChIJz6IQ6BCVlTkRoU6aFSMhkF0",
+            "plus_code": {
+                "compound_code": "6X74+6W Pokhara, Nepal",
+                "global_code": "7MW56X74+6W"
+            },
+            "rating": 5,
+            "reference": "ChIJz6IQ6BCVlTkRoU6aFSMhkF0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Lalupate Margha 33700, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.213099,
+                    "lng": 83.95742
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2144300302915,
+                        "lng": 83.9587644302915
+                    },
+                    "southwest": {
+                        "lat": 28.2117320697085,
+                        "lng": 83.95606646970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "STREET # 17, LALUPATE MARGHA",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102354059424435132620\">Samapti Mandal</a>"
+                    ],
+                    "photo_reference": "ATplDJZAHq7ZwM8gLS0MhvFObJfNixhX8cv6OLo_14Te_U3qKnLhP6vTLMbnOmflnFVL5uO6DXANAhovSVzyCixXy1nNk-JQ9WHJFDdJsy_eVzFtaVgrvKdWin_AdHY0x8qIiLDyCZw752yTcHiJPKgFV_02woHHrDrWKSlFu_gQjm89EMb7",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJkwj0qZuVlTkRR4-fbZjPf9g",
+            "plus_code": {
+                "compound_code": "6X74+6X Pokhara, Nepal",
+                "global_code": "7MW56X74+6X"
+            },
+            "rating": 4.5,
+            "reference": "ChIJkwj0qZuVlTkRR4-fbZjPf9g",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Lalupate Margha 33700, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2162528,
+                    "lng": 83.9570803
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2179596302915,
+                        "lng": 83.95851118029151
+                    },
+                    "southwest": {
+                        "lat": 28.2152616697085,
+                        "lng": 83.9558132197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Fewa LakeSide Walkway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108632311475101079606\">Sundar Basnet</a>"
+                    ],
+                    "photo_reference": "ATplDJbvkSMkdUOwZuM1-ztyyCMRC17-b2Pxw9I-FGfvPHG7R3nEu8spQO4iTYKGwTlMJZG07OnZ059rAMWTc79qenqE8HTAbPsB-ENPnjJrCsJMWDNwWOAUJucSLfxlz6PnRAksRGSScWmwbTgV3-_oJcDmirSU7fgWe1RnkfDPXieOL42d",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ7TwLvVCVlTkRFEzkyE-SlpU",
+            "rating": 4.3,
+            "reference": "ChIJ7TwLvVCVlTkRFEzkyE-SlpU",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "6X84+FVM, gantavya Street, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2129031,
+                    "lng": 83.9580081
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2142830802915,
+                        "lng": 83.9593667302915
+                    },
+                    "southwest": {
+                        "lat": 28.2115851197085,
+                        "lng": 83.9566687697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pokhara Aerolight Paragliding",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109525409410402913294\">Pokhara Aerolight Paragliding</a>"
+                    ],
+                    "photo_reference": "ATplDJaAHWvG2Q70MogNoDJzWQwRaZDiEQF4e8vEX0_4XWqGZe1CceQqDVK7SvbAkm5sR4XuML9EJVm31f7gaLPeWscTf3l9rFmKmPWEW2HfKx-HPCvkoRrzt8mBU5J0LQLmipooSVcrplwYSPUdOzIv5GPV23gdsnkbpxXfd6CSSejCaSdD",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJZUCH9-GUlTkRLC29c5dhslk",
+            "plus_code": {
+                "compound_code": "6X75+56 Pokhara, Nepal",
+                "global_code": "7MW56X75+56"
+            },
+            "rating": 4.8,
+            "reference": "ChIJZUCH9-GUlTkRLC29c5dhslk",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24,
+            "vicinity": "Street no 17, Lakeside, पोखरा"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2111859,
+                    "lng": 83.9586285
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2125879302915,
+                        "lng": 83.96001738029152
+                    },
+                    "southwest": {
+                        "lat": 28.2098899697085,
+                        "lng": 83.95731941970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Quick vehicle rental",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 675,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108532045200489959464\">Quick vehicle rental</a>"
+                    ],
+                    "photo_reference": "ATplDJY2031I4Fk_r8gf27T9h-5IEG2stA7QigZ1mhg1hoXA8u_gR-lwyyegGVnuP_YBoJIk5ZnY5OdsVXPaU-cOL5rYjXctj4VyeZGgCzHYdSUgzDph4hUxyCsvUBX18pAeu71n69CO7qWJYH_1nT9QsDSGspXZUn1tZGnYuO6u5Psw7iXL",
+                    "width": 1050
+                }
+            ],
+            "place_id": "ChIJTxKAPe-VlTkRAaL-7jJywRo",
+            "plus_code": {
+                "compound_code": "6X65+FF Pokhara, Nepal",
+                "global_code": "7MW56X65+FF"
+            },
+            "rating": 5,
+            "reference": "ChIJTxKAPe-VlTkRAaL-7jJywRo",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "16 no, पोखरा"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2182839,
+                    "lng": 83.95815689999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2196056302915,
+                        "lng": 83.95949203029153
+                    },
+                    "southwest": {
+                        "lat": 28.2169076697085,
+                        "lng": 83.95679406970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pokhara Disneyland",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106660515307720015827\">Pokhara Disneyland</a>"
+                    ],
+                    "photo_reference": "ATplDJZA6ilc9P5rCdK7EHAo0whuRwOT-eRQ42A6T-MD90Pcrxd55yrzDytOi-z1biWGDTBdx8ub3nvVKZhL5Jopeyr95O36gQfDDSlUilr56_TNJ8-_LexXddoYRoJeZ5QltuHWDqaJMTKhTjJwzt4gt_7QWGNO9PeD4xVkaLhwNSOXCLph",
+                    "width": 3936
+                }
+            ],
+            "place_id": "ChIJj9QWyuyVlTkRQF3v7GvIGrY",
+            "plus_code": {
+                "compound_code": "6X95+87 Pokhara, Nepal",
+                "global_code": "7MW56X95+87"
+            },
+            "rating": 4.1,
+            "reference": "ChIJj9QWyuyVlTkRQF3v7GvIGrY",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1793,
+            "vicinity": "Lakeside Khara, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.1987811,
+                    "lng": 83.8965499
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2000268802915,
+                        "lng": 83.8978988802915
+                    },
+                    "southwest": {
+                        "lat": 28.1973289197085,
+                        "lng": 83.89520091970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Fursay khola फुर्से खोला",
+            "photos": [
+                {
+                    "height": 3628,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112664993838644149584\">Way of Living</a>"
+                    ],
+                    "photo_reference": "ATplDJY76Fwkm0hV3tYTuPDHG-GUfmwpdcWvtlCSOtrsf12ZF5j1Cdp4Gqbew73QHunXWmbJX0lw5AzPp8rgSeljoq8ct6pX0sUG_5swTxQTHmHWWzAe2R2C8o2cWxzpz0RoUieJNT_ACwyTtVp1J6oKdHuJRSKWFwI2m9gdmou2vkNOI7DQ",
+                    "width": 13484
+                }
+            ],
+            "place_id": "ChIJa1G7MTrrlTkRBxNCRarIa3c",
+            "rating": 5,
+            "reference": "ChIJa1G7MTrrlTkRBxNCRarIa3c",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "5VXW+9R4, H10, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2346642,
+                    "lng": 83.94759499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.23652158029151,
+                        "lng": 83.94860098029152
+                    },
+                    "southwest": {
+                        "lat": 28.2338236197085,
+                        "lng": 83.9459030197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Makaikhoriya First Sarangkot view point sun rise & set",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105240792428586092444\">Hom Dhakal</a>"
+                    ],
+                    "photo_reference": "ATplDJb825jUOsaOzwRjU79C_I94Dyh5N9uSOUoppM7qI2s1Xj4nSFdHJ70pfYuzqIZ_lLtwYdskpoJe6BtoM3Az0pFqmRyGKs9T3RizNNYKLeGA27sOMZOThXAq983cDHr_WBziY0ObKkQJL_7uOUpN_jTPQhAP6vijtt9g4fmsNTnuh5Fl",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJq2isMQCVlTkRU5EF4LPFoIA",
+            "rating": 5,
+            "reference": "ChIJq2isMQCVlTkRU5EF4LPFoIA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6WMX+V29, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.191743,
+                    "lng": 83.95189529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.1930934302915,
+                        "lng": 83.9532468302915
+                    },
+                    "southwest": {
+                        "lat": 28.1903954697085,
+                        "lng": 83.95054886970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "World Peace Pagoda Street",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113746487261591431855\">Carsten Werner</a>"
+                    ],
+                    "photo_reference": "ATplDJbVznehibVOxVNZPfL9i52z4weEtIN8yhf53Dfff7gJTj5bjYaViwjemUwywuhXO3SREqeEXy-ck22PXxl9d9Dh6iaba9gxb3bC5eSC5GUzZU694JAmfMZ6qKNIfGI6WTuo7vSnMynVkil5vc3_DwP8ZSAOTaJhziKHPAG9B37pcajo",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJAbqrwSiVlTkRcmhzA4vo8HQ",
+            "reference": "ChIJAbqrwSiVlTkRcmhzA4vo8HQ",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "5XR2+MQR, World Peace Stupa Access Road, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2316822,
+                    "lng": 83.9519554
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.23251475,
+                        "lng": 83.9531517802915
+                    },
+                    "southwest": {
+                        "lat": 28.22918455,
+                        "lng": 83.9504538197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chhipleti Height, Sedi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105842765738942901200\">Adam Bharmal</a>"
+                    ],
+                    "photo_reference": "ATplDJaDp3SzKQ6W1djZ9Zdov4BDwerCk3l68o1OIwNi_4LbSEJMxGgQNishmXfTvbn75sue5AVoot410k-cuH7DNS2U4gAgtAltnFwVkx4pDEE9FAGJ-hQs6ZdvAESSzg9eTgATUYJr9Ta4mmJJCgp7Dl95b8bAf57zaszEv4njmOyDHovj",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJl4Aygt2UlTkRCHyCQWH_0z8",
+            "rating": 4,
+            "reference": "ChIJl4Aygt2UlTkRCHyCQWH_0z8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "6XG2+VVH, Sedi, Near waterfront Resort, Lakeside-6, Backpackers Inn Road, पोखरा"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2132987,
+                    "lng": 83.9612022
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2145815802915,
+                        "lng": 83.96251008029151
+                    },
+                    "southwest": {
+                        "lat": 28.21188361970849,
+                        "lng": 83.9598121197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tourism Pokhara",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103254519846031522593\">SUBRATA PATEL</a>"
+                    ],
+                    "photo_reference": "ATplDJZoUXchd1y7OUqQdCMFPtssJBlO6dCjrYk5rRpq2ZD0opW3d9PqV4iXVTE11nk6-jo30hpPyyQW6GaAfB9Srhqb_YZvsMJd2Fi66wi4YjTp_AnZWnFqhliVLw_XBCiLF9__z1jjynMTXms_9Ib_AphvF_m36UCZcbdPRjIa2GTsb2-x",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJn_KABbqVlTkRyoW0rtCqlRc",
+            "rating": 4.5,
+            "reference": "ChIJn_KABbqVlTkRyoW0rtCqlRc",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 90,
+            "vicinity": "6X76+8F8, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2241312,
+                    "lng": 83.9594946
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2254611302915,
+                        "lng": 83.96087658029151
+                    },
+                    "southwest": {
+                        "lat": 28.2227631697085,
+                        "lng": 83.9581786197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pokhara Yoga Village",
+            "place_id": "ChIJOe8tNQCVlTkR1FOe_Xrho5A",
+            "reference": "ChIJOe8tNQCVlTkR1FOe_Xrho5A",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Sedi height, Pokhara"
+        }
+    ],
+    "status": "OK"
+}

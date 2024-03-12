@@ -1,0 +1,996 @@
+{
+    "html_attributions": [],
+    "next_page_token": "ATplDJaUMPc7ZRgwvE48tL3UhvfTR2hZ5bI8MiV8YbFHD3IRj5qxVj7Rov5RziuR00sXusbU0Bh6OYIT7IytHjBXBH1YILK4nWBo4RtcKjfNUeXWejXBbVTr3J1po1LYmIzXr8VY0eNtNtTi5wTYP6SiQ6tQWtl4B2YHclzpA86FMY5vohoq0rEUu2lMe6xPh1rk3RE-XBNOvKCl7MBwVyHdXwooBVfCKiADsBGcKJ7rXxB8faMXTOz-UT-4UXnPE-fE-qrW8TwzUu-nDJPUMZraz8_EnAJ3BXqI7Y_zqQr5IHu7cgaAqvEWzkgcK8dMHTSbUR-JV-L9VA56KINqN4X9VVAA8jfa4O3ZtK38MgSJgXH0IEwTdfbEv3g2dbISnkn9pBhRX26Q9F2J6Ip0N3QNvtkspXfY5uATzAkIGtD5aOZkdlH9AEWGr62LTnahWMmQp3phmg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7188945,
+                    "lng": 85.31946839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7202581302915,
+                        "lng": 85.32085173029151
+                    },
+                    "southwest": {
+                        "lat": 27.7175601697085,
+                        "lng": 85.31815376970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Shanker Kathmandu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107706778526888111454\">Hotel Shanker Kathmandu</a>"
+                    ],
+                    "photo_reference": "ATplDJagZyu-0EzCJMdMD6cmk5V-Y_BRkKqJqb2XS3qD9tslPm57wPfSyVGzphVjhOXGEZeSEaQJaCpyqyMLCBgA_HBC4Mc6O3_P_EmMDkshjliNsYn0GwEED3jwu4K5pyMo9H3PCEgs9NERP00JLfLHRrReEomFigpUSi7mAUVqVhpS_h8n",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJw3uqaBsZ6zkRjS-DDyXqWyk",
+            "plus_code": {
+                "compound_code": "P899+HQ Kathmandu, Nepal",
+                "global_code": "7MV7P899+HQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJw3uqaBsZ6zkRjS-DDyXqWyk",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2880,
+            "vicinity": "Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.6181534,
+                    "lng": 85.5225348
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.6195307302915,
+                        "lng": 85.5238919302915
+                    },
+                    "southwest": {
+                        "lat": 27.61683276970849,
+                        "lng": 85.52119396970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Dhaneshwor Mahadev Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5504,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112194617214401840195\">Traveller Basanta</a>"
+                    ],
+                    "photo_reference": "ATplDJYKe0RbexYVP8DA8X-HDsGSwPHN7U-izZZuKk88RghsOpmKMAiK2iLZ0rq-AP7ECNg6g5VqqlS92UDczh22HOLzLw3D2t__FHGoJnG9qdQicpMVn5Y7EMbG0Q2qKQjBqhsYsgP7cQfQmHe7d2rODS8MLtWk-lU2Neff7WiIsozxvHgy",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJsciVgCoJ6zkRsjUON7SWYKw",
+            "plus_code": {
+                "compound_code": "JG9F+72 Ugratara Janagal, Nepal",
+                "global_code": "7MV7JG9F+72"
+            },
+            "rating": 4.5,
+            "reference": "ChIJsciVgCoJ6zkRsjUON7SWYKw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 245,
+            "vicinity": ""
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7426594,
+                    "lng": 85.3649135
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7441040802915,
+                        "lng": 85.3662828802915
+                    },
+                    "southwest": {
+                        "lat": 27.7414061197085,
+                        "lng": 85.36358491970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Kopan Monastery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100229872177518703329\">Dipendra Puri</a>"
+                    ],
+                    "photo_reference": "ATplDJaElGMpsNlavOYNT8226awaZh8_IySZBXn-oSdphB5cNLHR9duPpMcEaLwJ6WpleUNH-OSln6PsrKyRDvRyQafIBCqhTgHB9A6y_UCxbmKAH2iOUcCU6SwO4fmfCaPCDMZK3CoNAV8l-g14Bp2lYHh0TH8SutYwWoAe2X5ugO4f3Ijm",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJkTIYyfob6zkRS61ZD-CX16A",
+            "plus_code": {
+                "compound_code": "P9V7+2Q Budhanilkantha, Nepal",
+                "global_code": "7MV7P9V7+2Q"
+            },
+            "rating": 4.3,
+            "reference": "ChIJkTIYyfob6zkRS61ZD-CX16A",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1152,
+            "vicinity": "Ward 11, Budhanilkantha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.6296562,
+                    "lng": 85.3021253
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.6310047302915,
+                        "lng": 85.3034659802915
+                    },
+                    "southwest": {
+                        "lat": 27.62830676970849,
+                        "lng": 85.3007680197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bungadyo/Rato Machhendranath Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 446,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103102470958832842957\">Ganesh Ranjeet</a>"
+                    ],
+                    "photo_reference": "ATplDJY4EcMU5k3rGf2jwVfmpYSH4qbk88wSJOOcDass65dXp0EMLds_bgHRr7OqPaoSAEli7-jLbQZ-Pde4benHuFDZ3wZQm-6ni-Uxv8fVvHXAKGKQmF3YqTnDQYImaHp9D6jiNNs1Rlr6uWg8rY0rNA0l4qF3KakraUfW3opUU_1eeGVy",
+                    "width": 670
+                }
+            ],
+            "place_id": "ChIJbW5nvLwX6zkRWMXF4DBLu3E",
+            "rating": 4.5,
+            "reference": "ChIJbW5nvLwX6zkRWMXF4DBLu3E",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 337,
+            "vicinity": "J8H2+VV6, Karyabinayak"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.6698673,
+                    "lng": 85.3307456
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.6712317802915,
+                        "lng": 85.33209488029149
+                    },
+                    "southwest": {
+                        "lat": 27.6685338197085,
+                        "lng": 85.32939691970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Patan Community Homestay",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110346993646850343932\">ujwala Shakya</a>"
+                    ],
+                    "photo_reference": "ATplDJY8sEf-tSO3xg1-2Xs3y8NxPXSrVMSWiiDTTcko8rfcTrqqWpS8dT6hPhThTmh8c5c8t2JSzZ4_P37qd2gGDCetBUWMvZTLsYl4uDgGpPb5soAsymMJ09iVuhX_VaBGA-K6f2Ynypu16E4aoixprXD7cNVuasskvmI8-QLjBWt7AewJ",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJ1RTzuskZ6zkRo9jXsJsBGbw",
+            "plus_code": {
+                "compound_code": "M89J+W7 Lalitpur, Nepal",
+                "global_code": "7MV7M89J+W7"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ1RTzuskZ6zkRo9jXsJsBGbw",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Lalitpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.6460946,
+                    "lng": 85.4741963
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.6472752302915,
+                        "lng": 85.47551538029151
+                    },
+                    "southwest": {
+                        "lat": 27.6445772697085,
+                        "lng": 85.47281741970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Kailashnath Mahadev Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 383,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116854686491025100722\">Kailashnath Mahadev Statue</a>"
+                    ],
+                    "photo_reference": "ATplDJZSK5KENv37eKaziccD5fK4huvmphXURydldNOv-pDXnfaTx6oSMUfFiTF7Q5j8m6G8FYdT29Xy74B8ntMOvRoI2sZRTGIq4ObFkaJ0mUeSSTvf2jBDu7nvLudjV0TPMwKbVkcbjQgemsnMtQtWcAdw9MoPyfY_dfqGamrEQeQ3Mtrs",
+                    "width": 684
+                }
+            ],
+            "place_id": "ChIJi___P3UP6zkRtGAZ1TNjBqc",
+            "plus_code": {
+                "compound_code": "JFWF+CM Suryabinayak, Nepal",
+                "global_code": "7MV7JFWF+CM"
+            },
+            "rating": 4.5,
+            "reference": "ChIJi___P3UP6zkRtGAZ1TNjBqc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1853,
+            "vicinity": "Sanga, सुर्यविनायक"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.673221,
+                    "lng": 85.435858
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.6745664302915,
+                        "lng": 85.4371171802915
+                    },
+                    "southwest": {
+                        "lat": 27.6718684697085,
+                        "lng": 85.43441921970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Peacock Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2445,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113546754536573423322\">Brijendra Rochan Joshi</a>"
+                    ],
+                    "photo_reference": "ATplDJZBMbjFkzzaStN6O2LuFHRDBdEXkziGE4rDMET4MxE_D58vuFqgHc7oiT_NSG14xrZpPEzX82KEL9n6jfQM8p3lL3MR4YEl6WXGC7Lx5BqF1lwIJaj5yMJ7lRFH571akXvibypQh5Niw5IKt_XbTaMXI_rv5CI9z41EW6fTFWhr7ydi",
+                    "width": 1261
+                }
+            ],
+            "place_id": "ChIJM_bgbq0a6zkR-flmS7CU1Y0",
+            "plus_code": {
+                "compound_code": "MCFP+78 Bhaktapur, Nepal",
+                "global_code": "7MV7MCFP+78"
+            },
+            "rating": 4.9,
+            "reference": "ChIJM_bgbq0a6zkR-flmS7CU1Y0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "store",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28,
+            "vicinity": "Behind Dattatraya Temple Near the Peacock Window, भक्तपुर"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 27.708264,
+                    "lng": 85.3314999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7096515302915,
+                        "lng": 85.33286323029151
+                    },
+                    "southwest": {
+                        "lat": 27.7069535697085,
+                        "lng": 85.33016526970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gyaneshwor Community Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102111157304273278263\">Ankit Koirala</a>"
+                    ],
+                    "photo_reference": "ATplDJajKeZYcjzXPm6TstbvZuMAnpGT-9J4bGkcqwnR-Vez8u8-ZdN-5bQcv5R15zOb9GKSYYrJmwIGbTQ4BgC3FXopAsoMKsUBbwyD825vgNxBdImCVz8_brSNF9OwxCKv1nW6SuCk_9s7s1HLPABjXQL75EfCUM87Cv1tHDHmm_Mm1Mvu",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJx6qtVgoZ6zkRRPaCPt25aww",
+            "rating": 4,
+            "reference": "ChIJx6qtVgoZ6zkRRPaCPt25aww",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 189,
+            "vicinity": "P85J+8H5, ज्ञानेश्वर मार्ग, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.6467707,
+                    "lng": 85.4670261
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.6479183802915,
+                        "lng": 85.46805638029149
+                    },
+                    "southwest": {
+                        "lat": 27.6452204197085,
+                        "lng": 85.46535841970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kathmandu Fun Valley",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115003704197365750864\">Ritesh Adhikari</a>"
+                    ],
+                    "photo_reference": "ATplDJYbxLpl7AbVIb1DhcHQQSMqEDKzUTLziREd5c54TgTaEZAbNyJZqSAXKaKaFNc2sdbxEYtI5NAH9DcHtTU4bWG_mM2jDip7qUl6J4f62xY4bDRXxyIfbzM9D51v07oT093CERqFKX1fJ3c4m-ENVVxSTLVC3RwFlsfZwptc47WxiHHj",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJcy5iv5AP6zkRdS-eLyrmnTE",
+            "plus_code": {
+                "compound_code": "JFW8+PR Suryabinayak, Nepal",
+                "global_code": "7MV7JFW8+PR"
+            },
+            "rating": 3.8,
+            "reference": "ChIJcy5iv5AP6zkRdS-eLyrmnTE",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 722,
+            "vicinity": "Araniko Highway Bhaktapur, Suryabinayak"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.716585,
+                    "lng": 85.3357285
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7179545802915,
+                        "lng": 85.3370856802915
+                    },
+                    "southwest": {
+                        "lat": 27.7152566197085,
+                        "lng": 85.33438771970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Handigaun",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100869589674610513458\">Pratyush Mishra</a>"
+                    ],
+                    "photo_reference": "ATplDJZMxvdvfn3aDneiDyOjgf2SoEOYs6GcP9L5NrR8SWpRoIyaFn-IXYK8rxxcJsCirTL-lb6B_LB22aAJCO9W2hfVRGWKWwWkQN1NfvlBOiBvlVUtVMgvOUqmy2Z6aIEk039-wg7ssgoJ6eRwl_9FcgyuxgggCEYrOZkKsoQ92TA3UiCj",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJDZDTYm0Z6zkRjHsQdLKntJQ",
+            "rating": 4.3,
+            "reference": "ChIJDZDTYm0Z6zkRjHsQdLKntJQ",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 436,
+            "vicinity": "P88P+J7Q, Handigaun Marg, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.6401489,
+                    "lng": 85.42265909999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.6415050302915,
+                        "lng": 85.42412613029151
+                    },
+                    "southwest": {
+                        "lat": 27.6388070697085,
+                        "lng": 85.42142816970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pilot Baba Ashram",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103647508231391903409\">Harihar khanal</a>"
+                    ],
+                    "photo_reference": "ATplDJZzcgPthJJOxL4MyaLbjXjmJIE9D6i_Y5eU12HWh7oASs8WYh4xItjq1fdCa4dlsuZGG7fSGqhADr1OkyMKzF3xdgMOc5FEgedTLd-zKT_5c6tumy2lYXszIYQEis7zq7Is25-shezD_OdCU-reeIZiSEMLffOokbksXJHEP5Jh7t3K",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJU_FBrxcQ6zkRucxxeMkC8KI",
+            "rating": 4.2,
+            "reference": "ChIJU_FBrxcQ6zkRucxxeMkC8KI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1525,
+            "vicinity": "JCRF+333, Ghyampe Danda Sadak, Anantalingeshwar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.73357730000001,
+                    "lng": 85.353388
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7349716802915,
+                        "lng": 85.3547525802915
+                    },
+                    "southwest": {
+                        "lat": 27.7322737197085,
+                        "lng": 85.35205461970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Shangri-la Nepal Trek P. Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110149453918090401464\">Shangri-la Nepal Trek P. Ltd</a>"
+                    ],
+                    "photo_reference": "ATplDJbJtLNnSRcn22sbEZvb3CzRM1YbURUmImXnmFOSIMs-xc-pygUYwTrbxiROiMgQ_rNZWhkr31N2leklX3fXs5oSvuDfNQ5-5NBY4ygxK7CZUi60RQ1yviLzSd1S01vRVxTEP5HsnG8gZJ-aKxyM9Ve1u_8wIga2CkxkJIm8XkV76lYT",
+                    "width": 1040
+                }
+            ],
+            "place_id": "ChIJFeASEl8Z6zkR7Be85lgkKDI",
+            "plus_code": {
+                "compound_code": "P9M3+C9 Kathmandu, Nepal",
+                "global_code": "7MV7P9M3+C9"
+            },
+            "rating": 4,
+            "reference": "ChIJFeASEl8Z6zkR7Be85lgkKDI",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "10, Kapan, Panchakanya Chowk Bhudanilkantha, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.722607,
+                    "lng": 85.35647
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7239559802915,
+                        "lng": 85.35781898029151
+                    },
+                    "southwest": {
+                        "lat": 27.72125801970849,
+                        "lng": 85.3551210197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Casino Pride Nepal",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103009960401335865897\">Mahi Narayan Chaudhary</a>"
+                    ],
+                    "photo_reference": "ATplDJan2pkbb7YklNahQbIpM2dhDocK_dTLHN1J7TMJt7sMs3WBT5A5YOGnEFjbVps49N82QJ-XZ2mHgC63sSEu6RRX8JYf2D6XtqnL-sPrjZ5wTDCdAhQbQZSwflF5gA_Cit_CkbAwFYGICfgJMHiN3g1dU2Vn8hUVwTjUmf-6reCq_JWK",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJR6uG6dgb6zkReO3NxkEGOc4",
+            "plus_code": {
+                "compound_code": "P9F4+2H Kathmandu, Nepal",
+                "global_code": "7MV7P9F4+2H"
+            },
+            "rating": 4.2,
+            "reference": "ChIJR6uG6dgb6zkReO3NxkEGOc4",
+            "scope": "GOOGLE",
+            "types": [
+                "casino",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 359,
+            "vicinity": "Taragaon Boudha Box 19784, Taragaon 44601, Nepal, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7095833,
+                    "lng": 85.3259132
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7110506802915,
+                        "lng": 85.3273520302915
+                    },
+                    "southwest": {
+                        "lat": 27.7083527197085,
+                        "lng": 85.32465406970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Russian House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 272,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101732343461981135876\">Russian Centre of Science and Culture</a>"
+                    ],
+                    "photo_reference": "ATplDJafNIS1uxuvAht9jscNgKjPSc2mgMZJq3i068od9XVnalZtTg6fxxmsuMR9SJOm5tW6igbjXktFQ1TbwQgNmXLGjmBn85-hCaHpoDur4dJ69rFhL4ZOWFbnMRunqZ11vC9VBp_MhVxhw6l-nCxV_aEjLFoArkWVbsW7Cbuc986e1-wt",
+                    "width": 485
+                }
+            ],
+            "place_id": "ChIJtz-p6AgZ6zkRPaBTRygyUjI",
+            "plus_code": {
+                "compound_code": "P85G+R9 Kathmandu, Nepal",
+                "global_code": "7MV7P85G+R9"
+            },
+            "rating": 4.3,
+            "reference": "ChIJtz-p6AgZ6zkRPaBTRygyUjI",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 356,
+            "vicinity": "Kamal Pokhari Street, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.6922589,
+                    "lng": 85.3236319
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.6935938802915,
+                        "lng": 85.3250467802915
+                    },
+                    "southwest": {
+                        "lat": 27.6908959197085,
+                        "lng": 85.3223488197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Nepal Art Council",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3958,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115545889316609853710\">Samyak Timsina</a>"
+                    ],
+                    "photo_reference": "ATplDJYhuR21JSrBVB_dfR7IQvUJ5JGKEKMh8smn8-SoIlAsk_6d1nzQhu3pU9Vds5VRqxoYKVI7qkm2y96UMTejSDIbG4oy_TBZJXU_pLmr_JzuAzDw6aWXdbusUbzpCtcZGeh8LPcV4_krn60BRBV55pbnFnq0OjSzx0AyKY46DuuJLFSe",
+                    "width": 5624
+                }
+            ],
+            "place_id": "ChIJY937crAZ6zkR45QAr1tReKs",
+            "rating": 4.3,
+            "reference": "ChIJY937crAZ6zkR45QAr1tReKs",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 902,
+            "vicinity": "M8RF+WF2, Madan Bhandari Road, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.6754439,
+                    "lng": 85.3159484
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.6768464302915,
+                        "lng": 85.3173178302915
+                    },
+                    "southwest": {
+                        "lat": 27.67414846970849,
+                        "lng": 85.31461986970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "RN Joshi Museum / Park Gallery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1844,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117998373680777261362\">RN Joshi Museum / Park Gallery</a>"
+                    ],
+                    "photo_reference": "ATplDJYNcm06OuuL2usS26QeCf7o0jgb02TBP06Bgw7NanBZ1uZ3E1PquDO9klHMWQ0wd7toCjHwSOqufKBBnBq-GRsMj1YIhM1dXL_7DZFnYayKuUR2zMMxhiMeSYYtEtcEYfnDJOAvB4wBcPCAeqdiYLpZDQ7rygiGEwxI7Dan8JHcRHyN",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJJWlnhswZ6zkRGv7_6y9jo-0",
+            "plus_code": {
+                "compound_code": "M8G8+59 Lalitpur, Nepal",
+                "global_code": "7MV7M8G8+59"
+            },
+            "rating": 3.5,
+            "reference": "ChIJJWlnhswZ6zkRGv7_6y9jo-0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "art_gallery",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "Opposite to Jhamsikhel Road, Pulchowk, Lalitpur"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 27.6701914,
+                    "lng": 85.3183226
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.6715089802915,
+                        "lng": 85.31974303029152
+                    },
+                    "southwest": {
+                        "lat": 27.6688110197085,
+                        "lng": 85.3170450697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Spiny Babbler",
+            "permanently_closed": true,
+            "place_id": "ChIJgcJQIDgY6zkRhsI9fhaeSBI",
+            "reference": "ChIJgcJQIDgY6zkRhsI9fhaeSBI",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "M8C9+38G, Lalitpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.701377,
+                    "lng": 85.32039809999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7027192302915,
+                        "lng": 85.32182138029151
+                    },
+                    "southwest": {
+                        "lat": 27.7000212697085,
+                        "lng": 85.31912341970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kathmandu Fun Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103263579106594919544\">Vijaya Malla</a>"
+                    ],
+                    "photo_reference": "ATplDJaujJIHtmuhgykE54rfThZ4TSGGCBvGB2WJNiomB2Ia15ye8CzSzsv6U34HvmP37HcN8TuMyQ5ubhN1JxN4ZPcI0wmKMj7PftSppukqyPnNL9u4aNyqzbT2TqsAzkIeBHt5LLs8NxuQO2qtTexD66ULike2ljvKBy9PmSzaehmH7Yz2",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJw10uEqkZ6zkRdbidV_QksT4",
+            "rating": 4,
+            "reference": "ChIJw10uEqkZ6zkRdbidV_QksT4",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3792,
+            "vicinity": "P82C+H52, Pradarshani Marg, Kathmandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7305368,
+                    "lng": 85.52787239999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7318765802915,
+                        "lng": 85.5292028802915
+                    },
+                    "southwest": {
+                        "lat": 27.7291786197085,
+                        "lng": 85.5265049197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Nagarkot Panoramic Hiking Trail",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113038908877728379086\">Caron Dhoju</a>"
+                    ],
+                    "photo_reference": "ATplDJYAGyZdmkvSdLc0YEXtCXp9Jx_gXwcPjIJ6JMVxRxu9WbWW9pv2pHq8ANUSUQApp0tgdPkWuafqSaXdiE2XxMBSj85Sl76kPGvVUcr-jqltoHHD2u1vMzkub-HTfALs_p7dLIF-FS6VWKQZLTgNCsCWBTa_DsvczlJ5LFyI7QN6MiEO",
+                    "width": 4208
+                }
+            ],
+            "place_id": "ChIJPY_SgpkG6zkR3cV9XUdWKag",
+            "rating": 4.3,
+            "reference": "ChIJPY_SgpkG6zkR3cV9XUdWKag",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "landmark",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 109,
+            "vicinity": "PGJH+649, Nagarkot Dandagoan Highway, Baluwapati Deupur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7211382,
+                    "lng": 85.3229211
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.7224702802915,
+                        "lng": 85.32422133029151
+                    },
+                    "southwest": {
+                        "lat": 27.7197723197085,
+                        "lng": 85.32152336970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "EXPEDITION HIMALAYA. COM PVT LTD",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108642269538033264615\">kaze Kshitiz</a>"
+                    ],
+                    "photo_reference": "ATplDJYOtEx8stGJN31ArhgF_p3AuWMBOWXOp1GGh0Ykx6GPSSAgjfkTc3DvG1_YMzDrros8hfDFQmkoHPhw6P7FnCfEhN0jfYGrOtGihLPvmfyTV9CewOQhrXrpeXMqZSRcmhxExaJca3xa6VWQzMRuGlnXz-mVn-p-RYNvK5gA6MhfLxQ",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ34DDJBsZ6zkRk4e2icFMVC4",
+            "rating": 4.7,
+            "reference": "ChIJ34DDJBsZ6zkRk4e2icFMVC4",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "P8CF+G63, Neel Sarswoti Marg, Kathmandu"
+        }
+    ],
+    "status": "OK"
+}

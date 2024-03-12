@@ -1,0 +1,860 @@
+{
+    "html_attributions": [],
+    "next_page_token": "ATplDJZpZ8V1VLDLdhxu4gH7DqQAWtQ8xZN5M9HnxjopYlidB0dlSkA-9sftY58fQHZQGLyJGbjO2j7T-13YkMnVFF674drC4-imPBqX12bW1pvCu8YCiqbzxGB_ACg1w3Rnhp92-fnV5Orp9TvzoeqhCZ7hDc4tXuIqFz6Bg6JBEGDtHdIjv7NAhCAL9Cnwzl1Ubwg6IWHYqbNLjXW_JJOXZW5hW2vk9AoamfKcIFYxwuYH64GfXAbfbET-X5uM9YyU61yv30TmLnVre7_HmanokrJj6vSxhKU_Pk14M9eDmFeYw8K-hjfltWsaMGmBiFoa39kL4a0fwQ399zUjeV79xxrPX2lyc6TgsTFKO3lswjPHAfKkZhw_TpUa7P9-3CfybE6QYwA3DrY7jNpyP4OjvPZwu78wo7Cf6eMeRUSyqfFpgojsxeQ0HRLs9kWGdjRRbogBM7IhwDpDJn502uz3-N-OLmifpoMfasnLHVmpF8CRyAgmQkOXXpjrAhFc9rKQL2oIX0KclXfxD_zk_SQzk3yIzTzio9sNwBcKEvsDAZFtQgbpE5mGv0qoui1XzS5j_BUXSKKSTQZ38w6kUaKJF_9Pp2d6s7OmWslFvpVhy5_ANp4DZw9jhmq1BcsBPpWm3Q5FLFZtrOzHuVHDAA529uyJ9Fs",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.1999611,
+                    "lng": 83.9274634
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.20124573029151,
+                        "lng": 83.9290004802915
+                    },
+                    "southwest": {
+                        "lat": 28.1985477697085,
+                        "lng": 83.92630251970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kumar Parvati Sumeru Parvat Pumdikot",
+            "photos": [
+                {
+                    "height": 8160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109671252837038696112\">pranav nayek</a>"
+                    ],
+                    "photo_reference": "ATplDJaagGxENLHgGthO8v8wztYC4sfIlwhk2F7MG4aOTDngmT-n2_gn-CKXms4iKBcNZKrK-VBkwYuvJAPNseNw0vHqPU-279XuSW6-eE-7OFQUb5rbIAVdOLUadB8U8X_MEJwKQaFjAYd3MVYsxiERFV2QC0vhyUWp4rAc_cWw-b16hgqi",
+                    "width": 4592
+                }
+            ],
+            "place_id": "ChIJQx3kU1vrlTkR684YFBnikWA",
+            "rating": 4.3,
+            "reference": "ChIJQx3kU1vrlTkR684YFBnikWA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "5WXG+XXP"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.201597,
+                    "lng": 83.9181564
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2029203802915,
+                        "lng": 83.91948393029149
+                    },
+                    "southwest": {
+                        "lat": 28.2002224197085,
+                        "lng": 83.91678596970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Baspani",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104517917037209004515\">Shamir Baral</a>"
+                    ],
+                    "photo_reference": "ATplDJZ9eQlEXLGR8GpFISvkfpD68dyf_QaSCMz97s6F3UjnPPQVaYEZLfoZS4-unIVkgPCuudng8cpNoMQE-a4TEq2NlGJSbDdPpQ2KJtMdOsXdFojegHgiVzANKb5dq-u9ToGdS84WVkd1V656xG-iK6TVakCgZbpc_-KLII1uMK9bMZ_m",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJySkZkdDrlTkRmP7ijF9HdT0",
+            "rating": 5,
+            "reference": "ChIJySkZkdDrlTkRmP7ijF9HdT0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6W29+M74, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.1993758,
+                    "lng": 83.92938149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2006864802915,
+                        "lng": 83.9306736302915
+                    },
+                    "southwest": {
+                        "lat": 28.1979885197085,
+                        "lng": 83.92797566970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pumdikot Religious Area",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107596246859579601557\">Kanchan Khatiwada</a>"
+                    ],
+                    "photo_reference": "ATplDJbrGu-2fIkpr_GWwpBA3pEtuN7C2WdEakcCdrNtm9LFq2gxnNHp4l6nFuhEYTneeT5Y_d2oVbmRxYfzxscpR09EZ_OtaNDWzPGZba5enSosDZ1y9iIj2TsdhFkAhOEbpnGtFwmuFM4EJ2wtUh-u1RVAmLWQt8YuNcR8rCM7ZnqwV6JL",
+                    "width": 3472
+                }
+            ],
+            "place_id": "ChIJRUOsMB3rlTkRFcI1an5xtEI",
+            "plus_code": {
+                "compound_code": "5WXH+QQ Pokhara, Nepal",
+                "global_code": "7MW55WXH+QQ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJRUOsMB3rlTkRFcI1an5xtEI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3481,
+            "vicinity": "Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.1985784,
+                    "lng": 83.9286999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.1998209802915,
+                        "lng": 83.9300592802915
+                    },
+                    "southwest": {
+                        "lat": 28.1971230197085,
+                        "lng": 83.92736131970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ram home",
+            "place_id": "ChIJNVl3qC7rlTkRXN7y0-5GIrk",
+            "rating": 5,
+            "reference": "ChIJNVl3qC7rlTkRXN7y0-5GIrk",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "5WXH+CFP"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.1978373,
+                    "lng": 83.9254095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.1991709802915,
+                        "lng": 83.9267590302915
+                    },
+                    "southwest": {
+                        "lat": 28.1964730197085,
+                        "lng": 83.9240610697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Lukunswara chok",
+            "place_id": "ChIJ631-VADrlTkRJNNz3UB1u3o",
+            "reference": "ChIJ631-VADrlTkRJNNz3UB1u3o",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "5WXG+45M, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.1962479,
+                    "lng": 83.9297731
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.1976235802915,
+                        "lng": 83.93115023029152
+                    },
+                    "southwest": {
+                        "lat": 28.1949256197085,
+                        "lng": 83.92845226970852
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Elshan House",
+            "place_id": "ChIJa8ZGPp7rlTkRT5-H99p4TJw",
+            "reference": "ChIJa8ZGPp7rlTkRT5-H99p4TJw",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "5WWH+FWR, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2017991,
+                    "lng": 83.9402629
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.20312013029151,
+                        "lng": 83.9415869802915
+                    },
+                    "southwest": {
+                        "lat": 28.2004221697085,
+                        "lng": 83.93888901970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pokhara Dhungapani",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117911866688675525635\">Basanta Baral</a>"
+                    ],
+                    "photo_reference": "ATplDJaLIllw4SjUqZ4WOJjhg1I5HKwnixw-kciXoQsPtdMpc9kh2om86-y5qrEiqs1eQx2FCfNSU4xau1vRIX0cwKkY_1c3gX1KCx-X9vtAqxCr7_c8AEiKSbtiXoAHaMn3ssWqlvmfS-ccjQzFE3ewDOU3Jpu0Md9yEJQVbEz2GSS0flZx",
+                    "width": 2128
+                }
+            ],
+            "place_id": "ChIJaZrOQqGVlTkR6cqbg9tgyV0",
+            "plus_code": {
+                "compound_code": "6W2R+P4 Pokhara, Nepal",
+                "global_code": "7MW56W2R+P4"
+            },
+            "rating": 5,
+            "reference": "ChIJaZrOQqGVlTkR6cqbg9tgyV0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2015246,
+                    "lng": 83.9407966
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.20286123029151,
+                        "lng": 83.9421431302915
+                    },
+                    "southwest": {
+                        "lat": 28.2001632697085,
+                        "lng": 83.93944516970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "View point / resting place",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101441833491273291545\">Nepali Vlog</a>"
+                    ],
+                    "photo_reference": "ATplDJbQvg1ijWMU3o5upPC7NFTIHKsPZ2JzM9Hwz8C0qiGd1yZtUrhhuhzx0zg_aWQ9lrQB_roEu0QMRgCjSU-UNqQTgK4JILcVRnCXSznm0yVvzSIC7purh-DE1VckXPX7hKwYRc5uW5OMmqb8aMgNpYeJnbyIQNu-kI9lNN3PxzMlxcLC",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ3YZGnRyVlTkR8h-UG-oLsBA",
+            "rating": 4.6,
+            "reference": "ChIJ3YZGnRyVlTkR8h-UG-oLsBA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "6W2Q+MXH, Way to, पोखरा"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2268412,
+                    "lng": 83.93450349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2280572302915,
+                        "lng": 83.93541498029151
+                    },
+                    "southwest": {
+                        "lat": 28.2253592697085,
+                        "lng": 83.9327170197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Reedam View Point",
+            "photos": [
+                {
+                    "height": 2006,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100894126838058736705\">Ravin paudel</a>"
+                    ],
+                    "photo_reference": "ATplDJZXN9f2qnDxUF_Dx4vT21ZgCVk8D3cK0VOj8toUMNQOYJ3pCbEmMxqyLdLSnXq-uTX3gpeKBuGGAt-2tzLC6klp74XWHuSqKXAq8cekLAEMpIzqcvbii_jbq570yrpfHw_rIwTWICkEtj9JgzPLs0V0yNw-dev77QzLjjo9uFJ0S1Wu",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJz9OxULWVlTkRkoJGCcUH12s",
+            "reference": "ChIJz9OxULWVlTkRkoJGCcUH12s",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "6WGM+PR, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2140328,
+                    "lng": 83.9482858
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2153817802915,
+                        "lng": 83.94963478029149
+                    },
+                    "southwest": {
+                        "lat": 28.2126838197085,
+                        "lng": 83.94693681970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Phewa Lake",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108725650916647186262\">Niroj Lawati</a>"
+                    ],
+                    "photo_reference": "ATplDJa5RwROXuxJr6EzG3NtaXtC6KF9tYowzDzeMi7PgLlTP9fPfA29iSQH9rI-C_cC4QnthXhhem0zCJ9BCsfxVttdbn4b4n7YMjzOMGCG3HaOi3_C2Cuh90HUyM2Pbrtki4VS3ba60W97ek7pIenH7J5yQMWuT8WqvINIrLE8FxkmaytR",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJf8r3cwCVlTkRxV8n9WxuQc0",
+            "rating": 5,
+            "reference": "ChIJf8r3cwCVlTkRxV8n9WxuQc0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "6W7X+J87, ペワ湖, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2048839,
+                    "lng": 83.9055997
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2066036302915,
+                        "lng": 83.9071597302915
+                    },
+                    "southwest": {
+                        "lat": 28.2039056697085,
+                        "lng": 83.90446176970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chisapani Eco Village Tarebhir",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114077580401714355021\">rune winther</a>"
+                    ],
+                    "photo_reference": "ATplDJaeWB7ogQaX5h8_SgyKq5-yP0OyNoxlgnrnUU8Smwv08Zv8EJmDZlpRvn9ov7S89ye_J21UzSV7HkrlJVa_PsZ36y6bGr7bFLUk0sw3NVKgg-eWRVvdpmFYzCX5JD-5afxRadbFKwEZQNWmnXMHKJBLma5wnPgBgBoZEeooKdFFt97O",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJd9Mq29jrlTkRWuiRpkbZrlA",
+            "rating": 5,
+            "reference": "ChIJd9Mq29jrlTkRWuiRpkbZrlA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "6W34+X65, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2055324,
+                    "lng": 83.9485244
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2074546302915,
+                        "lng": 83.9495922302915
+                    },
+                    "southwest": {
+                        "lat": 28.2047566697085,
+                        "lng": 83.9468942697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Phewa Fall",
+            "photos": [
+                {
+                    "height": 1279,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110986002041126947891\">Pusparaj Bhattarai</a>"
+                    ],
+                    "photo_reference": "ATplDJbCYatZPC-NMrFqlO574jzJR5lK8uKnVqsfVEOy8wDQ-PcYqKrI-nJ1eOSLZ9VRCHJoLelARQpOOGPktZxhawj_x-xCpvjbC61zeWeaT5l6Qh35dbobAai2-FSPEfxPFvhkvsswyKInjiJohJHFsGvG98ssqSkYAKJG2RIkumA_niaz",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJyQ8i9VCVlTkR_NN4fDGYFf0",
+            "rating": 5,
+            "reference": "ChIJyQ8i9VCVlTkR_NN4fDGYFf0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "6W4X+6C6, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.23198499999999,
+                    "lng": 83.91850409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2332780302915,
+                        "lng": 83.91978578029149
+                    },
+                    "southwest": {
+                        "lat": 28.2305800697085,
+                        "lng": 83.91708781970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Selfie Pool",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJeXdQsG7rlTkRKXf6L4xes_E",
+            "rating": 5,
+            "reference": "ChIJeXdQsG7rlTkRKXf6L4xes_E",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6WJ9+RFJ, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2249728,
+                    "lng": 83.9460489
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2263406802915,
+                        "lng": 83.94736733029151
+                    },
+                    "southwest": {
+                        "lat": 28.2236427197085,
+                        "lng": 83.94466936970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Batas Marga",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109375337708046470477\">ujjwal subedi</a>"
+                    ],
+                    "photo_reference": "ATplDJZUzRO-ytYKttGoQ3RqG-CeZL1LuDaihEfNykS_tnlhhhPPACdEQBg2t4xssM2qwyZDBPXI5P2kpoZZ_c_uPbCpTMybbHfME0cks7oszmwRy1KN4fygM2uV-bX8JiHDaXaLBfS2ocZ6XOpam8FokA6GUgUtsF59N0StGSHRc0G5Zf9w",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJDR6qFmyVlTkRrxn0g5sYsSA",
+            "plus_code": {
+                "compound_code": "6WFW+XC Pokhara, Nepal",
+                "global_code": "7MW56WFW+XC"
+            },
+            "rating": 5,
+            "reference": "ChIJDR6qFmyVlTkRrxn0g5sYsSA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Happy, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2327315,
+                    "lng": 83.9174104
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2341604302915,
+                        "lng": 83.9187969802915
+                    },
+                    "southwest": {
+                        "lat": 28.2314624697085,
+                        "lng": 83.91609901970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bamboo swing",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108818435731538738059\">Klay Cook</a>"
+                    ],
+                    "photo_reference": "ATplDJbTC5fLFDGo_gohTjJZU7aiIl2OFikmV6kuZmvXSyMcjQYP-zroYkUt3LlbNJV5GEPpN0WyPk0615Rj5Z-_Csc5cFIhXkxO2UGk0PDQP_w7-vM0qna3kEV4HJ1F9EK6vk2dmzCPsX_vOoVbwGLTNc0Wcez2lgy2S3-LlkKT_8mySUcC",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJHU2da2jrlTkRO3FKtU57NdU",
+            "rating": 4.5,
+            "reference": "ChIJHU2da2jrlTkRO3FKtU57NdU",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "6WM8+3XV, Panchase Marga, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2210904,
+                    "lng": 83.95031209999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2228008302915,
+                        "lng": 83.9520414802915
+                    },
+                    "southwest": {
+                        "lat": 28.22010286970849,
+                        "lng": 83.94934351970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Phewa lake View Point (फेवा ताल देखिने ठाउ)",
+            "place_id": "ChIJ5_dzewCVlTkRa72XWcMebS8",
+            "reference": "ChIJ5_dzewCVlTkRa72XWcMebS8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "6XC2+J58, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2297199,
+                    "lng": 83.943619
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2311618802915,
+                        "lng": 83.9449036802915
+                    },
+                    "southwest": {
+                        "lat": 28.2284639197085,
+                        "lng": 83.9422057197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kirat Marga",
+            "place_id": "ChIJeROFw06VlTkRMkP5hDEA2JE",
+            "plus_code": {
+                "compound_code": "6WHV+VC Pokhara, Nepal",
+                "global_code": "7MW56WHV+VC"
+            },
+            "rating": 5,
+            "reference": "ChIJeROFw06VlTkRMkP5hDEA2JE",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Batas Marga Street No9C, पोखरा"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2299497,
+                    "lng": 83.9438148
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2312879302915,
+                        "lng": 83.9451360802915
+                    },
+                    "southwest": {
+                        "lat": 28.22858996970849,
+                        "lng": 83.9424381197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Rai Chowk (राई चोक)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJFSEt16OVlTkREWduw_4UV6s",
+            "plus_code": {
+                "compound_code": "6WHV+XG Pokhara, Nepal",
+                "global_code": "7MW56WHV+XG"
+            },
+            "rating": 5,
+            "reference": "ChIJFSEt16OVlTkREWduw_4UV6s",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Happy Village, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.20746249999999,
+                    "lng": 83.95354689999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2088114802915,
+                        "lng": 83.95489588029149
+                    },
+                    "southwest": {
+                        "lat": 28.2061135197085,
+                        "lng": 83.95219791970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Tal Barahi Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 550,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112231777305594574596\">SANDESH SAPKOTA</a>"
+                    ],
+                    "photo_reference": "ATplDJaLNxKjmJBK-_5svUST0iSzVi2LKobV-pshUlRCrNsCakNkQeldn6uoDCKD163TaFLvl_2pr6ZI4DtjP0WajAfiIXcGB2Hspwko2eHdtQEBpPk_NICJ_cxZO1m-3r6viitNPLDLqsobwD4qc05iRVE2dKguY-OWQ1MZbor2RJZObB2f",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJEVdbUR-VlTkRaiWgReBOIuc",
+            "rating": 4.6,
+            "reference": "ChIJEVdbUR-VlTkRaiWgReBOIuc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3159,
+            "vicinity": "6X43+XCM, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2073365,
+                    "lng": 83.95355959999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2086854802915,
+                        "lng": 83.9549085802915
+                    },
+                    "southwest": {
+                        "lat": 28.2059875197085,
+                        "lng": 83.9522106197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Fish watch Point",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113865219631870241878\">Gambhir Bhagat</a>"
+                    ],
+                    "photo_reference": "ATplDJYN5rG3ql_vh5IjdW1Rhsdw4PR0shm1vOjRo90Ft6eg-2pneeKAGkJ4u1vcLV6TI9w-ordhifX7GaNKlzgXmtGsWp035SalChjL4idVXaHj88HGndNK46XPqf1SaVkop_0VhsK6LcwYOVEWvuGqCxhoEYbH0_hse2t0TXz8H2exLRBU",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJUQEGiPSVlTkRK-judVgMDgs",
+            "rating": 4,
+            "reference": "ChIJUQEGiPSVlTkRK-judVgMDgs",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "6X43+XCM, Pokhara"
+        }
+    ],
+    "status": "OK"
+}

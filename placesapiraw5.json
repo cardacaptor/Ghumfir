@@ -1,0 +1,992 @@
+{
+    "html_attributions": [],
+    "next_page_token": "ATplDJa78PTPQcojXOqr8rel1spJMoDur0bS5atoKY-AqYILYnxVi0-LpvkeXdPlwb84uuOLihLs7QmMi8_QToJ_PhdJ1My4nH249mTp-D1449POKgFLzMwcmk4yZnvRAW61gM1tunj-rXjA0HNv1y54ecDABx0eMlPBG2WEem4ap-6216-D9tHLVwNuFrfDXbgsBuAvmVG4mR5moqQb6oC9pz8luFtRQOXrIeWzEjrhKI1YGeHGBJmL1LfA7YizkhsTd61WgcrxI6puSqY9-imZ6ZObJ2Z8G6rF7gS1nu78ngc9nSiK-S9sJ6zP_9LaPSDpeng23e_k3SlC5En2gsPQuS3Sm6Q-XEwOk5DY37t-Zst5cyVSoOOmEAIs_EIsuU3Obz7VEZ_NxpE2IV7cE_lIWMI8SGXF_cWFOhqm1RqB6UEuFPas_CkgjINdv98s40y4AHB5pQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2674636,
+                    "lng": 83.97592949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2687947302915,
+                        "lng": 83.9773509802915
+                    },
+                    "southwest": {
+                        "lat": 28.2660967697085,
+                        "lng": 83.9746530197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chamere Gufa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114338549469051514173\">दीप्त शर्मा</a>"
+                    ],
+                    "photo_reference": "ATplDJbSL_NDR-pFbv_G1_fZEpPFnDvfOqrr1eXtv7fOGLufXhz1Q-uwhig_pmUjlOxxpWFuLpabIF-zR6_BoQ__yseR6XyWDQ4jRyfnxSiACLQYNdo9yGbCxp0Q0VCeLOirOBBj5K166WZg2gg5Cdm17EMYt2Udok7R1bCBC2OIDmuxqqO3",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJmfFyP4KTlTkRT0c_Vu29-7g",
+            "rating": 4.2,
+            "reference": "ChIJmfFyP4KTlTkRT0c_Vu29-7g",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2387,
+            "vicinity": "7X8G+X9M, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.20601,
+                    "lng": 83.960802
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2073201302915,
+                        "lng": 83.9621479802915
+                    },
+                    "southwest": {
+                        "lat": 28.2046221697085,
+                        "lng": 83.9594500197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Peace Eye Treks",
+            "place_id": "ChIJP6_cmBuVlTkRZCDJ65PyeAA",
+            "plus_code": {
+                "compound_code": "6X46+C8 Pokhara, Nepal",
+                "global_code": "7MW56X46+C8"
+            },
+            "reference": "ChIJP6_cmBuVlTkRZCDJ65PyeAA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Lakeside, पोखरा"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 28.21647879999999,
+                    "lng": 84.0074035
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2177166802915,
+                        "lng": 84.0086046802915
+                    },
+                    "southwest": {
+                        "lat": 28.21501871970849,
+                        "lng": 84.00590671970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Matepani Gumba",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2197,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103344187451801822878\">Dipam Dasgupta</a>"
+                    ],
+                    "photo_reference": "ATplDJZwfMNjBamd61Vpb8LG5a2MwvTdhrRZpklX7qjH3gfge-pymHw3pCfch5S5j7ODG-XLGqp2mMwo4u1CXIjfln5naBDwHyMAQ08nG-5olL5vQWS3pWU3uaMWp8Y5ibr1_B5QvzBoolp5fBqHfKkhYMrM7VR4VA0RmA5y5ICzCfR8Q-XO",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ6287aC2UlTkRpJ7goRob9ZQ",
+            "rating": 4.4,
+            "reference": "ChIJ6287aC2UlTkRpJ7goRob9ZQ",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 408,
+            "vicinity": "Buddhist Stupa, Gumba Road, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2009937,
+                    "lng": 83.9417194
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2025360302915,
+                        "lng": 83.9430455802915
+                    },
+                    "southwest": {
+                        "lat": 28.19983806970849,
+                        "lng": 83.94034761970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "TUSHITA-NEPAL MEDITATION RETREATS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3867,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100592037450265375200\">Tatiana Tolkunova</a>"
+                    ],
+                    "photo_reference": "ATplDJbTcV4oC97SrfL3Z9DRiNnfc2coIM_tAUxtnsNrpVl8J27hljMGbr3wvyuO_rj4WrVrYQDki5WCECdK1IjNXne_jxTpzAKRNQdF7od-isk2G266tf_3yLsE_jjSEpuly-7fiMzHttrD1YNv4oc3OuavemlHbO-TtPLah96GB6KyzeiG",
+                    "width": 2900
+                }
+            ],
+            "place_id": "ChIJ2VV55i-VlTkRZr0FP4ObkkY",
+            "rating": 4.8,
+            "reference": "ChIJ2VV55i-VlTkRZr0FP4ObkkY",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "gym",
+                "point_of_interest",
+                "health",
+                "establishment"
+            ],
+            "user_ratings_total": 71,
+            "vicinity": "World Peace, Stupa Access Road, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.21225069999999,
+                    "lng": 83.9564145
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2136413802915,
+                        "lng": 83.9577755302915
+                    },
+                    "southwest": {
+                        "lat": 28.2109434197085,
+                        "lng": 83.9550775697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Wilder Nepal Pvt. Ltd.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109403208590728102619\">Abhay K</a>"
+                    ],
+                    "photo_reference": "ATplDJbsgLvfBuPYweooTv8mxvZNIZici2frTk9p0X2mfq4RWxUCnCCll4hIoyBlNBLRviWfMWu-K1AGPqAYpG-ducfCVyOyoeiiB8GKuv6RRGlbXU8b8X0Qi_xb8dU8K52FxkTT99cdRqwE8xpIwzHlBu4pyY0IjDgiwIYjB2yqkLtTA7h9",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJiWvULx6VlTkR0dywtHunvr4",
+            "plus_code": {
+                "compound_code": "6X64+WH Pokhara, Nepal",
+                "global_code": "7MW56X64+WH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJiWvULx6VlTkR0dywtHunvr4",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "Devisthan, Koirala Marga, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2134149,
+                    "lng": 83.9572365
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2147268802915,
+                        "lng": 83.95867198029151
+                    },
+                    "southwest": {
+                        "lat": 28.21202891970849,
+                        "lng": 83.9559740197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Tibetan Encounter Day Tours P. Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3168,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116546799320634367451\">The Tibetan Encounter Day Tours P. Ltd</a>"
+                    ],
+                    "photo_reference": "ATplDJYhvdG-WfB-aaIISNv0iHRoBYvq3u_z4dA_Pb-2C-4AdXPuTWf9NoaC2UcqE02561lyZWlBFqazK0goZe88QxyJu05rncg_hTNC2W5Uj2_QhIQYnWr7yHVxQWuIoGPfVyYae9yCGzmZ8-UXTr5r6z8S8uS_mqfM9inyy5PBz3Wmw4LG",
+                    "width": 4752
+                }
+            ],
+            "place_id": "ChIJGfvs7RuVlTkRiKTdbK5RXxU",
+            "plus_code": {
+                "compound_code": "6X74+9V Pokhara, Nepal",
+                "global_code": "7MW56X74+9V"
+            },
+            "rating": 4.9,
+            "reference": "ChIJGfvs7RuVlTkRiKTdbK5RXxU",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "hospital",
+                "place_of_worship",
+                "travel_agency",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "health",
+                "establishment"
+            ],
+            "user_ratings_total": 223,
+            "vicinity": "Lakeside Center, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2104026,
+                    "lng": 83.9581568
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2117556802915,
+                        "lng": 83.9595331302915
+                    },
+                    "southwest": {
+                        "lat": 28.2090577197085,
+                        "lng": 83.9568351697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Team 5 Nepal paragliding",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107874100428970053118\">Team 5 Nepal paragliding</a>"
+                    ],
+                    "photo_reference": "ATplDJbCktwyQ3bhInyMjiRnPqoz90nJQVaN4VfGKC-TvAA7f5hE_TdrYGXVfXRWmzXqiVqONeAKBO4iJLSm1R0w94tMhVLe3G-uxCZDG5ANdI7FL1Wjcz3erCQHfSOlIHGneiKq5kl0ywKGTLQSlRgPIjxcyS9dnEI3jHOEveQM8EgaJJMi",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJOXTVwzSVlTkRRGTUySJNDhs",
+            "plus_code": {
+                "compound_code": "6X65+57 Pokhara, Nepal",
+                "global_code": "7MW56X65+57"
+            },
+            "rating": 4.6,
+            "reference": "ChIJOXTVwzSVlTkRRGTUySJNDhs",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 390,
+            "vicinity": "Pahari marg, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2083999,
+                    "lng": 83.95798959999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.20977133029151,
+                        "lng": 83.95933963029151
+                    },
+                    "southwest": {
+                        "lat": 28.2070733697085,
+                        "lng": 83.9566416697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "North Nepal Travel & Trek Pvt.Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3376,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100070855901722045537\">North Nepal Travel &amp; Trek Pvt.Ltd</a>"
+                    ],
+                    "photo_reference": "ATplDJZYNJqrUTBWuGjjfKuRoanp70jGrzObMrpj4XuemnipXQZJYxQVy8H74ScObp3YgqvdC3e_t_oUbkvteKQS_11O9BjE9kMbUMYRrY84c1jZie0G-6Q4Ak8STl9VzUGCl_LR_x8S8ljyVCzJ-SOzh1bxrrp8ko0AHAiBGigLtOkJd1gS",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJ-bMnHhyVlTkRrA7CAftIi9w",
+            "plus_code": {
+                "compound_code": "6X55+95 Pokhara, Nepal",
+                "global_code": "7MW56X55+95"
+            },
+            "rating": 5,
+            "reference": "ChIJ-bMnHhyVlTkRrA7CAftIi9w",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 86,
+            "vicinity": "13th Street, Street Number 13, पोखरा"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2097571,
+                    "lng": 83.9617518
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2110648302915,
+                        "lng": 83.96308078029149
+                    },
+                    "southwest": {
+                        "lat": 28.2083668697085,
+                        "lng": 83.96038281970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Rapidrunner Expeditions",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3643,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106461204686685127651\">Wendy Rockett</a>"
+                    ],
+                    "photo_reference": "ATplDJb2fEbqqTof1XjyRt_7WjxRkVluPYQAGScLTwbikKVNybMwTM2daZlVC4Mk5f16EtNl8Jb6OIQFHsRkP481fF3UQFD8sJmr0XYF01Gxl8PahLa_cAiN04CjqYXJNOqLSUnJGnIX7vnLRqEbKmeL1_0k5kS6JUaEAro5ibTeiTE299uS",
+                    "width": 5463
+                }
+            ],
+            "place_id": "ChIJxcpxFB6VlTkREnZ29VjdzZw",
+            "plus_code": {
+                "compound_code": "6X56+WP Pokhara, Nepal",
+                "global_code": "7MW56X56+WP"
+            },
+            "rating": 4.3,
+            "reference": "ChIJxcpxFB6VlTkREnZ29VjdzZw",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 130,
+            "vicinity": "Durbar marg Lane, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2060741,
+                    "lng": 83.9613861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2073944302915,
+                        "lng": 83.9627726802915
+                    },
+                    "southwest": {
+                        "lat": 28.20469646970849,
+                        "lng": 83.96007471970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Travel Himalya Nepal Treks & Adventure pvt ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 717,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104180664183663141732\">Travel Himalya Nepal Treks &amp; Adventure pvt ltd</a>"
+                    ],
+                    "photo_reference": "ATplDJZvl8KGmO5I1Th9n-Pc6f_2IhMjOGsiXWot3pCtcb4pcrSfTL0nCHw7KlPL3KQfF_-B7P6RsDlm5dZAfmz3gMOjTjdnILQJKQzUDX7H2Wp2yoNdV6swIuU8pkKlJmW91jMlCskyjb6zEanI1tclnLimLwsV6hX3twLc7itcW526EFXX",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJZfJhdBuVlTkRClrUvkq_Xs0",
+            "plus_code": {
+                "compound_code": "6X46+CH Pokhara, Nepal",
+                "global_code": "7MW56X46+CH"
+            },
+            "rating": 4.8,
+            "reference": "ChIJZfJhdBuVlTkRClrUvkq_Xs0",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "Lakeside Road, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.195946,
+                    "lng": 83.970353
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.1972722302915,
+                        "lng": 83.9716066802915
+                    },
+                    "southwest": {
+                        "lat": 28.1945742697085,
+                        "lng": 83.96890871970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Backstreet Academy Pokhara",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111369023133678825419\">Backstreet Academy Pokhara</a>"
+                    ],
+                    "photo_reference": "ATplDJZRc_PVU-Y6QIeItMgz-deZGAM38gNak91w_6uvRd3AOxIEMcNiZlSLTb1QbRO4UiR9P89sYOIMqp7q0nWPdEy2Uxw2NQRJnkGg0cqg2MUFHk8ogbm7f9tCdyX8vyBt5o6-Drim2K0YCNnjpE19C7DT-wrKc-lEA053dzW4uThEZfDA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJH-H7uAuVlTkRhf9PrdVJW8A",
+            "plus_code": {
+                "compound_code": "5XWC+94 Pokhara, Nepal",
+                "global_code": "7MW55XWC+94"
+            },
+            "rating": 3.7,
+            "reference": "ChIJH-H7uAuVlTkRhf9PrdVJW8A",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.194062,
+                    "lng": 83.97110599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.1954618802915,
+                        "lng": 83.9724233302915
+                    },
+                    "southwest": {
+                        "lat": 28.1927639197085,
+                        "lng": 83.96972536970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Aroma Nepal Treks & Expedition Pvt. Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100258280717754461626\">Aroma Nepal Treks &amp; Expedition Pvt. Ltd</a>"
+                    ],
+                    "photo_reference": "ATplDJZ2yBxWKIsXPB5B2csfZpVQv_kixjkUzwz0L6FU4MThaJ-v49owGwwyxxFPEquWfVHa-pBpNepM5bQXUF3GITL_3X2ZCbygszqrc1xvkks29or6ziEU_POaVqRtvOa0RHd4EJJf1jI3qV4k4XKn5pJG2jakNm0Svt13K6n42YuqVvpv",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJQanVFB6VlTkRnFgI5WTgIZc",
+            "plus_code": {
+                "compound_code": "5XVC+JC Pokhara, Nepal",
+                "global_code": "7MW55XVC+JC"
+            },
+            "rating": 4.9,
+            "reference": "ChIJQanVFB6VlTkRnFgI5WTgIZc",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "28 Damside Marg, Pokhara, Nepal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.1893016,
+                    "lng": 83.9797849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.1907457302915,
+                        "lng": 83.98115368029151
+                    },
+                    "southwest": {
+                        "lat": 28.1880477697085,
+                        "lng": 83.97845571970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "International Mountain Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113913486073720029233\">Md Moin Ahamed Russel</a>"
+                    ],
+                    "photo_reference": "ATplDJbM1iTj88LAFTyy-SxMJqEoEcY79MISun4mfHeDf4A7Pzicc7Q_hq5c9QLm3j-TBaWQjasKZTWZL6NEjGXh92_rVoT6Zki9ghJ3d-_xgtsjdMNXNrpUf3y3-izpKxxQN1FaoumoGXE9H194ZpYCudffXp095GTZygLS6ijiNwSQYMtx",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJdyflZJiVlTkRpxzXn33Wy1Y",
+            "plus_code": {
+                "compound_code": "5XQH+PW Pokhara, Nepal",
+                "global_code": "7MW55XQH+PW"
+            },
+            "rating": 4.4,
+            "reference": "ChIJdyflZJiVlTkRpxzXn33Wy1Y",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4227,
+            "vicinity": "Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2814467,
+                    "lng": 83.86672949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2827841802915,
+                        "lng": 83.86808263029151
+                    },
+                    "southwest": {
+                        "lat": 28.2800862197085,
+                        "lng": 83.8653846697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Naudanda",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106609071377979301989\">Aadarsha Subedi</a>"
+                    ],
+                    "photo_reference": "ATplDJYx-un4Smz8dgXyMeH5R73IE0Y-L0BdtWHidF_d9hqG7unVsxHBcR53mQKCPs4cL2PhLvzLljaBK0Eae4bBxuNF3EVs7pl1UmSpaKu49spE25uo9GxWZVqxEbXCMrHweHx97UDfWd50x2Jt3h87RUZqm3qECyvgbLr0BWozj053vxmX",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJoxuyoD_slTkRUcV0hdDmbgI",
+            "plus_code": {
+                "compound_code": "7VJ8+HM Pokhara, Nepal",
+                "global_code": "7MW57VJ8+HM"
+            },
+            "rating": 4.4,
+            "reference": "ChIJoxuyoD_slTkRUcV0hdDmbgI",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 257,
+            "vicinity": "Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.215209,
+                    "lng": 83.9566153
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2163151802915,
+                        "lng": 83.95885825
+                    },
+                    "southwest": {
+                        "lat": 28.2136172197085,
+                        "lng": 83.95586765
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pokhara Lakeside",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3784,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102324934408067366369\">Amit Chatterjee</a>"
+                    ],
+                    "photo_reference": "ATplDJYnk1LwBWjGrFghxauOfgRBVWt2OVO6vwJbSBcOY6WdK9J-rEVbpz1oVE8FBUGEcLZr6X_VdhSOoMX16yxKitofEuui6F_4CjO-9P6dpdMsgfmaI0sh_lqmLggt6wWYTKfkRZiDqFjtnAzX5_UcCxB8eKOMoAqseKxxPelREUa2trWZ",
+                    "width": 5668
+                }
+            ],
+            "place_id": "ChIJQanVFB6VlTkRg1s3fz9SBA0",
+            "rating": 4.6,
+            "reference": "ChIJQanVFB6VlTkRg1s3fz9SBA0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15397,
+            "vicinity": "6X84+3JQ, Lakeside Road, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2010375,
+                    "lng": 83.9447969
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2023048802915,
+                        "lng": 83.94639433029151
+                    },
+                    "southwest": {
+                        "lat": 28.1996069197085,
+                        "lng": 83.94369636970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "World Peace Pagoda",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2896,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114298897926578257974\">Uttkrista Rimal</a>"
+                    ],
+                    "photo_reference": "ATplDJbKiCnRVsZX0Yl2xp7lom6du8Ca9l3tFA7GPoOtWsdjkg2xO6VquYdEUfZF8YUiXjoPMYloH2xivtSQ_lFYbrSjiw1JUa3aDqNe2MgS2v7Zfwsgj6bCL3FWhgINh3Fe_i1EXpqv65G1ApY0GsdxCUfLlg6_S_XaqY5MNRZEH4RtQ9jN",
+                    "width": 3862
+                }
+            ],
+            "place_id": "ChIJQzZyKyWVlTkRe0kw9qnuw78",
+            "plus_code": {
+                "compound_code": "6W2V+CW Pokhara, Nepal",
+                "global_code": "7MW56W2V+CW"
+            },
+            "rating": 4.6,
+            "reference": "ChIJQzZyKyWVlTkRe0kw9qnuw78",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6816,
+            "vicinity": "Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2130688,
+                    "lng": 83.9658096
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2144533302915,
+                        "lng": 83.96715903029151
+                    },
+                    "southwest": {
+                        "lat": 28.2117553697085,
+                        "lng": 83.96446106970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Mountain House Treks & expedition Pvt.Ltd.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1288,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104150114526149470185\">The Mountain House Treks &amp; expedition Pvt.Ltd.</a>"
+                    ],
+                    "photo_reference": "ATplDJZLWlGjp_XegVJ7WF9NGoQci1IR8A1EK0mLxb5s78nQsZxuaWfeK3Pe9_vZUM72KOJfsf39a-pO6OBUfwgfUG8Kadz4Bz4ceyuPT1CgypQJKRG4j14LrVfwX5zeveaW5aYnKETSoD1mjfvtjIx5IDhk-trYl60OKNOQGQCYexeV18P3",
+                    "width": 2640
+                }
+            ],
+            "place_id": "ChIJwbYo7R2VlTkR5q9GKoGI2Ws",
+            "plus_code": {
+                "compound_code": "6X78+68 Pokhara, Nepal",
+                "global_code": "7MW56X78+68"
+            },
+            "rating": 5,
+            "reference": "ChIJwbYo7R2VlTkR5q9GKoGI2Ws",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 181,
+            "vicinity": "Nahar Marg street no 32, पोखरा"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.1895642,
+                    "lng": 83.95866370000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.1908198802915,
+                        "lng": 83.95996093029152
+                    },
+                    "southwest": {
+                        "lat": 28.1881219197085,
+                        "lng": 83.95726296970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Devi's Fall Pokhara",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 7885,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100772186916488947929\">Hemang Desai</a>"
+                    ],
+                    "photo_reference": "ATplDJYWBZfyZ7XamzX4R0diPDPmd9lev9V7ILJFQ_sczMf0wwVklIddbR3NZ2aL6IIEG0Sn-nANDFQT0NNrq2Y9gYAq63P1EUxemPeNCUohNUCE8Rmg7_u6RtlKPXeDg70LRlkdOYuS-NAQw_vj_0beeRPR8SI4dC2L242m4tPU0xewBklk",
+                    "width": 11811
+                }
+            ],
+            "place_id": "ChIJjzeCThOVlTkRay8WO2xxgbU",
+            "rating": 4,
+            "reference": "ChIJjzeCThOVlTkRay8WO2xxgbU",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17715,
+            "vicinity": "5XQ5+HP2, H10, Pokhara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2139375,
+                    "lng": 83.9154375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2146490302915,
+                        "lng": 83.9176757
+                    },
+                    "southwest": {
+                        "lat": 28.2119510697085,
+                        "lng": 83.90872289999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Fishtail Fewa View Spot, Baytaini",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112494805949614960830\">arun raj Poudel</a>"
+                    ],
+                    "photo_reference": "ATplDJY42lDWN8GMCycZRYQ-CEEbyy8bOA9gh1QtqtSSH_HkF2FCy2-xEUyq0boBMetLcDBpY_deoqGFKRSyq0Lzx36nYT9RviB5xCnB_GiYQDHmZQW1epRCfeHIh6uZSGMLX_5bkI1MdVi89yDSCja71o0dEFcCClWFyOpIisHOdpga5Ywx",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJMdN2yZnrlTkR-q2RGzfa5Fk",
+            "rating": 5,
+            "reference": "ChIJMdN2yZnrlTkR-q2RGzfa5Fk",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "6W78+H5, Chapakot"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.2049524,
+                    "lng": 83.9360887
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.2062108302915,
+                        "lng": 83.9378033802915
+                    },
+                    "southwest": {
+                        "lat": 28.2035128697085,
+                        "lng": 83.93510541970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Razan bhujel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJQWoUi2-VlTkRwn36DX13cOg",
+            "rating": 1,
+            "reference": "ChIJQWoUi2-VlTkRwn36DX13cOg",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6W4P+5V8, Pokhara"
+        }
+    ],
+    "status": "OK"
+}

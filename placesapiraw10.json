@@ -1,0 +1,896 @@
+{
+    "html_attributions": [],
+    "next_page_token": "ATplDJZr33Z2jzyd7xygWyB7cQuxYuJ-vKK_CBI7Qoq-fWbIaf3tvAuGhi947eg03Lku_NbgtPANABiesJ9W_7XLbdpcShYIZdnN58EVyW5rl2pPuvqRE_YDY1ykJk7dLDkPTo5nYdidp5Fcb0bLT94zpfeQZ7CIeGRD8qeY8soJI7W8DMeyZ8wp2xIwT6x2qtx3_YxrtRWKF0zGWKaXZIpNzeIXjTBqnW7ml_Xh7coZwzDTOZRfIVR2hJtA29086BoC69CicoPyfskSXz1n-DD_tZshE2qCPW29MW-rlNCDcREHVDMz3mZEwu-U2BQ1G3JUdTMljXwmPSMQZFXFKAQ8tNQgtKf1pvOUqOwH_mnEm1B4Dk0BxaluonJ5BPP3lY4LGFQ4LI6aS5dcROdtRGfW",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Phobjikha, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.4593763,
+                    "lng": 90.1802009
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.46044817989272,
+                        "lng": 90.18133202989273
+                    },
+                    "southwest": {
+                        "lat": 27.45774852010728,
+                        "lng": 90.17863237010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Phobjikha Valley",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111369012762354507837\">LALIT JAIN</a>"
+                    ],
+                    "photo_reference": "ATplDJatmqMnrC3hYcUKNaQmBqn4MDlEi7VUAF9WIzgKW_alJ1huzFZsSzLS8RhTz02S5XfF0WIxATo6fudbSPddhY-iRUSH2GBSzDXd_dL5ga8LOQThHZvGbiqS7scdE6B-Keoe_cEGXK4WNdYtmsh07ehMIjLV2yOuS14bUUN7IeMaTYE4",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJi7bw6mXcXjcRCtdjSpZqYy4",
+            "plus_code": {
+                "compound_code": "F55J+Q3 Nubding",
+                "global_code": "7MVGF55J+Q3"
+            },
+            "rating": 4.8,
+            "reference": "ChIJi7bw6mXcXjcRCtdjSpZqYy4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 313
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "GC7M+MC9, Karshong Village, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.514162,
+                    "lng": 90.433601
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.51551182989273,
+                        "lng": 90.43495082989273
+                    },
+                    "southwest": {
+                        "lat": 27.51281217010728,
+                        "lng": 90.43225117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "jakarlung valley",
+            "place_id": "ChIJk8hZqOE9XzcRSA9wS6t5nH4",
+            "rating": 0,
+            "reference": "ChIJk8hZqOE9XzcRSA9wS6t5nH4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "GC7M+MC9, Lunana, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.514162,
+                    "lng": 90.433601
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.51551182989273,
+                        "lng": 90.43495082989273
+                    },
+                    "southwest": {
+                        "lat": 27.51281217010728,
+                        "lng": 90.43225117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Lunana",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJs6laCLI9XzcRQ4XJM1WKVCs",
+            "rating": 5,
+            "reference": "ChIJs6laCLI9XzcRQ4XJM1WKVCs",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HVJ7+V6Q, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.5822039,
+                    "lng": 89.86309469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.58365772989272,
+                        "lng": 89.86468662989272
+                    },
+                    "southwest": {
+                        "lat": 27.58095807010728,
+                        "lng": 89.86198697010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Punakha Dzong སྤུ་ན་ཁ་རྫོང་།",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107969724063992874076\">aniruddha</a>"
+                    ],
+                    "photo_reference": "ATplDJZ3XI0VDYHOzRNVPIjT0c20CM0Ir8pcUdfoUgc9JTMvhFkP_nk9UGex0Btaw2gZCm3qwnnP5KskJo-WxqVFe_mqKU1KFSLQFZVGp-N0oAeARdYt9Mxo8ky8X9pK7AAOcTxeolLKQUTMTZI_kpK7LKkPjBDLkqcPL52Pu9TYUztfrs-c",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJ73ADDDvd4TkRdwxU68ERGc0",
+            "rating": 4.8,
+            "reference": "ChIJ73ADDDvd4TkRdwxU68ERGc0",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 971
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "FJJ6+PH3, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.4817741,
+                    "lng": 89.6114265
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.48306112989273,
+                        "lng": 89.61745934999999
+                    },
+                    "southwest": {
+                        "lat": 27.48036147010728,
+                        "lng": 89.60941555
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Royal Takin Preserve",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102942968585411991910\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJaxhO0ngI9VVykAcH48WWBg3eb3VWdGEJk3fvmgAp3T9K8esMV1GhhBdjwhtLBrpxGS2N4-THeWWXAKI1n5CO2WNIkaajQqOye1qFwPzSg6DsaNmPrM7zfe88wPsllDR0YHYbTfNnzHzsznVdw7GTG30qe0Fjwve_ucPJ2HpKVDNw04",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJW7B8dpeW4TkRhl7MbL29joE",
+            "rating": 3.8,
+            "reference": "ChIJW7B8dpeW4TkRhl7MbL29joE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1135
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bhutan, Dungdungneysa, Unnamed Road",
+            "geometry": {
+                "location": {
+                    "lat": 27.5248248,
+                    "lng": 90.1725403
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.52618002989272,
+                        "lng": 90.17385657989271
+                    },
+                    "southwest": {
+                        "lat": 27.52348037010728,
+                        "lng": 90.17115692010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Lawa La",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108317721666354777744\">spoolartist</a>"
+                    ],
+                    "photo_reference": "ATplDJbgAgCyw1Yq3ZYBismKSa1y6izcB7F5io1zQLehQWhUMBPei79uR09PtIqhNX-UHshIAZn0MpfgjqQil_c7isZ7kZfAUlKS7YxFdtTftsZiq5V6HIM_EMbsOakTx2aL63dKEMPF3IoEax_nOq0PhUHyymUYDdzJiRPx_AuUMAXQ-3cs",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJqexiCuJDXzcRKbijMt-otUE",
+            "rating": 4.7,
+            "reference": "ChIJqexiCuJDXzcRKbijMt-otUE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "27.637361,89.816500,, Thimphu-Punakha Hwy, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.6373597,
+                    "lng": 89.8165015
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.63870952989272,
+                        "lng": 89.81785132989273
+                    },
+                    "southwest": {
+                        "lat": 27.63600987010727,
+                        "lng": 89.81515167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Khamsum Yulley Namgyal Choeten",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110854509155035738113\">padam rajli</a>"
+                    ],
+                    "photo_reference": "ATplDJb_EGCiNFxLjVTexYqIYPcCVRgwzoqjPCfiPH2Q5HDShdpGcJP69YOZSVLWaGtqfyDogUgF-cf6lpWmzIKA1a92M_4iZJ9jodDVfPwPGJBOCNXe1UDpUroicXC3JjLqPUt0M1NFuwpDEgsb3IAbmD3jhSy_IRsxBKS3oYqL93vl3pZk",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJnyhuNXnD4TkRQMUusbKgbQI",
+            "plus_code": {
+                "compound_code": "JRP8+WJ Punakha",
+                "global_code": "7MVFJRP8+WJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJnyhuNXnD4TkRQMUusbKgbQI",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 205
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "FJ8Q+J47, Chhoten Lam, Thimphu, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.466546,
+                    "lng": 89.63780249999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.46790272989272,
+                        "lng": 89.63898772989272
+                    },
+                    "southwest": {
+                        "lat": 27.46520307010728,
+                        "lng": 89.63628807010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "National Memorial Chhorten རྒྱལ་ཡོངས་རྗེས་དྲན་མཆོད་རྟེན།",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110361635674121347555\">Zakir Hossain</a>"
+                    ],
+                    "photo_reference": "ATplDJZ61SjfVqtatVpZ47vWLVJ1-h1MLhgXxlFdu098acmahQy1lsqtLFvYm1HnwMGOeSOs8EBbMFPETDV9zpXljBv37SQlsD6n3g0ebw4hg40wU7oBiAtDslR2TmGbFKckOR4mtJ4lCks3k_051iU0HgLnkKCHNN9j3xIhGSwg-a4D9y7a",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJT1JzJA6U4TkRhSx8muabEzk",
+            "rating": 4.5,
+            "reference": "ChIJT1JzJA6U4TkRhSx8muabEzk",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1191
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.4888078,
+                    "lng": 89.35873769999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.4926998,
+                        "lng": 89.36191590000001
+                    },
+                    "southwest": {
+                        "lat": 27.4771318,
+                        "lng": 89.35767829999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Paro Taktsang",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 606,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109243513813362512989\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJbf-scRnfX2UuSn2FZX-JpmfXMpABtSyOy_RN8rmODyf8qHkJ7Cg130YHUJMNQAgJSGmN4LrR0kdtaff5iE2DANEPxsHGrGyIARqoHEeHU5J0SpKb9qXouwhCddeECB_2xx_V9ZeMdPe31TVf_tJJa26eRvLU6r-cxIDlIhRnABBDZL",
+                    "width": 955
+                }
+            ],
+            "place_id": "ChIJuzZCrq114TkRsQBU-bxErp0",
+            "plus_code": {
+                "compound_code": "F9Q5+GF Paro",
+                "global_code": "7MVFF9Q5+GF"
+            },
+            "rating": 4.8,
+            "reference": "ChIJuzZCrq114TkRsQBU-bxErp0",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2758
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "FFPV+848, Trongsa, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.485798,
+                    "lng": 90.4928432
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.48720737989272,
+                        "lng": 90.49410802989271
+                    },
+                    "southwest": {
+                        "lat": 27.48450772010727,
+                        "lng": 90.49140837010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "MHPA View Point",
+            "photos": [
+                {
+                    "height": 3060,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108521940779154300975\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJZeTdWTvtWIz8ip6YpnXTb1UFqaQHaQW6rLyzDOzRz8sG-ymYBqSoThxlycNBnUcGFmM6MmekEuvQf4MbNJdQv4lPieLoJ5s-VYhrFTEJFY1I3ymJKpdEUDzNIPul96KQFQH9MkmjscdSrUH9Sbu-uYSClUienP1qFvvRrC_e-Dyxmf",
+                    "width": 4080
+                }
+            ],
+            "place_id": "ChIJRTc_3vEjXzcRtDqPKL-T4j0",
+            "rating": 0,
+            "reference": "ChIJRTc_3vEjXzcRtDqPKL-T4j0",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nubi, Trongsa, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.537624,
+                    "lng": 90.49627339999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.53867677989272,
+                        "lng": 90.49965395
+                    },
+                    "southwest": {
+                        "lat": 27.53597712010727,
+                        "lng": 90.49514655
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tongphu Te ( bird eye view of Trongsa Town)",
+            "place_id": "ChIJx8VvRfsjXzcRv70fjuhJowI",
+            "rating": 1,
+            "reference": "ChIJx8VvRfsjXzcRv70fjuhJowI",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "FJMF+8RW, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.4833587,
+                    "lng": 89.62459299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.48474642989272,
+                        "lng": 89.62590307989271
+                    },
+                    "southwest": {
+                        "lat": 27.48204677010727,
+                        "lng": 89.62320342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sangaygang View Point",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116991709793419464495\">Bidipto Sarkar</a>"
+                    ],
+                    "photo_reference": "ATplDJa74GTzbqM0aZnO0SzcK_XuAOVnR7_kgilAQghNhYwIi9vwpwOReh90N1pNG_DqW6bIflPc2-ChXh9uWWHBHUHs-jD7tzP59mHYenTpQ8AycZw3YwKNyf3dDYQ6THLZDrhZ8Nnd7p3bFssCO2J1N3Q0Y524lpBpSfItFE8r8K6fZDPl",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ4TMyFJ6W4TkRqQ6brYw5aL4",
+            "rating": 4.5,
+            "reference": "ChIJ4TMyFJ6W4TkRqQ6brYw5aL4",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 121
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Wangdue Phodrang - Trongsa Hwy, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.4963676,
+                    "lng": 90.49652680000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.49770387989272,
+                        "lng": 90.49786132989271
+                    },
+                    "southwest": {
+                        "lat": 27.49500422010728,
+                        "lng": 90.49516167010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Trongsa Dzong View Point",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106700782881497246459\">Sajan Rai</a>"
+                    ],
+                    "photo_reference": "ATplDJaIsgRj1i6Uzhq_que8fYN1nqIVPsiZHbTf7VsN8YPz9s8VsM6wMksa0wqy1C-40l7sQZ7GEfx_W-BR2d1pWyylvtsMwXI9xtX6Y2jQAGlTFaq3mtmN41AGJ3758IPbRjE896cKE4RlZCGXIcGo39OeaRt94PJj1SkhGgYQmUxmngL5",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJ8X5slYsjXzcRgPKBccS2RY4",
+            "plus_code": {
+                "compound_code": "FFWW+JH Trongsa",
+                "global_code": "7MVGFFWW+JH"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ8X5slYsjXzcRgPKBccS2RY4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6C97+X2J, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.219973,
+                    "lng": 90.4125181
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22132282989272,
+                        "lng": 90.41386792989273
+                    },
+                    "southwest": {
+                        "lat": 27.21862317010728,
+                        "lng": 90.41116827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Jigme Singye Wangchuck National Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 719,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108437551010103596819\">BM 63</a>"
+                    ],
+                    "photo_reference": "ATplDJYVVgSQV6wL_sT7ASfJmK7YZiWQ2Q34AAlLupssp77ZbGOxz9GMKSOO9HQtyC_DiKepZ21v7aW3mw6ORa5J0e6QYHayetbgvRwA-P6bGtd68TI1TGZsCiZNCNaW1EDYiJwj87ZWxtqtKY9waxeIKGxq3izdqt7QTsIT9MH9KoKrwDLQ",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJrUZdAZYzXzcRFa3pVUC3tXQ",
+            "rating": 4.1,
+            "reference": "ChIJrUZdAZYzXzcRFa3pVUC3tXQ",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 134
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "PJ27+RGX, Buxa Hill Forest, Buxa Forest, West Bengal 735227, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.702119,
+                    "lng": 89.6138484
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.70365057989272,
+                        "lng": 89.61469365
+                    },
+                    "southwest": {
+                        "lat": 26.70095092010727,
+                        "lng": 89.61131264999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Jayanti Riverbed",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100342917707220868195\">Sumanta Sadhu</a>"
+                    ],
+                    "photo_reference": "ATplDJYxj3olFoSxutOgDVXRFWO7lVu97_v8yVIBQTDYslmpg0Ib1sLFqn_6ag3grp4rwmlvBnF3pwM7rbI_Wf_YcPv8oVHHeLenebaWjRIxQDgSTXqSa13NMp55o2f_AB2exhwmo4DINTuD6OS6k-wKthp7W-q27YGOMSP4CGQpT2Qc6oUZ",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJA0WJ-wJE4jkRjoch2UD7YBY",
+            "rating": 4.6,
+            "reference": "ChIJA0WJ-wJE4jkRjoch2UD7YBY",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 346
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "FGX5+P2H, Bumthang - Ura Hwy, Trongsa, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.4993111,
+                    "lng": 90.5076205
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.50066447989272,
+                        "lng": 90.50870157989272
+                    },
+                    "southwest": {
+                        "lat": 27.49796482010727,
+                        "lng": 90.50600192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Taa-Dzong བལྟ་རྫོང་།",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110828454095089051675\">S. S.</a>"
+                    ],
+                    "photo_reference": "ATplDJZ7dtoHfou3U2ItZboO5bDvqBljltzKSDJUMFYrVbXkHUyqYTGHdiFRzgXEgFuENsjYhmoNH8-BXQzM-LktVif4c3bbkcZtQXzoGMUA7JbGBaRV9H1frlPFV7Um6AOiZnIWEwGsj97PWElFF1e-eq9LQSlDo55araIxaP8qteXMS6rW",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJWayrjsojXzcR5jmu8FnBWWs",
+            "rating": 4.4,
+            "reference": "ChIJWayrjsojXzcR5jmu8FnBWWs",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "FGW2+FGV Dzongju Zam, Trongsa, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.4962816,
+                    "lng": 90.5013317
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.49761432989273,
+                        "lng": 90.50370099999999
+                    },
+                    "southwest": {
+                        "lat": 27.49491467010728,
+                        "lng": 90.49422380000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bazam",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116966936764250451175\">sonam phuntsho</a>"
+                    ],
+                    "photo_reference": "ATplDJZIxG5nnZq2D2KDaOO5V0fMxo8PLzuD5puwVpIE_vRTltiFI3ph42GFIxjQ1psJk28wLmaEZbN6DgTIv5XGd3oc64jhLt3E8tcHShErlu8Mg0SVBCs7sHB-iaGCUVBQaSkfu5CTJq-urRlub8EFdjoYfUtxkKETdD5Xq0o_in5Z2W2y",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJrxY1TgAjXzcRA0LogLHAswY",
+            "rating": 5,
+            "reference": "ChIJrxY1TgAjXzcRA0LogLHAswY",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dooars, West Bengal 735217, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.6169467,
+                    "lng": 89.52654260000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.61826772989272,
+                        "lng": 89.52740502989272
+                    },
+                    "southwest": {
+                        "lat": 26.61556807010728,
+                        "lng": 89.52470537010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "DOOARS TOURISM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 6944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111180199402705708096\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJag6uRXBfVmhJU68JXJ9xgcyjw7oo57dYr-X0Ir2aYLWe_r_XoFgywujBkEubJ2-G2_wHXjpjaCPNCE1FP6CeDcIj9iOHZ16A7W5Gcb1bPS0iU8KW_WDPjcaL9v_1PKabgp2ohCmrF1FwRrktsSElwhyXfUbAgu47wI3iRW5j22ypMH",
+                    "width": 9248
+                }
+            ],
+            "place_id": "ChIJe07goZlP4jkR8_znbFnT7i4",
+            "plus_code": {
+                "compound_code": "JG8G+QJ Rajabhat Khawa, West Bengal, India",
+                "global_code": "7MRFJG8G+QJ"
+            },
+            "rating": 4.8,
+            "reference": "ChIJe07goZlP4jkR8_znbFnT7i4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 44
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8HGR+CWX, Lamti, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.3261127,
+                    "lng": 90.5923565
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.32742422989272,
+                        "lng": 90.59373592989272
+                    },
+                    "southwest": {
+                        "lat": 27.32472457010727,
+                        "lng": 90.59103627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Koshala View Point",
+            "photos": [
+                {
+                    "height": 1872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115835011105373488984\">Tshering Tashi</a>"
+                    ],
+                    "photo_reference": "ATplDJYPButBeIu8z47hZYcXTJLQomRIOQ4-GnVlXYEPsY90djBkA7kZtx9CwqzUdGBzn1okx1ni-rYVA0cjXmq6xJ7utPhMrYfRi5qmYWamGcx-U4jYFVr2If4mqhkjfzG0iCqDEIMm--lsbiCGKRxUeJVzdMPfTG0xfDvtMd1qC4Wk17Gs",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJl5D5sOApXzcRrGGOQjXPfAs",
+            "rating": 5,
+            "reference": "ChIJl5D5sOApXzcRrGGOQjXPfAs",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "G7FX+GGR Chazam, Sephu, Chemaito, Bhutan",
+            "geometry": {
+                "location": {
+                    "lat": 27.5238703,
+                    "lng": 90.29877510000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.52524717989272,
+                        "lng": 90.30006617989272
+                    },
+                    "southwest": {
+                        "lat": 27.52254752010728,
+                        "lng": 90.29736652010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dorji Khando",
+            "place_id": "ChIJ-dC9uelBXzcRL6M9w8DlzBo",
+            "rating": 0,
+            "reference": "ChIJ-dC9uelBXzcRL6M9w8DlzBo",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}
