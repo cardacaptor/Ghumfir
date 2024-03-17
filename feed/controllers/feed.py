@@ -40,7 +40,7 @@ class FeedController(GenericAPIView):
                                 },
                                 status= 200
                                 )
-            if(page == 1 or session_id == None or session_id == 0):
+            if(session_id == 0):
                 session = ViewSession.objects.create(user_id = request.user.id)
             else:
                 session = ViewSession.objects.get(id = session_id)

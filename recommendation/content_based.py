@@ -40,17 +40,20 @@ class ContentBasedRecommendation(RecommendationI):
         return {"corpus_disliked":last_activity_post.caption}
     
     def sort_rest(self, user, session_id):
-        
         session_views = PostViewed.objects.filter(session_id = session_id)
         session_views_set = set([i.post_id for i in session_views]) 
-        
         last_action = PostAction.objects.filter(user = user).order_by('-id').first()
         if last_action == None:
-            return Post.objects.all()
-        sorted_recommendation = self.vectorizerService.sort_rest(last_action.post_id)
-        if(last_action.action != ActionChoices.LIKE):
-            sorted_recommendation.reverse()
-        return [i for i in sorted_recommendation if i.id not in session_views_set]
+            sorted_recommendation = Post.objects.all()
+        else:
+            sorted_recommendation = self.vectorizerService.sort_rest(last_action.post_id)
+            if(last_action.action != ActionChoices.LIKE):
+                sorted_recommendation.reverse()
+        not_viewed_posts = []
+        for i in sorted_recommendation:
+            if i.id not in session_views_set:
+                not_viewed_posts.append(i)
+        return not_viewed_posts
 
     def get_bot_reply(self, message, username):
         help_response = self.respond_to_help(message, username)
