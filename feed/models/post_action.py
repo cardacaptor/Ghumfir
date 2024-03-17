@@ -50,9 +50,5 @@ class PostAction(models.Model):
     objects = PostActionManager()
     
     def __str__(self):
-        return str({
-            "user":self.user, 
-            "post":self.post.caption,
-            "action": str(self.action)
-            })
+        return self.action
         

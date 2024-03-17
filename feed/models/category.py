@@ -6,8 +6,4 @@ class Category(models.Model):
     number_of_destinations = models.IntegerField(default=0)
 
     def __str__(self):
-        return str({
-            "caption":self.caption, 
-            "url":self.url, 
-            "number_of_destinations":self.number_of_destinations
-            })
+        return str(self.caption)

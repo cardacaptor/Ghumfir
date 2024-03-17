@@ -16,21 +16,17 @@ class Post(models.Model):
     number_of_views = models.IntegerField(default=0)
 
     def __str__(self):
-        return str({
-            "caption":self.name, 
-            "url":self.url, 
-            "price":self.price, 
-            "duration":self.duration,
-            "number_of_likes":self.number_of_likes, 
-            "number_of_dislikes":self.number_of_dislikes, 
-            "number_of_views":self.number_of_views
-            })
+        return str(self.name)
         
 class Tag(models.Model):
     key = models.TextField()
+    
+    def __str__(self):
+        return self.key
     
 class PostTag(models.Model):
     value = models.TextField()
     post = models.ForeignKey(Post,on_delete=models.CASCADE, related_name='post_tags')
     tag = models.ForeignKey(Tag,on_delete=models.CASCADE, related_name='tag')
+    
 
