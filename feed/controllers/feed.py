@@ -53,9 +53,6 @@ class FeedController(GenericAPIView):
                 PostViewed(user_id = request.user.id, post_id = i.id, session_id = session.id ) 
                 for i in paginated_posts
                 ])
-            print(paginated_posts)
-            print(len(paginated_posts))
-            print(len(set([i.id for i in paginated_posts])))
             for i in paginated_posts:
                 post = Post.objects.filter(id = i.id).first() 
                 post.number_of_views += 1
