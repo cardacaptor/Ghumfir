@@ -5,10 +5,12 @@ from feed.controllers.category import CategoryController
 from feed.controllers.category_feed import CategoryFeedController
 from feed.controllers.dislike_action import DislikeActionController
 
+from feed.controllers.explore import ExploreController
 from feed.controllers.feed import FeedController
 from feed.controllers.like_action import LikeActionController
 from feed.controllers.search import SearchController
 from feed.controllers.similar_post import SimilarPostController
+from feed.controllers.trending import TrendingController
 
 # WHAT APIS DO YOU NEED
 # get - > feed/recommended/ -> List<Post>
@@ -25,6 +27,8 @@ post_url_patterns = [
 ]
 
 feed_url_patterns = [
+    path('landing/trending/<int:page>', TrendingController.as_view(),),
+    path('landing/explore/<int:page>/session/<str:session_id>', ExploreController.as_view(),),
     path('landing/<int:page>/session/<str:session_id>', FeedController.as_view(),),
     path('landing/<int:page>/<str:search>', SearchController.as_view()),
 ]

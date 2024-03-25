@@ -18,9 +18,8 @@ class TFIDFVectorizerAlgorithm():
             raise MyConfigurationError("Invalid post_id.")
         user_corpus = self.idVsCorpus[post_id]
         #sorting corpus based on similarity scores but only returning corpuses
-        print(user_corpus.tfidf_matrix)
-        print(user_corpus.post.caption) 
         sorted_similarity_scores = self.sort_corpus_by_matrix(user_corpus.tfidf_matrix) 
+        print(sorted_similarity_scores)
         sorted_corpus_without_score = [corpusSimilarity.corpus for corpusSimilarity in sorted_similarity_scores]
         return sorted_corpus_without_score
     
@@ -65,7 +64,7 @@ class TFIDFVectorizerAlgorithm():
 
         #sorting corpus based on similarity scores but only returning corpuses 
         sorted_similarity_scores = sorted(similarity_scores, key=lambda x: x.similarity, reverse=True)
-        # [print((i.corpus.post.caption, i.similarity )) for i in sorted_similarity_scores]
+        [print((i.corpus.post.caption, i.similarity )) for i in sorted_similarity_scores]
         return sorted_similarity_scores
     
     def tokenize(self, document):
@@ -111,7 +110,7 @@ class TFIDFVectorizerAlgorithm():
             tf = self.calculate_tf(document.token_text)
             tfidf_vector = {term: tf[term] * idf[term] for term in tf}
             document.tfidf_vector = tfidf_vector
-            
+        
         #complete set of vocabulary
         vocabulary = set()
         self.vocabulary = vocabulary
@@ -123,8 +122,6 @@ class TFIDFVectorizerAlgorithm():
         #generating matrix list
         for corpus in self.corpus:
             corpus.tfidf_matrix = {term: corpus.tfidf_vector.get(term, 0) for term in vocabulary}
-            # print(corpus.post.caption)
-            # print(corpus.tfidf_matrix)
             
         # calculate TF-IDF matrix for letters for given vocabulary
         self.vocabulary_matrices = [VocabularyMatrix(i) for i in vocabulary]
