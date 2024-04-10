@@ -46,6 +46,7 @@ class PostAction(models.Model):
     action = models.TextField(
         choices= ActionChoices.choices,
     )
+    created = models.DateTimeField(auto_now_add = True)
 
     objects = PostActionManager()
     
