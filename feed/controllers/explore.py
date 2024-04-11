@@ -21,6 +21,7 @@ from ghumfir.wsgi import recommendation
 #offset based
 
 class ExploreController(GenericAPIView):
+    permission_classes = [AllowAny]
     
     def get(self, request, *args, **kwargs):
         pagination  = PaginationWithSession(data = kwargs)
@@ -31,6 +32,18 @@ class ExploreController(GenericAPIView):
             size = 3
             start = (page - 1) * size
             end = start + size
+            if(request.user.id == None):
+                posts = list(Post.objects.all())
+                random.shuffle(posts)
+                paginated_posts = posts[start:end]
+                return Response({
+                                "session_id":0,
+                                "data": PostSerializer(paginated_posts, many = True).data, 
+                                "status_code": 200,
+                                "message": "Feed successfully loaded",
+                                },
+                                status= 200
+                                )
             if(session_id == 0):
                 session = ViewSession.objects.create(user_id = request.user.id)
             else:
